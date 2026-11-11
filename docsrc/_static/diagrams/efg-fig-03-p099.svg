@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 175" width="360" height="175" role="img" aria-label="Lotze's definition of parallel straight lines aα and bβ (p. 99)">
+  <title>Lotze's definition of parallel straight lines aα and bβ (p. 99)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="358" height="173" rx="4" />
+  <line class="primary" x1="25.00" y1="52.00" x2="335.00" y2="52.00" />
+  <line class="primary" x1="25.00" y1="128.00" x2="335.00" y2="128.00" />
+  <line class="aux" x1="60.00" y1="52.00" x2="85.00" y2="128.00" />
+  <line class="aux" x1="275.00" y1="52.00" x2="300.00" y2="128.00" />
+  <circle class="pt" cx="60.00" cy="52.00" r="3.2" />
+  <text class="lbl" x="54.00" y="42.00">a</text>
+  <circle class="pt" cx="275.00" cy="52.00" r="3.2" />
+  <text class="lbl" x="271.00" y="42.00">α</text>
+  <circle class="pt" cx="85.00" cy="128.00" r="3.2" />
+  <text class="lbl" x="79.00" y="146.00">b</text>
+  <circle class="pt" cx="300.00" cy="128.00" r="3.2" />
+  <text class="lbl" x="296.00" y="146.00">β</text>
+
+</svg>

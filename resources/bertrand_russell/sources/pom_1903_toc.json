@@ -1,0 +1,578 @@
+{
+  "1": {
+    "section": 1,
+    "title_html": "Definition of pure mathematics",
+    "title_text": "Definition of pure mathematics",
+    "page": 3
+  },
+  "2": {
+    "section": 2,
+    "title_html": "The principles of mathematics are no longer controversial",
+    "title_text": "The principles of mathematics are no longer controversial",
+    "page": 3
+  },
+  "3": {
+    "section": 3,
+    "title_html": "Pure mathematics uses only a few notions, and these are logical constants",
+    "title_text": "Pure mathematics uses only a few notions, and these are logical constants",
+    "page": 4
+  },
+  "4": {
+    "section": 4,
+    "title_html": "All pure mathematics follows formally from twenty premisses",
+    "title_text": "All pure mathematics follows formally from twenty premisses",
+    "page": 4
+  },
+  "5": {
+    "section": 5,
+    "title_html": "Asserts formal implications",
+    "title_text": "Asserts formal implications",
+    "page": 5
+  },
+  "6": {
+    "section": 6,
+    "title_html": "And employs variables",
+    "title_text": "And employs variables",
+    "page": 5
+  },
+  "7": {
+    "section": 7,
+    "title_html": "Which may have any value without exception",
+    "title_text": "Which may have any value without exception",
+    "page": 6
+  },
+  "8": {
+    "section": 8,
+    "title_html": "Mathematics deals with types of relations",
+    "title_text": "Mathematics deals with types of relations",
+    "page": 7
+  },
+  "9": {
+    "section": 9,
+    "title_html": "Applied mathematics is defined by the occurrence of constants which are not logical",
+    "title_text": "Applied mathematics is defined by the occurrence of constants which are not logical",
+    "page": 8
+  },
+  "10": {
+    "section": 10,
+    "title_html": "Relation of mathematics to logic",
+    "title_text": "Relation of mathematics to logic",
+    "page": 8
+  },
+  "351": {
+    "section": 351,
+    "title_html": "Retrospect",
+    "title_text": "Retrospect",
+    "page": 371
+  },
+  "352": {
+    "section": 352,
+    "title_html": "Geometry is the science of series of two or more dimensions",
+    "title_text": "Geometry is the science of series of two or more dimensions",
+    "page": 372
+  },
+  "353": {
+    "section": 353,
+    "title_html": "Non-Euclidean geometry",
+    "title_text": "Non-Euclidean geometry",
+    "page": 372
+  },
+  "354": {
+    "section": 354,
+    "title_html": "Definition of dimensions",
+    "title_text": "Definition of dimensions",
+    "page": 374
+  },
+  "355": {
+    "section": 355,
+    "title_html": "Remarks on the definition",
+    "title_text": "Remarks on the definition",
+    "page": 375
+  },
+  "356": {
+    "section": 356,
+    "title_html": "The definition of dimensions is purely logical",
+    "title_text": "The definition of dimensions is purely logical",
+    "page": 376
+  },
+  "357": {
+    "section": 357,
+    "title_html": "Complex numbers and universal algebra",
+    "title_text": "Complex numbers and universal algebra",
+    "page": 376
+  },
+  "358": {
+    "section": 358,
+    "title_html": "Algebraical generalization of number",
+    "title_text": "Algebraical generalization of number",
+    "page": 377
+  },
+  "359": {
+    "section": 359,
+    "title_html": "Definition of complex numbers",
+    "title_text": "Definition of complex numbers",
+    "page": 378
+  },
+  "360": {
+    "section": 360,
+    "title_html": "Remarks on the definition",
+    "title_text": "Remarks on the definition",
+    "page": 379
+  },
+  "361": {
+    "section": 361,
+    "title_html": "Recent threefold scrutiny of geometrical principles",
+    "title_text": "Recent threefold scrutiny of geometrical principles",
+    "page": 381
+  },
+  "362": {
+    "section": 362,
+    "title_html": "Projective, descriptive and metrical geometry",
+    "title_text": "Projective, descriptive and metrical geometry",
+    "page": 381
+  },
+  "363": {
+    "section": 363,
+    "title_html": "Projective points and straight lines",
+    "title_text": "Projective points and straight lines",
+    "page": 382
+  },
+  "364": {
+    "section": 364,
+    "title_html": "Definition of the plane",
+    "title_text": "Definition of the plane",
+    "page": 384
+  },
+  "365": {
+    "section": 365,
+    "title_html": "Harmonic ranges",
+    "title_text": "Harmonic ranges",
+    "page": 384
+  },
+  "366": {
+    "section": 366,
+    "title_html": "Involutions",
+    "title_text": "Involutions",
+    "page": 385
+  },
+  "367": {
+    "section": 367,
+    "title_html": "Projective generation of order",
+    "title_text": "Projective generation of order",
+    "page": 386
+  },
+  "368": {
+    "section": 368,
+    "title_html": "Möbius nets",
+    "title_text": "Möbius nets",
+    "page": 388
+  },
+  "369": {
+    "section": 369,
+    "title_html": "Projective order presupposed in assigning irrational coordinates",
+    "title_text": "Projective order presupposed in assigning irrational coordinates",
+    "page": 389
+  },
+  "370": {
+    "section": 370,
+    "title_html": "Anharmonic ratio",
+    "title_text": "Anharmonic ratio",
+    "page": 390
+  },
+  "371": {
+    "section": 371,
+    "title_html": "Assignment of coordinates to any point in space",
+    "title_text": "Assignment of coordinates to any point in space",
+    "page": 390
+  },
+  "372": {
+    "section": 372,
+    "title_html": "Comparison of projective and Euclidean geometry",
+    "title_text": "Comparison of projective and Euclidean geometry",
+    "page": 391
+  },
+  "373": {
+    "section": 373,
+    "title_html": "The principle of duality",
+    "title_text": "The principle of duality",
+    "page": 392
+  },
+  "374": {
+    "section": 374,
+    "title_html": "Distinction between projective and descriptive geometry",
+    "title_text": "Distinction between projective and descriptive geometry",
+    "page": 393
+  },
+  "375": {
+    "section": 375,
+    "title_html": "Method of Pasch and Peano",
+    "title_text": "Method of Pasch and Peano",
+    "page": 394
+  },
+  "376": {
+    "section": 376,
+    "title_html": "Method employing serial relations",
+    "title_text": "Method employing serial relations",
+    "page": 395
+  },
+  "377": {
+    "section": 377,
+    "title_html": "Mutual independence of axioms",
+    "title_text": "Mutual independence of axioms",
+    "page": 396
+  },
+  "378": {
+    "section": 378,
+    "title_html": "Logical definition of the class of descriptive spaces",
+    "title_text": "Logical definition of the class of descriptive spaces",
+    "page": 397
+  },
+  "379": {
+    "section": 379,
+    "title_html": "Parts of straight lines",
+    "title_text": "Parts of straight lines",
+    "page": 397
+  },
+  "380": {
+    "section": 380,
+    "title_html": "Definition of the plane",
+    "title_text": "Definition of the plane",
+    "page": 398
+  },
+  "381": {
+    "section": 381,
+    "title_html": "Solid geometry",
+    "title_text": "Solid geometry",
+    "page": 399
+  },
+  "382": {
+    "section": 382,
+    "title_html": "Descriptive geometry applies to Euclidean and hyperbolic, but not elliptic space",
+    "title_text": "Descriptive geometry applies to Euclidean and hyperbolic, but not elliptic space",
+    "page": 399
+  },
+  "383": {
+    "section": 383,
+    "title_html": "Ideal elements",
+    "title_text": "Ideal elements",
+    "page": 400
+  },
+  "384": {
+    "section": 384,
+    "title_html": "Ideal points",
+    "title_text": "Ideal points",
+    "page": 400
+  },
+  "385": {
+    "section": 385,
+    "title_html": "Ideal lines",
+    "title_text": "Ideal lines",
+    "page": 401
+  },
+  "386": {
+    "section": 386,
+    "title_html": "Ideal planes",
+    "title_text": "Ideal planes",
+    "page": 402
+  },
+  "387": {
+    "section": 387,
+    "title_html": "The removal of a suitable selection of points renders a projective space descriptive",
+    "title_text": "The removal of a suitable selection of points renders a projective space descriptive",
+    "page": 403
+  },
+  "388": {
+    "section": 388,
+    "title_html": "Metrical geometry presupposes projective or descriptive geometry",
+    "title_text": "Metrical geometry presupposes projective or descriptive geometry",
+    "page": 404
+  },
+  "389": {
+    "section": 389,
+    "title_html": "Errors in Euclid",
+    "title_text": "Errors in Euclid",
+    "page": 404
+  },
+  "390": {
+    "section": 390,
+    "title_html": "Superposition is not a valid method",
+    "title_text": "Superposition is not a valid method",
+    "page": 405
+  },
+  "391": {
+    "section": 391,
+    "title_html": "Errors in Euclid (continued)",
+    "title_text": "Errors in Euclid (continued)",
+    "page": 406
+  },
+  "392": {
+    "section": 392,
+    "title_html": "Axioms of distance",
+    "title_text": "Axioms of distance",
+    "page": 407
+  },
+  "393": {
+    "section": 393,
+    "title_html": "Stretches",
+    "title_text": "Stretches",
+    "page": 408
+  },
+  "394": {
+    "section": 394,
+    "title_html": "Order as resulting from distance alone",
+    "title_text": "Order as resulting from distance alone",
+    "page": 409
+  },
+  "395": {
+    "section": 395,
+    "title_html": "Geometries which derive the straight line from distance",
+    "title_text": "Geometries which derive the straight line from distance",
+    "page": 410
+  },
+  "396": {
+    "section": 396,
+    "title_html": "In most spaces, magnitude of divisibility can be used instead of distance",
+    "title_text": "In most spaces, magnitude of divisibility can be used instead of distance",
+    "page": 411
+  },
+  "397": {
+    "section": 397,
+    "title_html": "Meaning of magnitude of divisibility",
+    "title_text": "Meaning of magnitude of divisibility",
+    "page": 411
+  },
+  "398": {
+    "section": 398,
+    "title_html": "Difficulty of making distance independent of stretch",
+    "title_text": "Difficulty of making distance independent of stretch",
+    "page": 413
+  },
+  "399": {
+    "section": 399,
+    "title_html": "Theoretical meaning of measurement",
+    "title_text": "Theoretical meaning of measurement",
+    "page": 414
+  },
+  "400": {
+    "section": 400,
+    "title_html": "Definition of angle",
+    "title_text": "Definition of angle",
+    "page": 414
+  },
+  "401": {
+    "section": 401,
+    "title_html": "Axioms concerning angles",
+    "title_text": "Axioms concerning angles",
+    "page": 415
+  },
+  "402": {
+    "section": 402,
+    "title_html": "An angle is a stretch of rays, not a class of points",
+    "title_text": "An angle is a stretch of rays, not a class of points",
+    "page": 416
+  },
+  "403": {
+    "section": 403,
+    "title_html": "Areas and volumes",
+    "title_text": "Areas and volumes",
+    "page": 417
+  },
+  "404": {
+    "section": 404,
+    "title_html": "Right and left",
+    "title_text": "Right and left",
+    "page": 417
+  },
+  "405": {
+    "section": 405,
+    "title_html": "Non-quantitative geometry has no metrical presuppositions",
+    "title_text": "Non-quantitative geometry has no metrical presuppositions",
+    "page": 419
+  },
+  "406": {
+    "section": 406,
+    "title_html": "Historical development of non-quantitative geometry",
+    "title_text": "Historical development of non-quantitative geometry",
+    "page": 420
+  },
+  "407": {
+    "section": 407,
+    "title_html": "Non-quantitative theory of distance",
+    "title_text": "Non-quantitative theory of distance",
+    "page": 421
+  },
+  "408": {
+    "section": 408,
+    "title_html": "In descriptive geometry",
+    "title_text": "In descriptive geometry",
+    "page": 423
+  },
+  "409": {
+    "section": 409,
+    "title_html": "And in projective geometry",
+    "title_text": "And in projective geometry",
+    "page": 425
+  },
+  "410": {
+    "section": 410,
+    "title_html": "Geometrical theory of imaginary point-pairs",
+    "title_text": "Geometrical theory of imaginary point-pairs",
+    "page": 426
+  },
+  "411": {
+    "section": 411,
+    "title_html": "New projective theory of distance",
+    "title_text": "New projective theory of distance",
+    "page": 427
+  },
+  "412": {
+    "section": 412,
+    "title_html": "All kinds of spaces are definable in purely logical terms",
+    "title_text": "All kinds of spaces are definable in purely logical terms",
+    "page": 429
+  },
+  "413": {
+    "section": 413,
+    "title_html": "Definition of projective spaces of three dimensions",
+    "title_text": "Definition of projective spaces of three dimensions",
+    "page": 430
+  },
+  "414": {
+    "section": 414,
+    "title_html": "Definition of Euclidean spaces of three dimensions",
+    "title_text": "Definition of Euclidean spaces of three dimensions",
+    "page": 432
+  },
+  "415": {
+    "section": 415,
+    "title_html": "Definition of Clifford’s spaces of two dimensions",
+    "title_text": "Definition of Clifford’s spaces of two dimensions",
+    "page": 434
+  },
+  "416": {
+    "section": 416,
+    "title_html": "The continuity of a projective space",
+    "title_text": "The continuity of a projective space",
+    "page": 437
+  },
+  "417": {
+    "section": 417,
+    "title_html": "The continuity of a metrical space",
+    "title_text": "The continuity of a metrical space",
+    "page": 438
+  },
+  "418": {
+    "section": 418,
+    "title_html": "An axiom of continuity enables us to dispense with the postulate of the circle",
+    "title_text": "An axiom of continuity enables us to dispense with the postulate of the circle",
+    "page": 440
+  },
+  "419": {
+    "section": 419,
+    "title_html": "Is space prior to points?",
+    "title_text": "Is space prior to points?",
+    "page": 440
+  },
+  "420": {
+    "section": 420,
+    "title_html": "Empirical premisses and induction",
+    "title_text": "Empirical premisses and induction",
+    "page": 441
+  },
+  "421": {
+    "section": 421,
+    "title_html": "There is no reason to desire our premisses to be self-evident",
+    "title_text": "There is no reason to desire our premisses to be self-evident",
+    "page": 441
+  },
+  "422": {
+    "section": 422,
+    "title_html": "Space is an aggregate of points, not a unity",
+    "title_text": "Space is an aggregate of points, not a unity",
+    "page": 442
+  },
+  "423": {
+    "section": 423,
+    "title_html": "Absolute and relative position",
+    "title_text": "Absolute and relative position",
+    "page": 445
+  },
+  "424": {
+    "section": 424,
+    "title_html": "Lotze’s arguments against absolute position",
+    "title_text": "Lotze’s arguments against absolute position",
+    "page": 446
+  },
+  "425": {
+    "section": 425,
+    "title_html": "Lotze’s theory of relations",
+    "title_text": "Lotze’s theory of relations",
+    "page": 446
+  },
+  "426": {
+    "section": 426,
+    "title_html": "The subject-predicate theory of propositions",
+    "title_text": "The subject-predicate theory of propositions",
+    "page": 448
+  },
+  "427": {
+    "section": 427,
+    "title_html": "Lotze’s three kinds of Being",
+    "title_text": "Lotze’s three kinds of Being",
+    "page": 449
+  },
+  "428": {
+    "section": 428,
+    "title_html": "Argument from the identity of indiscernibles",
+    "title_text": "Argument from the identity of indiscernibles",
+    "page": 451
+  },
+  "429": {
+    "section": 429,
+    "title_html": "Points are not active",
+    "title_text": "Points are not active",
+    "page": 452
+  },
+  "430": {
+    "section": 430,
+    "title_html": "Argument from the necessary truths of geometry",
+    "title_text": "Argument from the necessary truths of geometry",
+    "page": 454
+  },
+  "431": {
+    "section": 431,
+    "title_html": "Points do not imply one another",
+    "title_text": "Points do not imply one another",
+    "page": 454
+  },
+  "432": {
+    "section": 432,
+    "title_html": "The present work is diametrically opposed to Kant",
+    "title_text": "The present work is diametrically opposed to Kant",
+    "page": 456
+  },
+  "433": {
+    "section": 433,
+    "title_html": "Summary of Kant’s theory",
+    "title_text": "Summary of Kant’s theory",
+    "page": 456
+  },
+  "434": {
+    "section": 434,
+    "title_html": "Mathematical reasoning requires no extra-logical element",
+    "title_text": "Mathematical reasoning requires no extra-logical element",
+    "page": 457
+  },
+  "435": {
+    "section": 435,
+    "title_html": "Kant’s mathematical antinomies",
+    "title_text": "Kant’s mathematical antinomies",
+    "page": 458
+  },
+  "436": {
+    "section": 436,
+    "title_html": "Summary of Part VI",
+    "title_text": "Summary of Part VI",
+    "page": 461
+  }
+}

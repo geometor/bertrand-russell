@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 210" width="230" height="210" role="img" aria-label="Sphereland globe with poles N, S, equator EW, and meridian NBS (p. 101)">
+  <title>Sphereland globe with poles N, S, equator EW, and meridian NBS (p. 101)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="228" height="208" rx="4" />
+  <circle class="primary" cx="115.0" cy="105.0" r="72.0" />
+  <ellipse class="aux" cx="115.0" cy="105.0" rx="72.0" ry="22" />
+  <path class="accent" d="M 115.0 33.0 A 38 72.0 0 0 0 115.0 177.0" />
+  <path class="aux" d="M 115.0 33.0 A 38 72.0 0 0 1 115.0 177.0" />
+  <circle class="pt" cx="115.00" cy="33.00" r="3.2" />
+  <text class="lbl" x="110.00" y="25.00">N</text>
+  <circle class="pt" cx="115.00" cy="177.00" r="3.2" />
+  <text class="lbl" x="110.00" y="195.00">S</text>
+  <circle class="pt" cx="43.00" cy="105.00" r="3.2" />
+  <text class="lbl" x="26.00" y="110.00">E</text>
+  <circle class="pt" cx="187.00" cy="105.00" r="3.2" />
+  <text class="lbl" x="194.00" y="110.00">W</text>
+  <circle class="pt-accent" cx="82.00" cy="74.00" r="3.2" />
+  <text class="lbl" x="66.00" y="70.00">B</text>
+  <circle class="pt" cx="81.00" cy="134.00" r="3.2" />
+  <text class="lbl" x="66.00" y="144.00">a</text>
+
+</svg>
