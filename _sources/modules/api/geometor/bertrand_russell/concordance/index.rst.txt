@@ -1,0 +1,152 @@
+geometor.bertrand_russell.concordance
+=====================================
+
+.. py:module:: geometor.bertrand_russell.concordance
+
+.. autoapi-nested-parse::
+
+   Data loaders, integrity verifiers, and concordance queries for Russell's geometric treatises.
+
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.concordance.RussellLocus
+   geometor.bertrand_russell.concordance.ExternalLocus
+   geometor.bertrand_russell.concordance.ConcordanceEntry
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.concordance.get_repo_root
+   geometor.bertrand_russell.concordance.apparatus_slug
+   geometor.bertrand_russell.concordance.load_sources_manifest
+   geometor.bertrand_russell.concordance.verify_source_checksums
+   geometor.bertrand_russell.concordance.load_concordance
+   geometor.bertrand_russell.concordance.find_concordance_by_corpus
+   geometor.bertrand_russell.concordance.find_concordance_by_section
+   geometor.bertrand_russell.concordance.load_apparatus_registries
+
+
+Module Contents
+---------------
+
+.. py:function:: get_repo_root() -> pathlib.Path
+
+   Return the root directory of the ``geometor/bertrand-russell`` repository.
+
+
+.. py:function:: apparatus_slug(key: str) -> str
+
+   Convert an apparatus key into the deterministic anchor slug used by ``publish``.
+
+
+.. py:class:: RussellLocus
+
+   Locus reference inside one of Russell's geometric treatises (1897 or 1903).
+
+
+   .. py:attribute:: chapter
+      :type:  str
+
+
+   .. py:attribute:: sections
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: pages
+      :type:  str
+
+
+   .. py:attribute:: anchor
+      :type:  str
+
+
+   .. py:attribute:: verbatim_excerpt
+      :type:  str
+      :value: ''
+
+
+
+.. py:class:: ExternalLocus
+
+   Cross-corpus locus connecting Russell to Hoenen, Heath's Euclid, Pappus, Hilbert, or Wildberger.
+
+
+   .. py:attribute:: corpus
+      :type:  str
+
+
+   .. py:attribute:: work
+      :type:  str
+
+
+   .. py:attribute:: locus
+      :type:  str
+
+
+   .. py:attribute:: relation
+      :type:  str
+
+
+.. py:class:: ConcordanceEntry
+
+   Structured bidirectional concordance entry across Russell's 1897/1903 treatises and GEOMETOR.
+
+
+   .. py:attribute:: id
+      :type:  str
+
+
+   .. py:attribute:: theme
+      :type:  str
+
+
+   .. py:attribute:: russell_1903
+      :type:  RussellLocus
+
+
+   .. py:attribute:: russell_1897
+      :type:  RussellLocus
+
+
+   .. py:attribute:: external_loci
+      :type:  tuple[ExternalLocus, ...]
+
+
+.. py:function:: load_sources_manifest(repo_root: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load ``resources/bertrand_russell/sources_manifest.json``.
+
+
+.. py:function:: verify_source_checksums(repo_root: pathlib.Path | None = None) -> list[tuple[str, bool]]
+
+   Verify SHA-256 digests and byte lengths of all archived primary source files.
+
+
+.. py:function:: load_concordance(repo_root: pathlib.Path | None = None) -> list[ConcordanceEntry]
+
+   Load and parse all entries from ``resources/bertrand_russell/concordance.json``.
+
+
+.. py:function:: find_concordance_by_corpus(corpus_query: str, repo_root: pathlib.Path | None = None) -> list[ConcordanceEntry]
+
+   Return concordance entries referencing a given corpus substring (e.g. ``'hoenen'``, ``'euclid'``).
+
+
+.. py:function:: find_concordance_by_section(work: str, section: int | str, repo_root: pathlib.Path | None = None) -> list[ConcordanceEntry]
+
+   Return concordance entries linked to a numbered section in ``'1903'`` or ``'1897'``.
+
+
+.. py:function:: load_apparatus_registries(repo_root: pathlib.Path | None = None) -> dict[str, dict[str, Any]]
+
+   Load ``citations.json``, ``persons.json``, and ``glossary.json`` from ``resources/``.
+
+

@@ -1,0 +1,369 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.bertrand_russell.concordance &mdash; GEOMETOR • bertrand-russell</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <img src="../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">bertrand-russell</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../principles_of_mathematics/index.html"  >THE PRINCIPLES OF MATHEMATICS</a>
+        </li>
+        <li>
+          <a href="../../../../../foundations_of_geometry/index.html"  >AN ESSAY ON THE FOUNDATIONS OF GEOMETRY</a>
+        </li>
+        <li>
+          <a href="../../../../../concordance.html"  >CROSS-CORPUS CONCORDANCE</a>
+        </li>
+        <li>
+          <a href="../../../../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../../../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../../../index.html" class="is-active" aria-selected="true" >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; bertrand-russell</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • bertrand-russell</a>
+          </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="../../../../index.html">modules</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../compile_codex/index.html" title="geometor.bertrand_russell.compile_codex">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../diagrams/index.html" title="geometor.bertrand_russell.diagrams"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-geometor.bertrand_russell.concordance">
+        <span id="geometor-bertrand-russell-concordance"></span><h1>geometor.bertrand_russell.concordance<a class="headerlink" href="#module-geometor.bertrand_russell.concordance" title="Link to this heading">¶</a></h1>
+        <p>Data loaders, integrity verifiers, and concordance queries for Russell’s geometric treatises.</p>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.RussellLocus" title="geometor.bertrand_russell.concordance.RussellLocus"><code class="xref py py-obj docutils literal notranslate"><span class="pre">RussellLocus</span></code></a></p></td>
+        <td><p>Locus reference inside one of Russell's geometric treatises (1897 or 1903).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.ExternalLocus" title="geometor.bertrand_russell.concordance.ExternalLocus"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ExternalLocus</span></code></a></p></td>
+        <td><p>Cross-corpus locus connecting Russell to Hoenen, Heath's Euclid, Pappus, Hilbert, or Wildberger.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.ConcordanceEntry" title="geometor.bertrand_russell.concordance.ConcordanceEntry"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ConcordanceEntry</span></code></a></p></td>
+        <td><p>Structured bidirectional concordance entry across Russell's 1897/1903 treatises and GEOMETOR.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.get_repo_root" title="geometor.bertrand_russell.concordance.get_repo_root"><code class="xref py py-obj docutils literal notranslate"><span class="pre">get_repo_root</span></code></a>() → pathlib.Path</p></td>
+        <td><p>Return the root directory of the <code class="docutils literal notranslate"><span class="pre">geometor/bertrand-russell</span></code> repository.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.apparatus_slug" title="geometor.bertrand_russell.concordance.apparatus_slug"><code class="xref py py-obj docutils literal notranslate"><span class="pre">apparatus_slug</span></code></a>(key) → str</p></td>
+        <td><p>Convert an apparatus key into the deterministic anchor slug used by <code class="docutils literal notranslate"><span class="pre">publish</span></code>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.load_sources_manifest" title="geometor.bertrand_russell.concordance.load_sources_manifest"><code class="xref py py-obj docutils literal notranslate"><span class="pre">load_sources_manifest</span></code></a>([repo_root]) → dict[str, Any]</p></td>
+        <td><p>Load <code class="docutils literal notranslate"><span class="pre">resources/bertrand_russell/sources_manifest.json</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.verify_source_checksums" title="geometor.bertrand_russell.concordance.verify_source_checksums"><code class="xref py py-obj docutils literal notranslate"><span class="pre">verify_source_checksums</span></code></a>([repo_root]) → list[tuple[str, bool]]</p></td>
+        <td><p>Verify SHA-256 digests and byte lengths of all archived primary source files.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.load_concordance" title="geometor.bertrand_russell.concordance.load_concordance"><code class="xref py py-obj docutils literal notranslate"><span class="pre">load_concordance</span></code></a>([repo_root]) → list[ConcordanceEntry]</p></td>
+        <td><p>Load and parse all entries from <code class="docutils literal notranslate"><span class="pre">resources/bertrand_russell/concordance.json</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.find_concordance_by_corpus" title="geometor.bertrand_russell.concordance.find_concordance_by_corpus"><code class="xref py py-obj docutils literal notranslate"><span class="pre">find_concordance_by_corpus</span></code></a>(corpus_query[, repo_root]) → list[ConcordanceEntry]</p></td>
+        <td><p>Return concordance entries referencing a given corpus substring (e.g. <code class="docutils literal notranslate"><span class="pre">'hoenen'</span></code>, <code class="docutils literal notranslate"><span class="pre">'euclid'</span></code>).</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.find_concordance_by_section" title="geometor.bertrand_russell.concordance.find_concordance_by_section"><code class="xref py py-obj docutils literal notranslate"><span class="pre">find_concordance_by_section</span></code></a>(work, section[, repo_root]) → list[ConcordanceEntry]</p></td>
+        <td><p>Return concordance entries linked to a numbered section in <code class="docutils literal notranslate"><span class="pre">'1903'</span></code> or <code class="docutils literal notranslate"><span class="pre">'1897'</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.bertrand_russell.concordance.load_apparatus_registries" title="geometor.bertrand_russell.concordance.load_apparatus_registries"><code class="xref py py-obj docutils literal notranslate"><span class="pre">load_apparatus_registries</span></code></a>([repo_root]) → dict[str, dict[str, Any]]</p></td>
+        <td><p>Load <code class="docutils literal notranslate"><span class="pre">citations.json</span></code>, <code class="docutils literal notranslate"><span class="pre">persons.json</span></code>, and <code class="docutils literal notranslate"><span class="pre">glossary.json</span></code> from <code class="docutils literal notranslate"><span class="pre">resources/</span></code>.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.get_repo_root">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">get_repo_root</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">pathlib.Path</span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.get_repo_root" title="Link to this definition">¶</a></dt>
+        <dd><p>Return the root directory of the <code class="docutils literal notranslate"><span class="pre">geometor/bertrand-russell</span></code> repository.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.apparatus_slug">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">apparatus_slug</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">key</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.apparatus_slug" title="Link to this definition">¶</a></dt>
+        <dd><p>Convert an apparatus key into the deterministic anchor slug used by <code class="docutils literal notranslate"><span class="pre">publish</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.RussellLocus">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">RussellLocus</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.RussellLocus" title="Link to this definition">¶</a></dt>
+        <dd><p>Locus reference inside one of Russell’s geometric treatises (1897 or 1903).</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.RussellLocus.chapter">
+        <span class="sig-name descname"><span class="pre">chapter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.RussellLocus.chapter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.RussellLocus.sections">
+        <span class="sig-name descname"><span class="pre">sections</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.RussellLocus.sections" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.RussellLocus.pages">
+        <span class="sig-name descname"><span class="pre">pages</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.RussellLocus.pages" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.RussellLocus.anchor">
+        <span class="sig-name descname"><span class="pre">anchor</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.RussellLocus.anchor" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.RussellLocus.verbatim_excerpt">
+        <span class="sig-name descname"><span class="pre">verbatim_excerpt</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><span class="property"><span class="w"> </span><span class="p"><span class="pre">=</span></span><span class="w"> </span><span class="pre">''</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.RussellLocus.verbatim_excerpt" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ExternalLocus">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">ExternalLocus</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ExternalLocus" title="Link to this definition">¶</a></dt>
+        <dd><p>Cross-corpus locus connecting Russell to Hoenen, Heath’s Euclid, Pappus, Hilbert, or Wildberger.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ExternalLocus.corpus">
+        <span class="sig-name descname"><span class="pre">corpus</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ExternalLocus.corpus" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ExternalLocus.work">
+        <span class="sig-name descname"><span class="pre">work</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ExternalLocus.work" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ExternalLocus.locus">
+        <span class="sig-name descname"><span class="pre">locus</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ExternalLocus.locus" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ExternalLocus.relation">
+        <span class="sig-name descname"><span class="pre">relation</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ExternalLocus.relation" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ConcordanceEntry">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">ConcordanceEntry</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ConcordanceEntry" title="Link to this definition">¶</a></dt>
+        <dd><p>Structured bidirectional concordance entry across Russell’s 1897/1903 treatises and GEOMETOR.</p>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ConcordanceEntry.id">
+        <span class="sig-name descname"><span class="pre">id</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ConcordanceEntry.id" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ConcordanceEntry.theme">
+        <span class="sig-name descname"><span class="pre">theme</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ConcordanceEntry.theme" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ConcordanceEntry.russell_1903">
+        <span class="sig-name descname"><span class="pre">russell_1903</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference internal" href="#geometor.bertrand_russell.concordance.RussellLocus" title="geometor.bertrand_russell.concordance.RussellLocus"><span class="pre">RussellLocus</span></a></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ConcordanceEntry.russell_1903" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ConcordanceEntry.russell_1897">
+        <span class="sig-name descname"><span class="pre">russell_1897</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><a class="reference internal" href="#geometor.bertrand_russell.concordance.RussellLocus" title="geometor.bertrand_russell.concordance.RussellLocus"><span class="pre">RussellLocus</span></a></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ConcordanceEntry.russell_1897" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.ConcordanceEntry.external_loci">
+        <span class="sig-name descname"><span class="pre">external_loci</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.bertrand_russell.concordance.ExternalLocus" title="geometor.bertrand_russell.concordance.ExternalLocus"><span class="pre">ExternalLocus</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.ConcordanceEntry.external_loci" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.load_sources_manifest">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">load_sources_manifest</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.load_sources_manifest" title="Link to this definition">¶</a></dt>
+        <dd><p>Load <code class="docutils literal notranslate"><span class="pre">resources/bertrand_russell/sources_manifest.json</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.verify_source_checksums">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">verify_source_checksums</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">bool</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.verify_source_checksums" title="Link to this definition">¶</a></dt>
+        <dd><p>Verify SHA-256 digests and byte lengths of all archived primary source files.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.load_concordance">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">load_concordance</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.bertrand_russell.concordance.ConcordanceEntry" title="geometor.bertrand_russell.concordance.ConcordanceEntry"><span class="pre">ConcordanceEntry</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.load_concordance" title="Link to this definition">¶</a></dt>
+        <dd><p>Load and parse all entries from <code class="docutils literal notranslate"><span class="pre">resources/bertrand_russell/concordance.json</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.find_concordance_by_corpus">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">find_concordance_by_corpus</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">corpus_query</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.bertrand_russell.concordance.ConcordanceEntry" title="geometor.bertrand_russell.concordance.ConcordanceEntry"><span class="pre">ConcordanceEntry</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.find_concordance_by_corpus" title="Link to this definition">¶</a></dt>
+        <dd><p>Return concordance entries referencing a given corpus substring (e.g. <code class="docutils literal notranslate"><span class="pre">'hoenen'</span></code>, <code class="docutils literal notranslate"><span class="pre">'euclid'</span></code>).</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.find_concordance_by_section">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">find_concordance_by_section</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">work</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">section</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">str</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.bertrand_russell.concordance.ConcordanceEntry" title="geometor.bertrand_russell.concordance.ConcordanceEntry"><span class="pre">ConcordanceEntry</span></a><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.find_concordance_by_section" title="Link to this definition">¶</a></dt>
+        <dd><p>Return concordance entries linked to a numbered section in <code class="docutils literal notranslate"><span class="pre">'1903'</span></code> or <code class="docutils literal notranslate"><span class="pre">'1897'</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.bertrand_russell.concordance.load_apparatus_registries">
+        <span class="sig-prename descclassname"><span class="pre">geometor.bertrand_russell.concordance.</span></span><span class="sig-name descname"><span class="pre">load_apparatus_registries</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">repo_root</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.bertrand_russell.concordance.load_apparatus_registries" title="Link to this definition">¶</a></dt>
+        <dd><p>Load <code class="docutils literal notranslate"><span class="pre">citations.json</span></code>, <code class="docutils literal notranslate"><span class="pre">persons.json</span></code>, and <code class="docutils literal notranslate"><span class="pre">glossary.json</span></code> from <code class="docutils literal notranslate"><span class="pre">resources/</span></code>.</p>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../compile_codex/index.html" title="geometor.bertrand_russell.compile_codex">&larr; <span class="nav-label">geometor.bertrand_russell.compile_codex</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • bertrand-russell</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../diagrams/index.html" title="geometor.bertrand_russell.diagrams"><span class="nav-label">geometor.bertrand_russell.diagrams</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../log/26.315-064500/index.html">Initial Dual Book Codex of Bertrand Russell’s Foundational Treatises on Geometry (1897 & 1903)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../../../../tags/bertrand-russell.html">bertrand-russell</a></li>
+        <li><a href="../../../../../tags/euclid.html">euclid</a></li>
+        <li><a href="../../../../../tags/foundations-of-geometry.html">foundations-of-geometry</a></li>
+        <li><a href="../../../../../tags/hoenen.html">hoenen</a></li>
+        <li><a href="../../../../../tags/pappus.html">pappus</a></li>
+        <li><a href="../../../../../tags/principles-of-mathematics.html">principles-of-mathematics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../../../../categories/codex.html">codex</a></li>
+        <li><a href="../../../../../categories/concordance.html">concordance</a></li>
+        <li><a href="../../../../../categories/foundations.html">foundations</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../about/index.html"  >About</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 1897, 1903 Cambridge University Press • Digital Edition GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

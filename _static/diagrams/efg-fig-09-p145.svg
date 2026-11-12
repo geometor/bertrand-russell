@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 218" width="340" height="218" role="img" aria-label="Projective construction of the plane OPQ via p, q and P′, Q′ (p. 145)">
+  <title>Projective construction of the plane OPQ via p, q and P′, Q′ (p. 145)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="338" height="216" rx="4" />
+  <line class="primary" x1="165.00" y1="30.00" x2="62.00" y2="182.00" />
+  <line class="primary" x1="165.00" y1="30.00" x2="278.00" y2="182.00" />
+  <line class="primary" x1="36.00" y1="182.00" x2="304.00" y2="182.00" />
+  <line class="accent" x1="103.20" y1="121.20" x2="232.80" y2="121.20" />
+  <line class="aux" x1="165.00" y1="30.00" x2="118.00" y2="182.00" />
+  <line class="aux" x1="165.00" y1="30.00" x2="224.00" y2="182.00" />
+  <circle class="pt" cx="165.00" cy="30.00" r="3.2" />
+  <text class="lbl" x="170.00" y="24.00">O</text>
+  <circle class="pt" cx="62.00" cy="182.00" r="3.2" />
+  <text class="lbl" x="48.00" y="199.00">P</text>
+  <circle class="pt" cx="278.00" cy="182.00" r="3.2" />
+  <text class="lbl" x="284.00" y="199.00">Q</text>
+  <circle class="pt-accent" cx="103.20" cy="121.20" r="3.2" />
+  <text class="lbl" x="87.20" y="119.20">p</text>
+  <circle class="pt-accent" cx="232.80" cy="121.20" r="3.2" />
+  <text class="lbl" x="240.80" y="119.20">q</text>
+  <circle class="pt" cx="118.00" cy="182.00" r="3.2" />
+  <text class="lbl" x="112.00" y="199.00">P′</text>
+  <circle class="pt" cx="224.00" cy="182.00" r="3.2" />
+  <text class="lbl" x="220.00" y="199.00">Q′</text>
+
+</svg>

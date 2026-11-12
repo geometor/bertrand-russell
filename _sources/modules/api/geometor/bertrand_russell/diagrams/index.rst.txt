@@ -1,0 +1,41 @@
+geometor.bertrand_russell.diagrams
+==================================
+
+.. py:module:: geometor.bertrand_russell.diagrams
+
+.. autoapi-nested-parse::
+
+   Exact vector SVG reconstructions of the 9 geometric figures in Russell's 1897 treatise.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.diagrams.Point
+   geometor.bertrand_russell.diagrams.DIAGRAM_SPECS
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.diagrams.generate_all_diagrams
+
+
+Module Contents
+---------------
+
+.. py:data:: Point
+
+.. py:data:: DIAGRAM_SPECS
+   :type:  dict[str, tuple[str, object]]
+
+.. py:function:: generate_all_diagrams(output_dir: pathlib.Path | None = None) -> list[pathlib.Path]
+
+   Generate all 9 vector SVG diagrams into ``docsrc/_static/diagrams/``.
+
+

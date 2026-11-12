@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 175" width="280" height="175" role="img" aria-label="Riemannian bundle of geodesics forming a 2-manifold (p. 21)">
+  <title>Riemannian bundle of geodesics forming a 2-manifold (p. 21)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="278" height="173" rx="4" />
+  <path class="primary" d="M 38 148 Q 125 112 228 36" />
+  <path class="primary" d="M 38 148 Q 138 138 246 126" />
+  <path class="aux" d="M 38 148 Q 130 120 236 66" />
+  <path class="aux" d="M 38 148 Q 134 129 242 96" />
+  <path class="accent" d="M 228 36 Q 244 80 246 126" />
+  <circle class="pt" cx="38.00" cy="148.00" r="3.2" />
+  <text class="lbl" x="22.00" y="154.00">O</text>
+  <text class="lbl" x="190" y="34">d′x</text>
+  <text class="lbl" x="206" y="144">d″x</text>
+  <text class="lbl" x="245" y="76">dx</text>
+
+</svg>

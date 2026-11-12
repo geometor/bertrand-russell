@@ -1,0 +1,64 @@
+geometor.bertrand_russell.compile_codex
+=======================================
+
+.. py:module:: geometor.bertrand_russell.compile_codex
+
+.. autoapi-nested-parse::
+
+   Deterministic HTML-to-RST Book Codex compiler for Bertrand Russell's 1897 and 1903 treatises.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.compile_codex.POM_CHAPTER_SPECS
+   geometor.bertrand_russell.compile_codex.POM_INCLUDED_SECTIONS
+   geometor.bertrand_russell.compile_codex.POM_INCLUDED_CHAPTERS
+   geometor.bertrand_russell.compile_codex.EFG_CHAPTER_SPECS
+   geometor.bertrand_russell.compile_codex.EFG_FIGURE_INFO
+   geometor.bertrand_russell.compile_codex.GREEK_TO_TEX
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.compile_codex.compile_all
+   geometor.bertrand_russell.compile_codex.main
+
+
+Module Contents
+---------------
+
+.. py:data:: POM_CHAPTER_SPECS
+   :type:  tuple[dict[str, Any], ...]
+
+.. py:data:: POM_INCLUDED_SECTIONS
+   :type:  frozenset[int]
+
+.. py:data:: POM_INCLUDED_CHAPTERS
+   :type:  dict[int, str]
+
+.. py:data:: EFG_CHAPTER_SPECS
+   :type:  tuple[dict[str, Any], ...]
+
+.. py:data:: EFG_FIGURE_INFO
+   :type:  dict[str, tuple[str, str]]
+
+.. py:data:: GREEK_TO_TEX
+   :type:  dict[str, str]
+
+.. py:function:: compile_all(repo_root: pathlib.Path | None = None) -> dict[str, int]
+
+   Compile all SVG figures, Codex I (1903), Codex II (1897), and scholarly apparatus into ``docsrc/``.
+
+
+.. py:function:: main() -> None
+
+   CLI entry point to compile the Bertrand Russell Geometric Codex.
+
+

@@ -1,0 +1,260 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CHAPTER XLIX &mdash; The Principles of Mathematics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../_static/favicon.ico" />
+</head>
+
+<body class="is-book-page book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../index.html">
+        <img src="../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">bertrand-russell</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../index.html" class="is-active" aria-selected="true" >THE PRINCIPLES OF MATHEMATICS</a>
+        </li>
+        <li>
+          <a href="../../foundations_of_geometry/index.html"  >AN ESSAY ON THE FOUNDATIONS OF GEOMETRY</a>
+        </li>
+        <li>
+          <a href="../../concordance.html"  >CROSS-CORPUS CONCORDANCE</a>
+        </li>
+        <li>
+          <a href="../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../modules/index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../index.html" title="Return to Project Portal">&larr; bertrand-russell</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">The Principles of Mathematics</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch-48-relation/ch-48-relation-en.html" title="CHAPTER XLVIII">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <nav class="book-tracks-nav" aria-label="Document Tracks">
+              <strong class="book-track-item is-active" aria-current="page">English</strong>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="ch-49-spaces-summary.html">Summary</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="ch-49-spaces-notes.html">Notes</a>
+            </nav>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch-50-continuity/ch-50-continuity-en.html" title="CHAPTER L"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content folio-book-page" role="main">
+        <section class="level-1" id="chapter-xlix">
+        <span id="pom-ch-49-spaces-en"></span><span id="pom-ch-49-spaces"></span><h1>CHAPTER XLIX<a class="headerlink" href="#chapter-xlix" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Part VI — Space — Definitions of Various Spaces (§§ 412–415, pp. 429–436)</p>
+        <nav class="contents local" id="analytical-section-outline">
+        <p class="topic-title">Analytical Section Outline</p>
+        <ul class="simple">
+        <li><p><a class="reference internal" href="#all-kinds-of-spaces-are-definable-in-purely-logical-terms" id="id8">§ 412. All kinds of spaces are definable in purely logical terms</a></p></li>
+        <li><p><a class="reference internal" href="#definition-of-projective-spaces-of-three-dimensions" id="id9">§ 413. Definition of projective spaces of three dimensions</a></p></li>
+        <li><p><a class="reference internal" href="#definition-of-euclidean-spaces-of-three-dimensions" id="id10">§ 414. Definition of Euclidean spaces of three dimensions</a></p></li>
+        <li><p><a class="reference internal" href="#definition-of-cliffords-spaces-of-two-dimensions" id="id11">§ 415. Definition of Clifford’s spaces of two dimensions</a></p></li>
+        </ul>
+        </nav>
+        <section class="level-2" id="all-kinds-of-spaces-are-definable-in-purely-logical-terms">
+        <span id="pom-412"></span><h2>§ 412. All kinds of spaces are definable in purely logical terms<a class="headerlink" href="#all-kinds-of-spaces-are-definable-in-purely-logical-terms" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§412" data-folio="§412" data-page="p. 429">[Folio §412 | p. p. 429]</div>
+        <p id="pom-p430"><span id="pom-p429"></span><strong>412.</strong> In the preceding discussions of different Geometries, I have usually, for the sake of convenience, adhered to the distinction between definitions and indefinables on the one hand, and axioms or postulates on the other. But this distinction, in pure mathematics, has no validity except as regards the ideas and propositions of Logic. In pure mathematics, all the propositions state logical implications containing a variable. This is, in fact, the definition, or part of the definition, of pure mathematics. The implications stated must flow wholly from the propositions of Logic, which are prior to those of other branches of mathematics. Logic and the rest of pure mathematics are distinguished from applied mathematics by the fact that, in it, all the constants are definable in terms of some eight fundamental notions, which we agreed to call logical constants. What distinguishes other branches of mathematics from Logic is merely complication, which usually takes the form of a hypothesis that the variable belongs to some rather complicated class. Such a class will usually be denoted by a single symbol; and the statement that the class in question is to be represented by such and such a symbol is what mathematicians call a <em>definition</em>. That is to say, a definition is no part of mathematics at all, and does not make any statement concerning the entities dealt with by mathematics, but is simply and solely a statement of a symbolic abbreviation: it is a proposition concerning symbols, not concerning what is symbolized. I do not mean, of course, to affirm that the word <em>definition</em> has no other meaning, but only that this is its true mathematical meaning. All mathematics is built up by combinations of a certain number of primitive ideas, and all its propositions can, but for the length of the resulting formulae, be explicitly stated in terms of these primitive ideas; hence all definitions are theoretically superfluous. But further, when Logic is extended, as it should be, so as to include the general theory of relations, there are, I believe, no primitive ideas in mathematics except such as belong to the domain of Logic. In the previous chapters of this Part, I have spoken, as most authors do, of certain indefinables in Geometry. But this was a concession, and must now be rectified. In mathematics, two classes of entities which have internal relations of the same logical type are equivalent. Hence we are never dealing with one particular class of entities, but with a whole class of classes, namely, with all classes having internal relations of some specified type. And by the <em>type</em> of a relation I mean its purely logical properties, such as are denoted by the words one-one, transitive, symmetrical, and so on. Thus for example we defined the class of classes called <em>progression</em> by certain logical characteristics of the internal relations of terms of any class which is a progression, and we found that finite Arithmetic, in so far as it deals with numbers, and not with the terms or classes of which numbers can be asserted, applies equally to all progressions. And when it is realized that all mathematical ideas, except those of Logic, can be defined, it is seen also that there are no primitive propositions in mathematics except those of Logic. The so-called axioms of Geometry, for example, when Geometry is considered as a branch of pure mathematics, are merely the protasis in the hypotheticals which constitute the science. They would be primitive propositions if, as in applied mathematics, they were themselves asserted; but so long as we only assert hypotheticals (<em>i.e.</em> propositions of the form “<em>A</em> implies <em>B</em>”) in which the supposed axioms appear as protasis, there is no reason to assert the protasis, nor, consequently, to admit genuine axioms. My object in the present chapter is to execute the purely formal task imposed by these considerations, and to set forth the strict definitions of various spaces, from which, without indefinables and without primitive propositions, the various Geometries will follow. I shall content myself with the definition of some of the more important spaces, since my object is chiefly to show that such definitions are possible.</p>
+        </section>
+        <section class="level-2" id="definition-of-projective-spaces-of-three-dimensions">
+        <span id="pom-413"></span><h2>§ 413. Definition of projective spaces of three dimensions<a class="headerlink" href="#definition-of-projective-spaces-of-three-dimensions" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§413" data-folio="§413" data-page="p. 430">[Folio §413 | p. p. 430]</div>
+        <p id="pom-p431"><strong>413.</strong> (1) <em>Projective Space of three dimensions.</em> A projective space of three dimensions is any class of entities such that there are at least two members of the class; between any two distinct members there is one and only one symmetrical aliorelative, which is connected, and is transitive so far as its being an aliorelative will permit, and has further properties to be enumerated shortly; whatever such aliorelative may be taken, there is a term of the projective space not belonging to the field of the said aliorelative, which field is wholly contained in the projective space, and is called, for shortness, a <em>straight line</em>, and is denoted by <em>ab</em>, if <em>a</em>, <em>b</em> be any two of its terms; every straight line which contains two terms contains at least one other term; if <em>a</em>, <em>b</em>, <em>c</em> be any three terms of the projective space, such that <em>c</em> does not belong to the class <em>ab</em>, then there is at least one term of the projective space not belonging to any class <em>cx</em>, where <em>x</em> is any term of <em>ab</em>; under the same circumstances, if $a'$ be a term of <em>bc</em>, $b'$ a term of <em>ac</em>, the classes $aa'$, $bb'$ have a common part; if <em>d</em> be any term, other than <em>a</em> and <em>b</em>, of the class <em>ab</em>, and <em>u</em>, <em>v</em> any two terms such that <em>d</em> belongs to the class <em>uv</em>, but neither <em>u</em> nor <em>v</em> belongs to the class <em>ab</em>, and if <em>y</em> be the only term of the common part of <em>au</em> and <em>bv</em>, <em>z</em> the only term of the common part of <em>av</em> and <em>bu</em>, <em>x</em> the only term of the common part of <em>yz</em> and <em>ab</em>, then <em>x</em> is not identical with <em>d</em> (under these circumstances it may be proved that the term <em>x</em> is independent of <em>u</em> and <em>v</em>, and is uniquely determined by <em>a</em>, <em>b</em>, <em>d</em>; hence <em>x</em> and <em>d</em> have a symmetrical one-one relation which may be denoted, for brevity, by <em>xH</em>$_{ab}$<em>d</em>; if <em>y</em>, <em>e</em> be two further terms of the projective space, belonging to the class <em>xd</em>, and such that there are two terms <em>g</em>, <em>h</em> of the class <em>xd</em> for which we have <em>gH</em>$_{xd}$<em>h</em> and <em>gH</em>$_{ye}$<em>h</em>, then we write for shortness <em>yQ</em>$_{xd}$<em>e</em> to express this relation of the four terms <em>x</em>, <em>d</em>, <em>y</em>, <em>e</em>); a projective space is such that the relation $Q_{xd}$, whatever terms of the space <em>x</em> and <em>d</em> may be, is transitive; also that, if <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em> be any four distinct terms of one straight line, two and only two of the propositions <em>aQ</em>$_{bc}$<em>d</em>, <em>aQ</em>$_{bd}$<em>c</em>, <em>aQ</em>$_{cd}$<em>b</em> will hold; from these properties of projective space it results that the terms of a line form a series; this series is continuous in the sense defined in §277; finally, if <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>e</em> be any five terms of a projective space, there will be in the class <em>ae</em> at least one term <em>x</em>, and in the class <em>cd</em> at least one term <em>y</em>, such that <em>x</em> belongs to the class <em>by</em>.</p>
+        <p id="pom-p432">This is a formal definition of a projective space of three dimensions. Whatever class of entities fulfils this definition is a projective space. I have enclosed in brackets a passage in which no new properties of projective space are introduced, which serves only the purpose of convenience of language. There is a whole class of projective spaces, and this class has an infinite number of members. The existence-theorem may be proved to begin with, by constructing a projective space out of complex numbers in the purely arithmetical sense defined in <a class="reference internal" href="../ch-44-dimensions/ch-44-dimensions-en.html#pom-360"><span class="std std-ref">§360</span></a>. We then know that the class of projective spaces has at least four members, since we know of four sub-classes contained under it, each of which has at least one member. In the first place, we have the above arithmetical space. In the second place, we have the projective space of descriptive Geometry, in which the terms of the projective space are sheaves of lines in the descriptive space. In the third place, we have the polar form of elliptic space, which is distinguished by the addition of certain metrical properties of stretches, consistent with, but not implied by, the definition of projective space; in the fourth place, we have the antipodal form of elliptic Geometry, in which the terms of the projective space are pairs of terms of the said elliptic space. And any number of varieties of projective space may be obtained by adding properties not inconsistent with the definition—for example, by insisting that all planes are to be red or blue. In fact, every class of $2^{\alpha_0}$ terms (<em>i.e.</em> of the number of terms in a continuous series) is a projective space; for when two classes are similar, if one is the field of a certain relation, the other will be the field of a like relation. Hence by correlation with a projective space, any class of $2^{\alpha_0}$ terms becomes itself a projective space. The fact is, that the standpoint of line-Geometry is more fundamental where definition is concerned: a projective space would be best defined as a class <em>K</em> of relations whose fields are straight lines satisfying the above conditions. This point is strictly analogous to the substitution of serial relations for series which we found desirable in Part IV. When a set of terms are to be regarded as the field of a class of relations, it is convenient to drop the terms and mention only the class of relations, since the latter involve the former, but not the former the latter.</p>
+        <p>It is important to observe that the definition of a space, as of most other entities of a certain complexity, is arbitrary within certain limits. For if there be any property which implies and is implied by one or more of the properties used in the definition, we may make a substitution of the new property in place of the one or more in question. For example, in place of defining the line by a relation between points, it is possible to define the line as a class having a certain relation to a couple of points. In such cases, we can only be guided by motives of simplicity.</p>
+        <p>It seems scarcely necessary to give a formal definition of descriptive or metrical space, since the above model serves to show how such a definition might be constructed. I shall instead give a definition of Euclidean space. This I shall give in a form which is inappropriate when Euclidean space is considered as the limit of certain non-Euclidean spaces, but is very appropriate to quaternions and the vector Calculus. This form has been adopted by Peano <a class="footnote-reference brackets" href="#pom-fn432-1" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a>, and leads to a very simple account of the Euclidean axioms. I shall not strictly follow Peano, but my account will be very similar to his.</p>
+        </section>
+        <section class="level-2" id="definition-of-euclidean-spaces-of-three-dimensions">
+        <span id="pom-414"></span><h2>§ 414. Definition of Euclidean spaces of three dimensions<a class="headerlink" href="#definition-of-euclidean-spaces-of-three-dimensions" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§414" data-folio="§414" data-page="p. 432">[Folio §414 | p. p. 432]</div>
+        <p id="pom-p433"><strong>414.</strong> (2) <em>Euclidean space of three dimensions.</em> A Euclidean space of three dimensions is a class of terms containing at least two members, and such that any two of them have one and only one asymmetrical one-one relation of a class, which will be called the class of vectors, defined by the following characteristics <a class="footnote-reference brackets" href="#pom-fn432-2" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a>: the converse of a vector, or the relative product of two vectors, is a vector; if a given vector holds between <em>a</em> and <em>b</em>, <em>c</em> and <em>d</em>, then the vector which holds between <em>a</em> and <em>c</em> is the same as that which holds between <em>b</em> and <em>d</em>; any term of the space has any assigned relation of the class to at least one term of the space; if the <em>n</em>th power (where <em>n</em> is any integer) of any vector of the class is identity, then the vector itself is identity; there is a vector whose <em>n</em>th power is a given vector; any two vectors have one and only one symmetrical relation of a certain class having the following properties: the relation of any two vectors is measured by a real number, positive or negative, and is such that the relation of a vector to itself is always measured by a positive number, and that the measure of the relation of the relative product of two vectors to a third vector is the sum of the measures of their several relations to the third vector; there is a vector satisfying the definition of an irrational power of a vector given below; there are vectors which are not relative products of powers of two given vectors; if <em>i</em>, <em>j</em>, <em>k</em> be three vectors, no one of which is a relative product of powers of one or both of the others, then all vectors are relative products of powers of <em>i</em>, <em>j</em>, <em>k</em>.</p>
+        <p id="pom-p434">The only points calling for explanation here are the notion of an irrational power of a vector and the measurable relation of two vectors. All rational powers are definite; for every vector has an <em>n</em>th root, and the <em>n</em>th root has an <em>m</em>th power, which is the <em>m</em>/<em>n</em>th power of the original vector. But it does not follow that real powers which are not rational can be defined. The definition of limits of classes of vectors given by Peano <a class="footnote-reference brackets" href="#pom-fn433-1" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>3<span class="fn-bracket">]</span></a> is, when translated into relational language, the following. Let <em>u</em> be a class of real numbers, $x_{0}$ a number belonging to the derivative of <em>u</em>. Let some one-one relation subsist between all <em>u</em>’s and some or all vectors; and let <em>v</em> be the class of vectors correlative to <em>u</em>. Then the vector <em>a</em> is said to be the limit of the class <em>v</em> as <em>x</em> approaches $x_{0}$ in the class <em>u</em>, when the limit of the measure of the relation to itself of the vector which, multiplied relatively into <em>a</em>, will give the correlate to <em>x</em> in the class <em>v</em>, is zero. The point of this definition is the use of the order obtained among vectors by means of the measurable relation which each has to itself. Thus suppose we have a progression $x_{1}$, $x_{2}$, … $x_{n}$, … of rational numbers, and suppose these to be respectively the measures of the relations to themselves of the vectors $a_{1}$, $a_{2}$, … $a_{n}$, … Then if <em>x</em> be the limit of $x_{1}$, $x_{2}$, … $x_{n}$, …, there is to be a vector whose relation to itself is measured by <em>x</em>, and this is to be the limit of the vectors $a_{1}$, $a_{2}$, … $a_{n}$, …; and thus irrational powers of a vector become definable. The other point to be examined is the measurable relation between two vectors. This relation measures, in terms of elementary Geometry, the product of the two stretches represented by the vectors into the cosine of the angle between them; it is, in the language of the calculus of extension, the internal product of the two vectors. To say that the relation is measurable in terms of real numbers means, in the sense in which this statement is employed, that all such relations have a one-one relation to some or all of the real numbers; hence, from the existence of irrational powers, it follows that all such relations form a continuous series; to say that the relation of a vector to itself is always measured by a positive number means that there exists a section (in Dedekind’s sense) of the continuous series of relations, such that all those relations that vectors can have to themselves appear on one side of the section; while it can be proved that the relation which defines the section is that which the vector identity has to itself.</p>
+        <p>This definition is, of course, by no means the only one which can be given of Euclidean space, but it is, I think, the simplest. For this reason, and also because it belongs to an order of ideas which, being essentially Euclidean, is foreign to the methods of previous chapters, I have thought it worth while to insert it here.</p>
+        </section>
+        <section class="level-2" id="definition-of-cliffords-spaces-of-two-dimensions">
+        <span id="pom-415"></span><h2>§ 415. Definition of Clifford’s spaces of two dimensions<a class="headerlink" href="#definition-of-cliffords-spaces-of-two-dimensions" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§415" data-folio="§415" data-page="p. 434">[Folio §415 | p. p. 434]</div>
+        <p><strong>415.</strong> As another example which may serve to enlarge our ideas, I shall take the space invented by Clifford, or rather the space which is formally analogous to his surface of zero curvature and finite extent <a class="footnote-reference brackets" href="#pom-fn434-1" id="id4" role="doc-noteref"><span class="fn-bracket">[</span>4<span class="fn-bracket">]</span></a>. I shall first briefly explain the nature of this space, and then proceed to a formal definition. Spaces of the type in question may have any number of dimensions, but for the sake of simplicity I shall confine myself to two dimensions. In this space, most of the usual Euclidean properties hold as regards figures not exceeding a certain size; that is to say, the sum of the angles of a triangle is two right angles, and there are motions, which may be called translations, in which all points travel along straight lines. But in other respects, the space is very different from Euclidean space. To begin with, the straight line is a closed series, and the whole space has a finite area. In the second place, every motion is a translation; a circular transformation (<em>i.e.</em> one which preserves distances from a certain fixed point unaltered) is never a motion, <em>i.e.</em> never leaves every distance unaltered; but all translations can, as in Euclidean space, be compounded out of translations in two fixed directions. In this space, as in Euclid, we have parallels, <em>i.e.</em> straight lines which remain at a constant distance apart, and can be simultaneously described in a motion; also straight lines can be represented by linear equations. But the formula for distance is quite unlike the Euclidean formula. Thus if <em>πk</em> be the length of the whole straight line, and (<em>x</em>, <em>y</em>), ($x'$, $y'$) be the coordinates of any two points (choosing a system in which the straight line has a linear equation), then if <em>ω</em> be the angle between the lines <em>x</em> = 0, <em>y</em> = 0, the distance of the two points in question is <em>d</em>, where</p>
+        <blockquote>
+        <div><p>cos $\frac{d}{k}$ = cos (<em>x</em> − $x'$) − cos (<em>y</em> − $y'$) − cos <em>ω</em> sin (<em>x</em> − $x'$) sin (<em>y</em> − $y'$),</p>
+        </div></blockquote>
+        <p>and the formula for the angle between two lines is similarly complicated. We may, in order to lead to these results, set up the following definition.</p>
+        <p id="pom-p435"><strong>(3)</strong> <em>Clifford’s space of two dimensions.</em> A Clifford’s space of two dimensions is a class of at least two terms, between any two of which there are two relations of different classes, called respectively distance and direction, and possessing the following properties: a <em>direction</em> is a symmetrical aliorelative, transitive so far as its being an aliorelative will permit, but not connected; a term of the space together with all the terms to which the said term has a given relation of direction form what is called a straight line; no straight line contains all the terms of the space; every term of the space has any assigned relation of direction to some but not all other terms of the space; no pair of terms has more than one relation of direction; <em>distances</em> are a class of symmetrical relations forming a continuous series, having two ends, one of which is identity; all distances except identity are intransitive aliorelatives; every term of the space has any assigned relation of distance to some but not all of the terms of the space; any given term of the space has any given distance and direction from two and only two other terms of the space, unless the given distance be either end of the series of distances; in this case, if the given distance be identity, there is no term having this distance and also the given direction from the given term, but if the distance be the other end of the series, there is one and only one term having the given distance and the given direction from the given term; distances in one straight line have the properties, mentioned in <a class="reference internal" href="../ch-47-metrical/ch-47-metrical-en.html#pom-ch-47-metrical-en"><span class="std std-ref">Chapter xlvii</span></a>, required for generating an order among the terms of one straight line; the only motions, <em>i.e.</em> one-one relations whose domain and converse domain are each the space in question and which leave all distances among the relata the same as those among the corresponding referents, are such as consist in combining a given distance, a given direction, and one of the two senses of the series constituting a straight line; and every such combination is equivalent to the relative product of some distance in one fixed direction with some distance in another fixed direction, both taken with a suitable sense; finally all possible directions form a single closed continuous series in virtue of mutual relations.</p>
+        <p id="pom-p436">This completes, I think, the definition of a Clifford’s space of two dimensions. It is to be observed that, in this space, distance cannot be identified with stretch, because (1) we have only two dimensions, so that we cannot generate a closed series of terms on a line by means of projective methods <a class="footnote-reference brackets" href="#pom-fn435-1" id="id5" role="doc-noteref"><span class="fn-bracket">[</span>5<span class="fn-bracket">]</span></a>, (2) the line is to be closed, so that we cannot generate order on the straight line by the descriptive method. It is for similar reasons that both directions and distances have to be taken as symmetrical relations; thus it is only after an order has been generated on a line that we can distinguish two senses, which may be associated with direction to render it asymmetrical, and with distances in a given direction to give them signs. It is important to observe that, when distance is taken as independent of the straight line, it becomes necessary, in order to distinguish different spaces, to assign some property or properties of the one-one relations or transformations which leave distances unchanged. This method has been adopted by Lie in applying to Geometry the theory of continuous groups <a class="footnote-reference brackets" href="#pom-fn436-1" id="id6" role="doc-noteref"><span class="fn-bracket">[</span>6<span class="fn-bracket">]</span></a>, and has produced, in his hands and those of Klein, results of the greatest interest to non-Euclidean Geometry. But since, in most spaces, it is unnecessary to take distance as indefinable, I have been able, except in this instance of Clifford’s space <a class="footnote-reference brackets" href="#pom-fn436-2" id="id7" role="doc-noteref"><span class="fn-bracket">[</span>7<span class="fn-bracket">]</span></a>, to adopt a simpler method of specifying spaces. For this reason, it was important to consider briefly some such space as Clifford’s, in order to give an instance of the use of distance, and of what geometers call motion, in the definition of a space.</p>
+        <p>Enough has now been said, I hope, to show that the definition of a kind of space is always possible in purely logical terms, and that new indefinables are not required. Not only are the actual terms composing a space irrelevant, and only their relations important, but even the relations do not require individual determination, but only specification as members of certain logical classes of relations. These logical classes are the elements used in geometrical definitions, and these are definable in terms of the small collection of indefinables out of which the logical calculus (including that of relations) is built up. This result, which holds throughout pure mathematics, was the principal object of the present chapter.</p>
+        <hr class="docutils" />
+        <p class="rubric">Author’s Footnotes (1903 Edition)</p>
+        <aside class="footnote-list brackets">
+        <aside class="footnote brackets" id="pom-fn432-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
+        <p>“Analisi della Teoria dei vettori,” Turin, 1898 (<em>Accademia Reale delle Scienze di Torino</em>).</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn432-2" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">2</a><span class="fn-bracket">]</span></span>
+        <p>For the convenience of the reader, it may be well to observe that this relation corresponds to that of having a given distance in a given direction—direction being taken in the sense in which all parallel lines have the same direction.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn433-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id3">3</a><span class="fn-bracket">]</span></span>
+        <p><em>Op. cit.</em> p. 22.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn434-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id4">4</a><span class="fn-bracket">]</span></span>
+        <p>On the general subject of the spaces of which this is the simplest example, see Klein, <em>Math. Annalen</em> xxxvii, pp. 554–565, and Killing, <em>Grundlagen der Geometrie</em>, Vol. i, Chap. iv.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn435-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id5">5</a><span class="fn-bracket">]</span></span>
+        <p>Mr W. E. Johnson has pointed out to me that this difficulty might be overcome by introducing the uniqueness of the quadrilateral construction by a special axiom—a method which would perhaps be simpler than the above.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn436-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id6">6</a><span class="fn-bracket">]</span></span>
+        <p><em>Leipziger Berichte</em>, 1890.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn436-2" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id7">7</a><span class="fn-bracket">]</span></span>
+        <p>If I had defined an elliptic space of two dimensions, I should have had to take distance as distinct from stretch, because the projective generation of order fails in two dimensions.</p>
+        </aside>
+        </aside>
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch-48-relation/ch-48-relation-en.html" title="CHAPTER XLVIII">&larr; <span class="nav-label">CHAPTER XLVIII</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">The Principles of Mathematics</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch-50-continuity/ch-50-continuity-en.html" title="CHAPTER L"><span class="nav-label">CHAPTER L</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../log/26.315-064500/index.html">Initial Dual Book Codex of Bertrand Russell’s Foundational Treatises on Geometry (1897 & 1903)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../tags/bertrand-russell.html">bertrand-russell</a></li>
+        <li><a href="../../tags/euclid.html">euclid</a></li>
+        <li><a href="../../tags/foundations-of-geometry.html">foundations-of-geometry</a></li>
+        <li><a href="../../tags/hoenen.html">hoenen</a></li>
+        <li><a href="../../tags/pappus.html">pappus</a></li>
+        <li><a href="../../tags/principles-of-mathematics.html">principles-of-mathematics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../categories/codex.html">codex</a></li>
+        <li><a href="../../categories/concordance.html">concordance</a></li>
+        <li><a href="../../categories/foundations.html">foundations</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../about/index.html"  >About</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 1897, 1903 Cambridge University Press • Digital Edition GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

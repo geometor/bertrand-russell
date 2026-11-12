@@ -1,0 +1,290 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CHAPTER XLIV &mdash; The Principles of Mathematics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../_static/favicon.ico" />
+</head>
+
+<body class="is-book-page book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../index.html">
+        <img src="../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">bertrand-russell</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../index.html" class="is-active" aria-selected="true" >THE PRINCIPLES OF MATHEMATICS</a>
+        </li>
+        <li>
+          <a href="../../foundations_of_geometry/index.html"  >AN ESSAY ON THE FOUNDATIONS OF GEOMETRY</a>
+        </li>
+        <li>
+          <a href="../../concordance.html"  >CROSS-CORPUS CONCORDANCE</a>
+        </li>
+        <li>
+          <a href="../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../modules/index.html"  >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../index.html" title="Return to Project Portal">&larr; bertrand-russell</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../index.html">The Principles of Mathematics</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch-01-pure-math/ch-01-pure-math-en.html" title="CHAPTER I">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+            <nav class="book-tracks-nav" aria-label="Document Tracks">
+              <strong class="book-track-item is-active" aria-current="page">English</strong>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="ch-44-dimensions-summary.html">Summary</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-track-item" href="ch-44-dimensions-notes.html">Notes</a>
+            </nav>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch-45-projective/ch-45-projective-en.html" title="CHAPTER XLV"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content folio-book-page" role="main">
+        <section class="level-1" id="chapter-xliv">
+        <span id="pom-ch-44-dimensions-en"></span><span id="pom-ch-44-dimensions"></span><h1>CHAPTER XLIV<a class="headerlink" href="#chapter-xliv" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Part VI — Space — Dimensions and Complex Numbers (§§ 351–360, pp. 371–380)</p>
+        <nav class="contents local" id="analytical-section-outline">
+        <p class="topic-title">Analytical Section Outline</p>
+        <ul class="simple">
+        <li><p><a class="reference internal" href="#retrospect" id="id8">§ 351. Retrospect</a></p></li>
+        <li><p><a class="reference internal" href="#geometry-is-the-science-of-series-of-two-or-more-dimensions" id="id9">§ 352. Geometry is the science of series of two or more dimensions</a></p></li>
+        <li><p><a class="reference internal" href="#non-euclidean-geometry" id="id10">§ 353. Non-Euclidean geometry</a></p></li>
+        <li><p><a class="reference internal" href="#definition-of-dimensions" id="id11">§ 354. Definition of dimensions</a></p></li>
+        <li><p><a class="reference internal" href="#remarks-on-the-definition" id="id12">§ 355. Remarks on the definition</a></p></li>
+        <li><p><a class="reference internal" href="#the-definition-of-dimensions-is-purely-logical" id="id13">§ 356. The definition of dimensions is purely logical</a></p></li>
+        <li><p><a class="reference internal" href="#complex-numbers-and-universal-algebra" id="id14">§ 357. Complex numbers and universal algebra</a></p></li>
+        <li><p><a class="reference internal" href="#algebraical-generalization-of-number" id="id15">§ 358. Algebraical generalization of number</a></p></li>
+        <li><p><a class="reference internal" href="#definition-of-complex-numbers" id="id16">§ 359. Definition of complex numbers</a></p></li>
+        <li><p><a class="reference internal" href="#pom-360" id="id17">§ 360. Remarks on the definition</a></p></li>
+        </ul>
+        </nav>
+        <section class="level-2" id="retrospect">
+        <span id="pom-351"></span><h2>§ 351. Retrospect<a class="headerlink" href="#retrospect" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§351" data-folio="§351" data-page="p. 371">[Folio §351 | p. p. 371]</div>
+        <p id="pom-p371"><strong>351.</strong> The discussions of the preceding Parts have been concerned with two main themes, the logical theory of numbers and the theory of one-dimensional series. In the first two Parts, it was shown how, from the indispensable apparatus of general logical notions, the theory of finite integers and of rational numbers without sign could be developed. In the third Part, a particular case of order, namely the order of magnitude, was examined on its own account, and it was found that most of the problems arising in the theory of quantity are purely ordinal. In the fourth Part, the general nature of one-dimensional series was set forth, and it was shown that all the arithmetical propositions obtained by means of the logical theory of finite numbers could also be proved by assuming that the finite integers form a series of the kind which we called a progression. In the fifth Part, we examined the problems raised by endless series and by compact series—problems which, under the names of infinity and continuity, have defied philosophers ever since the dawn of abstract thought. The discussion of these problems led to a combination of the logical and ordinal theories of Arithmetic, and to the rejection, as universally valid, of two connected principles which, following Cantor, we regarded as definitions of the finite, not as applicable to all collections or series. These two principles were: (1) If one class be wholly contained in, but not coextensive with, another, then the one has not the same number of terms as the other; (2) mathematical induction, which is purely ordinal, and may be stated as follows: A series generated by a one-one relation, and having a first term, is such that any property, belonging to the first term and to the successor of any possessor of the property, belongs to every term of the series. These two principles we regarded as definitions of finite classes and of progressions or finite series respectively, but as inapplicable to some classes and some series. This view, we found, resolves all the difficulties of infinity and continuity, except a purely logical difficulty as to the notion of <em>all</em> classes. With this result, we completed the philosophical theory of one-dimensional series.</p>
+        </section>
+        <section class="level-2" id="geometry-is-the-science-of-series-of-two-or-more-dimensions">
+        <span id="pom-352"></span><h2>§ 352. Geometry is the science of series of two or more dimensions<a class="headerlink" href="#geometry-is-the-science-of-series-of-two-or-more-dimensions" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§352" data-folio="§352" data-page="p. 372">[Folio §352 | p. p. 372]</div>
+        <p id="pom-p372"><strong>352.</strong> But in all our previous discussions, large branches of mathematics have remained unmentioned. One of the generalizations of number, namely complex numbers, has been excluded completely, and no mention has been made of the imaginary. The whole of Geometry, also, has been hitherto foreign to our thoughts. These two omissions were connected. Not that we are to accept a geometrical, <em>i.e.</em> spatial, theory of complex numbers: this would be as much out of place as a geometrical theory of irrationals. Although this Part is called <em>Space</em>, we are to remain in the region of pure mathematics: the mathematical entities discussed will have certain affinities to the space of the actual world, but they will be discussed without any logical dependence upon these affinities. Geometry may be considered as a pure <em>à priori</em> science, or as the study of actual space. In the latter sense, I hold it to be an experimental science, to be conducted by means of careful measurements. But it is not in this latter sense that I wish to discuss it. As a branch of pure mathematics, Geometry is strictly deductive, indifferent to the choice of its premisses and to the question whether there exist (in the strict sense) such entities as its premisses define. Many different and even inconsistent sets of premisses lead to propositions which would be called geometrical, but all such sets have a common element. This element is wholly summed up by the statement that Geometry deals with series of more than one dimension. The question what may be the actual terms of such series is indifferent to Geometry, which examines only the consequences of the relations which it postulates among the terms. These relations are always such as to generate a series of more than one dimension, but have, so far as I can see, no other general point of agreement. Series of more than one dimension I shall call <em>multiple</em> series: those of one dimension will be called <em>simple</em>. What is meant by dimensions I shall endeavour to explain in the course of the present chapter. At present, I shall set up, by anticipation, the following definition: <em>Geometry is the study of series of two or more dimensions.</em> This definition, it will be seen, causes complex numbers to form part of the subject-matter of Geometry, since they constitute a two-dimensional series; but it does not show that complex numbers have any logical dependence upon actual space.</p>
+        <p>The above definition of Geometry is, no doubt, somewhat unusual, and will produce, especially upon Kantian philosophers, an appearance of wilful misuse of words. I believe, however, that it represents correctly the present usage of mathematicians, though it is not necessary for them to give an explicit definition of their subject. How it has come to bear this meaning, may be explained by a brief historical retrospect, which will illustrate also the difference between pure and applied mathematics.</p>
+        </section>
+        <section class="level-2" id="non-euclidean-geometry">
+        <span id="pom-353"></span><h2>§ 353. Non-Euclidean geometry<a class="headerlink" href="#non-euclidean-geometry" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§353" data-folio="§353" data-page="p. 372">[Folio §353 | p. p. 372]</div>
+        <p id="pom-p374"><span id="pom-p373"></span><strong>353.</strong> Until the nineteenth century. Geometry meant Euclidean Geometry, <em>i.e.</em> a certain system of propositions deduced from premisses which were supposed to describe the space in which we live. The subject was pursued very largely because (what is no doubt important to the engineer) its results were practically applicable in the existent world, and embodied in themselves scientific truths. But in order to be sure that this was so, one of two things was necessary. Either we must be certain of the truth of the premisses on their own account, or we must be able to show that no other set of premisses would give results consistent with experience. The first of these alternatives was adopted by the idealists and was especially advocated by Kant. The second alternative represents, roughly, the position of empiricists before the non-Euclidean period (among whom we must include Mill). But objections were raised to both alternatives. For the Kantian view, it was necessary to maintain that all the axioms are self-evident—a view which honest people found it hard to extend to the axiom of parallels. Hence arose a search for more plausible axioms, which might be declared <em>à priori</em> truths. But, though many such axioms were suggested, all could sanely be doubted, and the search only led to scepticism. The second alternative—the view that no other axioms would give results consistent with experience—could only be tested by a greater mathematical ability than falls to the lot of most philosophers. Accordingly the test was wanting until Lobatchewsky and Bolyai developed their non-Euclidean system. It was then proved, with all the cogency of mathematical demonstration, that premisses other than Euclid’s could give results empirically indistinguishable, within the limits of observation, from those of the orthodox system. Hence the empirical argument for Euclid was also destroyed. But the investigation produced a new spirit among Geometers. Having found that the denial of Euclid’s axiom of parallels led to a different system, which was self-consistent, and possibly true of the actual world, mathematicians became interested in the development of the consequences flowing from other sets of axioms more or less resembling Euclid’s. Hence arose a large number of Geometries, inconsistent, as a rule, with each other, but each internally self-consistent. The resemblance to Euclid required in a suggested set of axioms has gradually grown less, and possible deductive systems have been more and more investigated on their own account. In this way. Geometry has become (what it was formerly mistakenly called) a branch of pure mathematics, that is to say, a subject in which the assertions are that such and such consequences follow from such and such premisses, not that entities such as the premisses describe actually exist. That is to say, if Euclid’s axioms be called <em>A</em>, and <em>P</em> be any proposition implied by <em>A</em>, then, in the Geometry which preceded Lobatchewsky, <em>P</em> itself would be asserted, since <em>A</em> was asserted. But now-a-days, the geometer would only assert that <em>A</em> implies <em>P</em>, leaving <em>A</em> and <em>P</em> themselves doubtful. And he would have other sets of axioms, $A_{1}$, $A_{2}$ … implying $P_{1}$, $P_{2}$ … respectively: the <em>implications</em> would belong to Geometry, but not $A_{1}$ or $P_{1}$ or any of the other actual axioms and propositions. Thus Geometry no longer throws any direct light on the nature of actual space. But indirectly, the increased analysis and knowledge of possibilities, resulting from modern Geometry, has thrown immense light upon our actual space. Moreover it is now proved (what is fatal to the Kantian philosophy) that every Geometry is rigidly deductive, and does not employ any forms of reasoning but such as apply to Arithmetic and all other deductive sciences. My aim, in what follows, will be to set forth first, in brief outlines, what is philosophically important in the deductions which constitute modern Geometry, and then to proceed to those questions, in the philosophy of space, upon which mathematics throws light. In the first section of this Part, though I shall be discussing Geometries as branches of pure mathematics, I shall select for discussion only those which throw the most light either upon actual space, or upon the nature of mathematical reasoning. A treatise on non-Euclidean Geometry is neither necessary nor desirable in a general work such as the present, and will therefore not be found in the following chapters.</p>
+        </section>
+        <section class="level-2" id="definition-of-dimensions">
+        <span id="pom-354"></span><h2>§ 354. Definition of dimensions<a class="headerlink" href="#definition-of-dimensions" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§354" data-folio="§354" data-page="p. 374">[Folio §354 | p. p. 374]</div>
+        <p><strong>354.</strong> Geometry, we said, is the study of series which have more than one dimension. It is now time to define dimensions, and to explain what is meant by a multiple series. The relevance of our definition to Geometry will appear from the fact that the mere definition of dimensions leads to a duality closely analogous to that of projective Geometry.</p>
+        <p>Let us begin with two dimensions. A series of two dimensions arises as follows. Let there be some asymmetrical transitive relation <em>P</em>, which generates a series $u_{1}$. Let every term of $u_{1}$ be itself an asymmetrical transitive relation, which generates a series. Let all the field of <em>P</em> form a simple series of asymmetrical relations, and let each of these have a simple series of terms for its field. Then the class $u_{2}$ of terms forming the fields of all the relations in the series generated by <em>P</em> is a two-dimensional series. In other words, the total field of a class of asymmetrical transitive relations forming a simple series is a double series. But instead of starting from the asymmetrical relation <em>P</em>, we may start from the terms. Let there be a class of terms $u_{2}$, of which any given one (with possibly one exception) belongs to the field of one and only one of a certain class $u_{1}$ of serial relations. That is if <em>x</em> be a term of $u_{2}$, <em>x</em> is also a term of the field of some relation of the class $u_{1}$. Now further let $u_{1}$ be a series. Then $u_{2}$ will be a double series. This seems to constitute the definition of two-dimensional series.</p>
+        <p id="pom-p375">To obtain three dimensions, we have only to suppose that $u_{2}$ itself consists of series, or of asymmetrical transitive relations. Or, starting with the terms of the three-dimensional series, let any term of a certain class $u_{2}$ belong to one and only one series (again with one possible exception, which may belong to many series) of a certain class $u_{2}$. Let every term of $u_{2}$ be a term of some series belonging to a class $u_{1}$ of series, and let $u_{1}$ itself be a simple series. Then $u_{3}$ is a triple series, or a series of three dimensions. Proceeding in this way, we obtain the definition of <em>n</em> dimensions, which may be given as follows: Let there be some series $u_{1}$ whose terms are all themselves serial relations. If $x_{1}$ be any term of $u_{1}$, and $x_{2}$ any term of the field of $x_{1}$, let $x_{2}$ be again a serial relation, and so on. Proceeding to $x_{3}$, $x_{4}$, etc., let $x_{n-1}$, however obtained, be always a relation generating a simple series. Then all the terms $x_{n}$ belonging to the field of any serial relation $x_{n-1}$, form an <em>n</em>-dimensional series. Or, to give the definition which starts from the terms: Let $u_{n}$ be a class of terms, any one of which, $x_{n}$ say, belongs to the field of some serial relation, $x_{n-1}$ say, which itself belongs to a definite class $u_{n-1}$ of serial relations. Let each term $x_{n}$ in general belong to the field of only one serial relation $x_{n-1}$ (with exceptions which need not be discussed at present). Let $u_{n-1}$ lead to a new class $u_{n-2}$ of serial relations, in exactly the way in which $u_{n}$ led to $u_{n-1}$. Let this proceed until we reach a class $u_{1}$, and let $u_{1}$ be a simple series. Then $u_{n}$ is a series of <em>n</em> dimensions.</p>
+        </section>
+        <section class="level-2" id="remarks-on-the-definition">
+        <span id="pom-355"></span><h2>§ 355. Remarks on the definition<a class="headerlink" href="#remarks-on-the-definition" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§355" data-folio="§355" data-page="p. 375">[Folio §355 | p. p. 375]</div>
+        <p id="pom-p376"><strong>355.</strong> Before proceeding further, some observations on the above definitions may be useful. In the first place, we have just seen that alternative definitions of dimensions suggest themselves, which have a relation analogous to what is called duality in projective Geometry. How far this analogy extends, is a question which we cannot discuss until we have examined projective Geometry. In the second place, every series of <em>n</em> dimensions involves series of all smaller numbers of dimensions, but a series of (<em>n</em> − 1) dimensions does not in general imply one of <em>n</em> dimensions. In the second form of the definition of <em>n</em> dimensions, the class $u_{n-1}$ is a series of (<em>n</em> − 1) dimensions, and generally, if <em>m</em> be less than <em>n</em>, the class $u_{n-m}$ is a series of (<em>n</em> − <em>m</em>) dimensions. And in the other method, all possible terms $x_{n-1}$ together form a series of (<em>n</em> − 1) dimensions, and so on. In the third place, if <em>n</em> be finite, a class which is an <em>n</em>-dimensional series is also a one-dimensional series. This may be established by the following rules: In the class $u_{1}$, which is a simple series, preserve the order unchanged. In $u_{2}$, keep the internal order of each series unchanged, and place that series before which comes before in $u_{1}$, and that after which comes after in $u_{2}$. Thus $u_{2}$ is converted into a simple series. Apply now the same process to $u_{3}$, and so on. Then by mathematical induction, if <em>n</em> be finite, or be any infinite ordinal number, $u_{n}$ can be converted into a simple series. This remarkable fact, which was discovered, for finite numbers and <em>ω</em>, by Cantor <a class="footnote-reference brackets" href="#pom-fn375-1" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a>, has a very important bearing on the foundations of Geometry. In the fourth place, the definition of <em>n</em> dimensions can be extended to the case where <em>n</em> is <em>ω</em>, the first of the transfinite ordinals. For this purpose, it is only necessary to suppose that, whatever finite number <em>m</em> we may take, any $u_{m}$ will belong to some simple series of series $u_{m+1}$; and that the sequence of classes of series so obtained obeys mathematical induction, and is therefore a progression. Then the number of dimensions is <em>ω</em>. This case brings out, what does not appear so clearly from the case of a finite number of dimensions, that the number of dimensions is an ordinal number.</p>
+        </section>
+        <section class="level-2" id="the-definition-of-dimensions-is-purely-logical">
+        <span id="pom-356"></span><h2>§ 356. The definition of dimensions is purely logical<a class="headerlink" href="#the-definition-of-dimensions-is-purely-logical" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§356" data-folio="§356" data-page="p. 376">[Folio §356 | p. p. 376]</div>
+        <p><strong>356.</strong> There are very many ways of generating multiple series, as there are of generating simple series. The discussion of these various ways is not, however, of great importance, since it would follow closely the discussion of Part IV, Chapter xxiv. Instances will meet us in the course of our examination of the various Geometries; and this examination will give opportunities of testing our definition of dimensions. For the present, it is only important to observe that dimensions, like order and continuity, are defined in purely abstract terms, without any reference to actual space. Thus when we say that space has three dimensions, we are not merely attributing to it an idea which can only be obtained from space, but we are effecting part of the actual logical analysis of space. This will appear more clearly from the applicability of dimensions to complex numbers, to which we must now turn our attention.</p>
+        </section>
+        <section class="level-2" id="complex-numbers-and-universal-algebra">
+        <span id="pom-357"></span><h2>§ 357. Complex numbers and universal algebra<a class="headerlink" href="#complex-numbers-and-universal-algebra" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§357" data-folio="§357" data-page="p. 376">[Folio §357 | p. p. 376]</div>
+        <p id="pom-p377"><strong>357.</strong> The theory of imaginaries was formerly considered a very important branch of mathematical philosophy, but it has lost its philosophical importance by ceasing to be controversial. The examination of imaginaries led, on the Continent, to the Theory of Functions—a subject which, in spite of its overwhelming mathematical importance, appears to have little interest for the philosopher. But among ourselves the same examination took a more abstract direction: it led to an examination of the principles of symbolism, the formal laws of addition and multiplication, and the general nature of a Calculus. Hence arose a freer spirit towards ordinary Algebra, and the possibility of regarding it (like ordinary Geometry) as one species of a genus. This was the guiding spirit of Sir William Hamilton, De Morgan, Jevons and Peirce—to whom, as regards the result, though not as regards the motive, we must add Boole and Grassmann. Hence the philosophy of imaginaries became merged in the far wider and more interesting problems of Universal Algebra <a class="footnote-reference brackets" href="#pom-fn376-1" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a>. These problems cannot, in my opinion, be dealt with by starting with the genus, and asking ourselves: what are the essential principles of any Calculus? It is necessary to adopt a more inductive method, and examine the various species one by one. The mathematical portion of this task has been admirably performed by Mr Whitehead: the philosophical portion is attempted in the present work. The possibility of a deductive Universal Algebra is often based upon a supposed principle of the Permanence of Form. Thus it is said, for example, that complex numbers must, in virtue of this principle, obey the same laws of addition and multiplication as real numbers obey. But as a matter of fact there is no such principle. In Universal Algebra, our symbols of operation, such as + and ×, are variables, the hypothesis of any one Algebra being that these symbols obey certain prescribed rules. In order that such an Algebra should be important, it is necessary that there should be at least one instance in which the suggested rules of operation are verified. But even this restriction does not enable us to make any general formal statement as to all possible rules of operation. The principle of the Permanence of Form, therefore, must be regarded as simply a mistake: other operations than arithmetical addition may have some or all of its formal properties, but operations can easily be suggested which lack some or all of these properties.</p>
+        </section>
+        <section class="level-2" id="algebraical-generalization-of-number">
+        <span id="pom-358"></span><h2>§ 358. Algebraical generalization of number<a class="headerlink" href="#algebraical-generalization-of-number" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§358" data-folio="§358" data-page="p. 377">[Folio §358 | p. p. 377]</div>
+        <p id="pom-p378"><strong>358.</strong> Complex numbers first appeared in mathematics through the algebraical generalization of number. The principle of this generalization is the following: Given some class of numbers, it is required that numbers should be discovered or invented which will render soluble any equation in one variable, whose coefficients are chosen from the said class of numbers. Starting with positive integers, this method leads at once, by means of simple equations alone, to all rational numbers positive and negative. Equations of finite degrees will give all the so-called algebraic numbers, but to obtain transcendent numbers, such as <em>e</em> and <em>π</em>, we need equations which are not of any finite degree. In this respect the algebraical generalization is very inferior to the arithmetical, since the latter gives all irrationals by a uniform method, whereas the former, strictly speaking, will give only the algebraic numbers. But with regard to complex numbers, the matter is otherwise. No arithmetical problem leads to these, and they are wholly incapable of arithmetical definition. But the attempt to solve such equations as of $x^{2}$ + 1 = 0, or $x^{2}$ + <em>x</em> + 1 = 0, at once demands a new class of numbers, since, in the whole domain of real numbers, none can be found to satisfy these equations. To meet such cases, the algebraical generalization defined new numbers by means of the equations whose roots they were. It showed that, assuming these new numbers to obey the usual laws of multiplication, each of them fell into two parts, one real, the other the product of some real number and a fixed number of the new kind. This fixed number could be chosen arbitrarily, and was always taken to be one of the square roots of −1. Numbers thus composed of two parts were called complex numbers, and it was shown that no algebraic operation upon them could lead to any new class of numbers. What is still more remarkable, it was proved that any further generalization must lead to numbers disobeying some of the formal laws of Arithmetic <a class="footnote-reference brackets" href="#pom-fn378-1" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>3<span class="fn-bracket">]</span></a>. But the algebraical generalization was wholly unable (as it was, in truth, at every previous stage) to prove that there are such entities as those which it postulated. <em>If</em> the said equations have roots, then the roots have such and such properties; this is all that the algebraical method allows us to infer. There is, however, no law of nature to the effect that every equation <em>must</em> have a root; on the contrary, it is quite essential to be able to point out actual entities which do have the properties demanded by the algebraical generalization.</p>
+        </section>
+        <section class="level-2" id="definition-of-complex-numbers">
+        <span id="pom-359"></span><h2>§ 359. Definition of complex numbers<a class="headerlink" href="#definition-of-complex-numbers" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§359" data-folio="§359" data-page="p. 378">[Folio §359 | p. p. 378]</div>
+        <p><strong>359.</strong> The discovery of such entities is only to be obtained by means of the theory of dimensions. Ordinary complex numbers form a series of two dimensions of a certain type, which happen to occur as roots of equations in which the coefficients are real. Complex numbers of a higher order represent a certain type of <em>n</em>-dimensional series, but here there is no algebraical problem concerning real numbers which they are required to solve. As a matter of fact, however, the algebraical generalization, as we have seen, does not tell us what our new entities are, nor whether they are entities at all: moreover it encourages the erroneous view that complex numbers whose imaginary part vanishes are real numbers. This error is analogous to that of supposing that some real numbers are rational, some rationals integral, and positive integers identical with signless integers. All the above errors having been exposed at length, the reader will probably be willing to admit the corresponding error in the present case. No complex number, then, is a real number, but each is a term in some multiple series. It is not worth while to examine specially the usual two-dimensional complex numbers, whose claims, as we have seen, are purely technical. I shall therefore proceed at once to systems with <em>n</em> units. I shall give first the usual purely formal definition <a class="footnote-reference brackets" href="#pom-fn378-2" id="id4" role="doc-noteref"><span class="fn-bracket">[</span>4<span class="fn-bracket">]</span></a>, then the logical objections to this definition, and then the definition which I propose to substitute.</p>
+        <p>Let <em>n</em> different entities, $e_{1}$, $e_{2}$, …… $e_{n}$, which we may call elements or units, be given; and let each be capable of association with any real number, or, in special cases, with any rational or any integer. In this way let entities $\alpha_{r}e_{r}$ arise, where $\alpha_{r}$ is a number, and $\alpha_{r}e_{r}$ differs from $\alpha_{s}e_{s}$ unless <em>r</em> = <em>s</em> and $\alpha_{r}$ = $\alpha_{s}$. That is, if either the numerical or the non-numerical parts of $\alpha_{r}e_{r}$ and $\alpha_{s}e_{s}$ be different, then the wholes are different. Further, let there be a way of combining $\alpha_{1}e_{1}$, $\alpha_{2}e_{2}$, …, $\alpha_{n}e_{n}$, for each set of values $\alpha_{1}$, $\alpha_{2}$, …, $\alpha_{n}$ to form a new entity. (The class whose members are $\alpha_{1}e_{1}$, $\alpha_{2}e_{2}$, …, $\alpha_{n}e_{n}$ will be such an entity.) Then the combination, which may be written as</p>
+        <blockquote>
+        <div><p><em>a</em> = $\alpha_{1}e_{1}$ + $\alpha_{2}e_{2}$ + $\alpha_{3}e_{3}$ + … + $\alpha_{n}e_{n}$,</p>
+        </div></blockquote>
+        <p id="pom-p379">is a complex number of the <em>n</em>th order. The arrangement of the component terms $\alpha_{1}e_{1}$, $\alpha_{2}e_{2}$, …, $\alpha_{n}e_{n}$ may or may not be essential to the definition; but the only thing always essential is, that the combination should be such that a difference in any one or more of the numbers $\alpha_{1}$, $\alpha_{2}$, …, $\alpha_{n}$ insures a difference in the resulting complex number.</p>
+        </section>
+        <section class="level-2" id="pom-360">
+        <span id="id5"></span><h2>§ 360. Remarks on the definition<a class="headerlink" href="#pom-360" title="Link to this heading">¶</a></h2>
+        <div class="folio-milestone" id="folio-§360" data-folio="§360" data-page="p. 379">[Folio §360 | p. p. 379]</div>
+        <p><strong>360.</strong> The above definition suffers from the defect that it does not point out any one entity which is <em>the</em> complex number defined by a set of real numbers. Given two real numbers, <em>a</em>, <em>b</em>, the two complex numbers <em>a</em> + <em>ib</em>, <em>b</em> + <em>ia</em> are determinate; and it is desirable that such determinateness should appear in the general definition of complex numbers of any order. But the <em>e</em>’s in the above definition are variables, and the suggested complex number is only determinate when the <em>e</em>’s are specified as well as the <em>α</em>’s. Where, as in metrical Geometry or in the Dynamics of a finite system of particles, there are important meanings for the <em>e</em>’s, we may find that complex numbers in the above sense are important. But no special interpretation can give us <em>the</em> complex number associated with a given set of real numbers. We might take as <em>the</em> complex number the class of all such entities as the above for all possible values of the <em>e</em>’s; but such a class would be too general to serve our purposes. A better method seems to be the following.</p>
+        <p>We wish a complex number of the <em>n</em>th order to be specified by the enumeration of <em>n</em> real numbers in a certain order, <em>i.e.</em> by the numbers $\alpha_{1}$, $\alpha_{2}$, … $\alpha_{n}$, where the order is indicated by the suffix. But we cannot define a complex number as a <em>series</em> of <em>n</em> real numbers, because the same real number may recur, <em>i.e.</em> $\alpha_{r}$ and $\alpha_{s}$ need not be different whenever <em>r</em> and <em>s</em> are different. Thus what defines a real number is a one-many relation whose domain consists of real numbers and whose converse domain consists of the first <em>n</em> integers (or, in the case of a complex number of infinite order, of all the integers); for the suffix in $\alpha_{r}$, indicates correlation with the integer <em>r</em>. Such one-many relations may be defined to <em>be</em> the complex numbers, and in this way a purely arithmetical definition is obtained. The <em>n</em>-dimensional series of complex numbers of order <em>n</em> results from arranging all complex numbers which differ only as to (say) $\alpha_{r}$ in the order of the real numbers which are $\alpha_{r}$ in the various cases.</p>
+        <p id="pom-p380">In order that complex numbers in the sense defined by Stolz should have any importance, there must be some motive for considering assemblages of terms selected out of continua. Such a motive exists in a metrical space of <em>n</em> dimensions, owing to a circumstance which is essential to the utility, though not to the definition, of complex numbers. Let a collection of entities (points) be given, each of which has to each of the entities $e_{1}$, $e_{2}$, … $e_{n}$ a numerically measurable relation (distance), and let each be uniquely defined by the <em>n</em> relations which it has to $e_{1}$, $e_{2}$, … $e_{n}$. Then the complex number <em>a</em> will represent one of this collection of entities, and the elements $e_{1}$, $e_{2}$, … $e_{n}$ will themselves be terms of the collection <a class="footnote-reference brackets" href="#pom-fn380-1" id="id6" role="doc-noteref"><span class="fn-bracket">[</span>5<span class="fn-bracket">]</span></a>. Thus there is a motive for considering the numbers <em>a</em>, which in the general case is practically absent <a class="footnote-reference brackets" href="#pom-fn380-2" id="id7" role="doc-noteref"><span class="fn-bracket">[</span>6<span class="fn-bracket">]</span></a>. But what is essential to observe, and what applies equally to the usual complex numbers of Algebra, is this: our numbers are not purely arithmetical, but involve essential reference to a plurality of dimensions. Thus we have definitely passed beyond the domain of Arithmetic, and this was my reason for postponing the consideration of complex numbers to this late stage.</p>
+        <hr class="docutils" />
+        <p class="rubric">Author’s Footnotes (1903 Edition)</p>
+        <aside class="footnote-list brackets">
+        <aside class="footnote brackets" id="pom-fn375-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
+        <p>Cantor has proved, not only that a simple series can be so formed, but that, if <em>n</em> be not greater than <em>ω</em>, and the constituent series all have the same cardinal number, this is also the cardinal number of the resultant series: <em>i.e.</em> an <em>n</em>-dimensional space has the same cardinal number of points as a finite portion of a line. See <em>Acta Math.</em> ii, p. 314ff.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn376-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">2</a><span class="fn-bracket">]</span></span>
+        <p>See Whitehead, <em>Universal Algebra</em>, Cambridge, 1898; especially Book I.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn378-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id3">3</a><span class="fn-bracket">]</span></span>
+        <p>See Stolz, <em>Allgemeine Arithmetik</em>, ii, Section 1, §10.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn378-2" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id4">4</a><span class="fn-bracket">]</span></span>
+        <p>See Stolz, <em>ibid.</em> ii, Section 1, §9.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn380-1" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id6">5</a><span class="fn-bracket">]</span></span>
+        <p>$e_{1}$ is not identical with 1 × $e_{1}$ + 0 × $e_{2}$ + …. The former is a point, the latter a complex number.</p>
+        </aside>
+        <aside class="footnote brackets" id="pom-fn380-2" role="doc-footnote">
+        <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id7">6</a><span class="fn-bracket">]</span></span>
+        <p>In geometrical applications, it is usual to consider only the <em>ratios</em> $\alpha_{1}$ : $\alpha_{2}$ : … : $\alpha_{n}$ as relevant. In this case, our series has only (<em>n</em> − 1) dimensions.</p>
+        </aside>
+        </aside>
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../ch-01-pure-math/ch-01-pure-math-en.html" title="CHAPTER I">&larr; <span class="nav-label">CHAPTER I</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../index.html">The Principles of Mathematics</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../ch-45-projective/ch-45-projective-en.html" title="CHAPTER XLV"><span class="nav-label">CHAPTER XLV</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../log/26.315-064500/index.html">Initial Dual Book Codex of Bertrand Russell’s Foundational Treatises on Geometry (1897 & 1903)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../tags/bertrand-russell.html">bertrand-russell</a></li>
+        <li><a href="../../tags/euclid.html">euclid</a></li>
+        <li><a href="../../tags/foundations-of-geometry.html">foundations-of-geometry</a></li>
+        <li><a href="../../tags/hoenen.html">hoenen</a></li>
+        <li><a href="../../tags/pappus.html">pappus</a></li>
+        <li><a href="../../tags/principles-of-mathematics.html">principles-of-mathematics</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../categories/codex.html">codex</a></li>
+        <li><a href="../../categories/concordance.html">concordance</a></li>
+        <li><a href="../../categories/foundations.html">foundations</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../types/log.html">log</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../about/index.html"  >About</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 1897, 1903 Cambridge University Press • Digital Edition GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+geometor.bertrand_russell.commentary
+====================================
+
+.. py:module:: geometor.bertrand_russell.commentary
+
+.. autoapi-nested-parse::
+
+   Scholarly analytical summaries and critical commentary notes for the 1897 and 1903 treatises.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.commentary.POM_APPARATUS
+   geometor.bertrand_russell.commentary.EFG_APPARATUS
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.bertrand_russell.commentary.ChapterApparatus
+
+
+Module Contents
+---------------
+
+.. py:class:: ChapterApparatus
+
+   Analytical summary and critical notes for a single Book Codex chapter unit.
+
+
+   .. py:attribute:: executive_summary
+      :type:  str
+
+
+   .. py:attribute:: mermaid_flow
+      :type:  str
+
+
+   .. py:attribute:: key_arguments
+      :type:  tuple[tuple[str, str], ...]
+
+
+   .. py:attribute:: critical_notes
+      :type:  tuple[tuple[str, str], ...]
+
+
+.. py:data:: POM_APPARATUS
+   :type:  dict[str, ChapterApparatus]
+
+.. py:data:: EFG_APPARATUS
+   :type:  dict[str, ChapterApparatus]
+
