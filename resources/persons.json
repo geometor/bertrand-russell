@@ -1,0 +1,260 @@
+{
+  "russell": {
+    "name": "Bertrand Arthur William Russell",
+    "dates": "1872 – 1970",
+    "role": "British Philosopher, Logician & Mathematician",
+    "bio": "Fellow of Trinity College, Cambridge, and co-author with A. N. Whitehead of Principia Mathematica. His 1897 Essay on the Foundations of Geometry synthesized Klein's metageometry with a revised Kantian epistemology of the 'form of externality', whereas his 1903 Principles of Mathematics inaugurated modern logicism, reducing pure geometry to the logic of multi-dimensional relations and sharpening the critique of Euclidean superposition later answered by P. Hoenen, S.J."
+  },
+  "whitehead": {
+    "name": "Alfred North Whitehead",
+    "dates": "1861 – 1947",
+    "role": "British Mathematician & Philosopher",
+    "bio": "Russell's teacher, mentor, and collaborator at Trinity College, Cambridge; author of A Treatise on Universal Algebra (1898), who guided Russell to the philosophical significance of projective geometry in 1897 and co-developed relation-arithmetic and Principia Mathematica."
+  },
+  "hoenen": {
+    "name": "Petrus Hubertus Jacobus Hoenen, S.J.",
+    "dates": "1880 – 1961",
+    "role": "Dutch Jesuit Physicist & Philosopher of Mathematics",
+    "bio": "Professor of Cosmology and Natural Philosophy at the Pontifical Gregorian University in Rome. Trained in theoretical physics under H. A. Lorentz, Hoenen engaged Russell's 1903 critique of Euclid I.1 and I.4 directly in De Noetica Geometriae (1954), defending geometric exactitude and congruence via Aristotelian-Thomistic intuitive formal abstraction and extension as materia intelligibilis."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BC",
+    "role": "Greek Geometer, Author of the Elements",
+    "bio": "Author of the Stoicheia (Elements), whose synthetic architecture of definitions, postulates, common notions, and propositions (especially I.1, I.4, I.8, I.16, I.26, and Postulate 5) forms the classical benchmark examined throughout Russell's 1897 and 1903 treatises."
+  },
+  "heath": {
+    "name": "Sir Thomas Little Heath",
+    "dates": "1861 – 1940",
+    "role": "British Historian of Ancient Greek Mathematics",
+    "bio": "Translator and commentator of The Thirteen Books of Euclid's Elements (1908), who cites Russell's critiques of Euclidean superposition (C.N. 4, I.4) alongside Hilbert and Veronese."
+  },
+  "pappus": {
+    "name": "Pappus of Alexandria",
+    "dates": "c. 290 – c. 350 AD",
+    "role": "Late Antique Greek Geometer",
+    "bio": "Author of the Synagoge (Collection), Book VII of which established cross-ratio invariance under perspective projection and harmonic division—the classical ancestors of von Staudt's and Russell's projective foundations."
+  },
+  "kant": {
+    "name": "Immanuel Kant",
+    "dates": "1724 – 1804",
+    "role": "German Critical Philosopher",
+    "bio": "Author of the Critique of Pure Reason (1781/1787) and Prolegomena (1783), who grounded the apodeictic certainty of Euclidean geometry in space as the pure a priori form of outer intuition—partially defended by Russell in 1897 (Ch. II) and systematically refuted via symbolic logic in 1903 (Ch. LII)."
+  },
+  "leibniz": {
+    "name": "Gottfried Wilhelm Leibniz",
+    "dates": "1646 – 1716",
+    "role": "German Polymath, Logician & Relational Theorist of Space",
+    "bio": "Pioneer of symbolic logic (characteristica universalis), relational space, and the identity of indiscernibles, critically examined by Russell in The Philosophy of Leibniz (1900) and PoM Chs. I and LI."
+  },
+  "gauss": {
+    "name": "Carl Friedrich Gauss",
+    "dates": "1777 – 1855",
+    "role": "German Mathematician (Princeps Mathematicorum)",
+    "bio": "Inaugurated both the first period of non-Euclidean geometry (recognizing the logical independence of the parallel postulate) and, via his Disquisitiones generales circa superficies curvas (1827) on intrinsic surface curvature, the analytical metrical method of Riemann."
+  },
+  "lobatchewsky": {
+    "name": "Nikolai Ivanovich Lobachevsky",
+    "dates": "1792 – 1856",
+    "role": "Russian Geometer, Co-Founder of Hyperbolic Geometry",
+    "bio": "Professor at Kazan who published the first consistent non-Euclidean (hyperbolic) synthetic geometry (1829–1840) by admitting two limiting parallels through an external point."
+  },
+  "bolyai": {
+    "name": "János Bolyai",
+    "dates": "1802 – 1860",
+    "role": "Hungarian Mathematician, Co-Founder of Hyperbolic Geometry",
+    "bio": "Son of Farkas (Wolfgang) Bolyai; author of the 1832 Appendix exhibiting 'the absolutely true science of space' independent of Euclid's eleventh axiom."
+  },
+  "riemann": {
+    "name": "Bernhard Riemann",
+    "dates": "1826 – 1866",
+    "role": "German Mathematician",
+    "bio": "In his 1854 Habilitationsvortrag ('Über die Hypothesen, welche der Geometrie zu Grunde liegen'), generalized Gauss's intrinsic curvature to n-dimensional manifolds (Mannigfaltigkeiten) and introduced spaces of constant positive curvature."
+  },
+  "helmholtz": {
+    "name": "Hermann von Helmholtz",
+    "dates": "1821 – 1894",
+    "role": "German Physicist, Physiologist & Philosopher of Science",
+    "bio": "Derived the Riemannian quadratic line element from axioms of free mobility and monodromy ('Über die Thatsachen, die der Geometrie zum Grunde liegen', 1868), while advocating an empiricist view of congruence tied to physical rigid bodies—sharply criticized by Russell in both 1897 and 1903."
+  },
+  "beltrami": {
+    "name": "Eugenio Beltrami",
+    "dates": "1835 – 1900",
+    "role": "Italian Differential Geometer",
+    "bio": "Author of the Saggio di interpretazione della geometria non-euclidea (1868), modeling Lobachevsky's hyperbolic plane on pseudospherical surfaces of constant negative curvature and geodesic disks, establishing relative consistency with Euclidean geometry."
+  },
+  "cayley": {
+    "name": "Arthur Cayley",
+    "dates": "1821 – 1895",
+    "role": "British Algebraist & Projective Geometer",
+    "bio": "Sadleirian Professor at Cambridge whose Sixth Memoir upon Quantics (1859) reduced metrical distance and angle to projective cross-ratios relative to a fixed conic or quadric locus ('the Absolute')."
+  },
+  "klein": {
+    "name": "Felix Klein",
+    "dates": "1849 – 1925",
+    "role": "German Mathematician",
+    "bio": "Unified Cayley's projective metric with non-Euclidean geometry (1871–1873), classifying hyperbolic, elliptic (single/polar), and parabolic (Euclidean) geometries by the nature of the Absolute and transformation groups (Erlangen Program). Russell credits Klein's Vorlesungen über Nicht-Euklidische Geometrie as his chief mathematical guide in 1897."
+  },
+  "lie": {
+    "name": "Sophus Lie",
+    "dates": "1842 – 1899",
+    "role": "Norwegian Mathematician, Founder of Continuous Transformation Groups",
+    "bio": "Resolved the Riemann–Helmholtz Space Problem via continuous groups of projective transformations (Theorie der Transformationsgruppen, 1890–1893), proving Helmholtz's axiom of monodromy redundant in three dimensions."
+  },
+  "staudt": {
+    "name": "Karl Georg Christian von Staudt",
+    "dates": "1798 – 1867",
+    "role": "German Synthetic Projective Geometer",
+    "bio": "Author of Geometrie der Lage (1847) and Beiträge zur Geometrie der Lage (1856–1860), who emancipated projective geometry from metrical cross-ratios through the purely incidence-based quadrilateral harmonic construction."
+  },
+  "moebius": {
+    "name": "August Ferdinand Möbius",
+    "dates": "1790 – 1868",
+    "role": "German Mathematician & Astronomer",
+    "bio": "Author of Der barycentrische Calcul (1827); introduced homogeneous barycentric coordinates, non-orientable surfaces, and iterative harmonic 'Möbius nets' assigning rational coordinates on a projective line."
+  },
+  "desargues": {
+    "name": "Girard Desargues",
+    "dates": "1591 – 1661",
+    "role": "French Architect & Founder of Projective Geometry",
+    "bio": "Discovered the perspective-triangle theorem bearing his name, pivotal to proving uniqueness of von Staudt's planar quadrilateral construction via three-dimensional incidence."
+  },
+  "chasles": {
+    "name": "Michel Chasles",
+    "dates": "1793 – 1880",
+    "role": "French Geometer & Historian of Geometry",
+    "bio": "Author of Traité de géométrie supérieure (1852) and Aperçu historique (1837), who systematized anharmonic ratio (rapport anharmonique), homography, and involution."
+  },
+  "pasch": {
+    "name": "Moritz Pasch",
+    "dates": "1843 – 1930",
+    "role": "German Mathematician, Pioneer of Modern Rigorous Axiomatics",
+    "bio": "Author of Vorlesungen über neuere Geometrie (1882), which first isolated implicit order assumptions in Euclid (Pasch's planar transversal axiom), founded descriptive geometry on betweenness, and constructed ideal elements as bundles of lines and planes."
+  },
+  "peano": {
+    "name": "Giuseppe Peano",
+    "dates": "1858 – 1932",
+    "role": "Italian Mathematician & Symbolic Logician",
+    "bio": "Author of I principii di geometria logicamente esposti (1889), Formulaire de mathématiques, and Sui fondamenti della geometria (1894). Meeting Peano at the 1900 Paris International Congress of Philosophy triggered Russell's breakthrough to symbolic logicism."
+  },
+  "pieri": {
+    "name": "Mario Pieri",
+    "dates": "1860 – 1913",
+    "role": "Italian Geometer of the Peano School",
+    "bio": "Author of I principii della geometria di posizione composti in sistema logico deduttivo (1898) and Della geometria elementare come sistema ipotetico deduttivo (1899). Russell hails Pieri's memoir in PoM §363 as 'the best work on the present subject'."
+  },
+  "vailati": {
+    "name": "Giovanni Vailati",
+    "dates": "1863 – 1909",
+    "role": "Italian Mathematician, Logician & Historian of Science",
+    "bio": "Collaborator of Peano who axiomatized the four-term cyclic relation of 'separation of couples' on closed projective lines (1895), adopted directly by Russell in PoM Parts IV and VI."
+  },
+  "hilbert": {
+    "name": "David Hilbert",
+    "dates": "1862 – 1943",
+    "role": "German Mathematician",
+    "bio": "Author of Grundlagen der Geometrie (1899), organizing Euclidean geometry into five axiom groups (incidence, order, congruence, parallels, continuity) and proving mutual independence via algebraic models."
+  },
+  "cantor": {
+    "name": "Georg Cantor",
+    "dates": "1845 – 1918",
+    "role": "German Mathematician, Creator of Transfinite Set Theory",
+    "bio": "Established the ordinal and cardinal theory of infinity and the Continuum (ℵ₀, 2^ℵ₀, compact and perfect series), enabling Russell in 1903 to resolve the continuum antinomies that had ended his 1897 Essay."
+  },
+  "dedekind": {
+    "name": "Richard Dedekind",
+    "dates": "1831 – 1916",
+    "role": "German Mathematician",
+    "bio": "Author of Stetigkeit und irrationale Zahlen (1872) and Was sind und was sollen die Zahlen? (1888), formulating Dedekind cuts and the continuity postulate governing line and circle intersections."
+  },
+  "frege": {
+    "name": "Gottlob Frege",
+    "dates": "1848 – 1925",
+    "role": "German Logician, Mathematician & Philosopher",
+    "bio": "Founder of modern quantification logic and arithmetic logicism (Begriffsschrift, Grundlagen der Arithmetik, Grundgesetze der Arithmetik), studied intensively by Russell in Appendix A of PoM (1903)."
+  },
+  "moore": {
+    "name": "George Edward Moore",
+    "dates": "1873 – 1958",
+    "role": "British Analytic Philosopher",
+    "bio": "Fellow of Trinity College, Cambridge, who led Russell away from Kantian and Bradleyan idealism (1898–1899) toward direct realism about non-mental propositions, terms, and external relations."
+  },
+  "lotze": {
+    "name": "Rudolf Hermann Lotze",
+    "dates": "1817 – 1881",
+    "role": "German Philosopher & Logician",
+    "bio": "Author of Metaphysik (1879), whose philosophical objections to non-Euclidean geometry and relational space are dissected at length in EFG Ch. II (§§85–96) and PoM Ch. LI (§§424–428)."
+  },
+  "erdmann": {
+    "name": "Benno Erdmann",
+    "dates": "1851 – 1921",
+    "role": "German Philosopher & Kant Scholar",
+    "bio": "Author of Die Axiome der Geometrie (1877), exponent of the empiricist philosophical interpretation of Riemann and Helmholtz critiqued by Russell in EFG Ch. II (§§74–84)."
+  },
+  "poincare": {
+    "name": "Henri Poincaré",
+    "dates": "1854 – 1912",
+    "role": "French Mathematician, Physicist & Philosopher of Science",
+    "bio": "Exponent of geometric conventionalism who debated Russell in the Revue de Métaphysique et de Morale (1899–1900) over the nature of geometric axioms, projective definitions, and congruence."
+  },
+  "clifford": {
+    "name": "William Kingdon Clifford",
+    "dates": "1845 – 1879",
+    "role": "British Geometer & Philosopher",
+    "bio": "Discovered locally flat three-dimensional spaces of finite extent admitting parallel translation without full Euclidean similarity ('Clifford's spaces', analyzed in PoM §415)."
+  },
+  "killing": {
+    "name": "Wilhelm Karl Joseph Killing",
+    "dates": "1847 – 1923",
+    "role": "German Mathematician",
+    "bio": "Author of Einführung in die Grundlagen der Geometrie (1893–1898), extensively cited by both Russell (PoM Part VI) and Hoenen (Caput IV) on Clifford–Klein space forms, congruence, and direction."
+  },
+  "aristotle": {
+    "name": "Aristotle",
+    "dates": "384 – 322 BC",
+    "role": "Ancient Greek Philosopher",
+    "bio": "Formulated the classical doctrines of demonstrative science (Posterior Analytics), potential infinity, continuous magnitude, place, and intelligible matter (ὕλη νοητή) upon which Hoenen grounds his reply to Russell."
+  },
+  "aquinas": {
+    "name": "St. Thomas Aquinas, O.P.",
+    "dates": "1225 – 1274",
+    "role": "Scholastic Philosopher & Theologian",
+    "bio": "Synthesized Aristotelian noetics (resolutio ad sensum, intellectus principiorum, and extension as materia intelligibilis), forming the epistemological foundation of Hoenen's De Noetica Geometriae."
+  },
+  "hardy": {
+    "name": "Godfrey Harold Hardy",
+    "dates": "1877 – 1947",
+    "role": "British Pure Mathematician",
+    "bio": "Trinity colleague of Russell whose 1929 Mind essay ('Mathematical Proof') is cited by Hoenen (Caput V) on the role of direct intellectual perception vs. Russellian logistic derivations."
+  },
+  "ward": {
+    "name": "James Ward",
+    "dates": "1843 – 1925",
+    "role": "British Philosopher & Psychologist",
+    "bio": "Professor of Mental Philosophy and Logic at Trinity College, Cambridge, and Russell's Moral Sciences tutor who encouraged his 1895 Fellowship dissertation on the foundations of geometry."
+  },
+  "mctaggart": {
+    "name": "John McTaggart Ellis McTaggart",
+    "dates": "1866 – 1925",
+    "role": "British Idealist Metaphysician",
+    "bio": "Fellow of Trinity College, Cambridge, and exponent of British Neo-Hegelianism; dedicatee of Russell's 1897 Essay on the Foundations of Geometry."
+  },
+  "bradley": {
+    "name": "Francis Herbert Bradley",
+    "dates": "1846 – 1924",
+    "role": "British Idealist Philosopher & Logician",
+    "bio": "Author of The Principles of Logic (1883) and Appearance and Reality (1893), whose holistic logic of judgment and relational contradictions shaped EFG (1897) before Russell's 1899 pluralist revolt."
+  },
+  "delboeuf": {
+    "name": "Joseph Rémi Léopold Delboeuf",
+    "dates": "1831 – 1896",
+    "role": "Belgian Philosopher, Mathematician & Psychologist",
+    "bio": "Author of Prolégomènes philosophiques de la géométrie (1860), examined in EFG Ch. II (§§97–101) for his attempt to ground Euclidean similarity on homogeneous isogenous spaces."
+  },
+  "zeno": {
+    "name": "Zeno of Elea",
+    "dates": "c. 495 – c. 430 BC",
+    "role": "Pre-Socratic Eleatic Philosopher",
+    "bio": "Formulated the classical paradoxes of plurality, infinite divisibility, and motion, rehabilitated by Russell in PoM Parts V–VI through Cantor's continuum and the static 'at-at' theory of motion."
+  }
+}

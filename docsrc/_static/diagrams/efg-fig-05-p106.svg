@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 210" width="375" height="210" role="img" aria-label="Orthogonal axes OX, OY, OZ in Lotze's dimension argument (p. 106)">
+  <title>Orthogonal axes OX, OY, OZ in Lotze's dimension argument (p. 106)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="373" height="208" rx="4" />
+  <line class="primary" x1="45.00" y1="125.00" x2="335.00" y2="125.00" />
+  <line class="primary" x1="190.00" y1="22.00" x2="190.00" y2="192.00" />
+  <line class="accent" x1="190.00" y1="125.00" x2="122.00" y2="178.00" />
+  <line class="aux" x1="95.00" y1="125.00" x2="190.00" y2="48.00" />
+  <line class="aux" x1="285.00" y1="125.00" x2="190.00" y2="48.00" />
+  <circle class="pt" cx="190.00" cy="125.00" r="3.2" />
+  <text class="lbl" x="196.00" y="141.00">O</text>
+  <circle class="pt" cx="95.00" cy="125.00" r="3.2" />
+  <text class="lbl" x="77.00" y="143.00">−mx</text>
+  <circle class="pt" cx="285.00" cy="125.00" r="3.2" />
+  <text class="lbl" x="275.00" y="143.00">+mx</text>
+  <circle class="pt" cx="190.00" cy="48.00" r="3.2" />
+  <text class="lbl" x="198.00" y="52.00">y</text>
+  <text class="lbl" x="338" y="129">X</text>
+  <text class="lbl" x="196" y="28">Y</text>
+  <text class="lbl" x="106" y="186">Z</text>
+
+</svg>

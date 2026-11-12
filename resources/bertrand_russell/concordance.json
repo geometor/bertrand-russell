@@ -1,0 +1,418 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Concordance of Geometric Foundations: Russell (1897, 1903), Hoenen (1954), Heath's Euclid (1908), and Pappus",
+  "entries": [
+    {
+      "id": "hoenen-cap4-s2-superposition",
+      "theme": "Critique of Superposition & Motion in Geometry (Euclid I.4)",
+      "russell_1903": {
+        "chapter": "ch-47-metrical",
+        "sections": [
+          "390"
+        ],
+        "pages": "pp. 405–406",
+        "anchor": "pom-390",
+        "verbatim_excerpt": "The fourth proposition is the first in which Euclid employs the method of superposition—a method which, since he will make any détour to avoid it, he evidently dislikes, and rightly, since it has no logical validity, and strikes every intelligent child as a juggle. In the first place, to speak of motion implies that our triangles are not spatial, but material. For a point of space is a position, and can no more change its position than the leopard can change his spots."
+      },
+      "russell_1897": {
+        "chapter": "ch-03b-metrical",
+        "sections": [
+          "146",
+          "147",
+          "149",
+          "150"
+        ],
+        "pages": "pp. 151–156",
+        "anchor": "efg-147"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/hoenen",
+          "work": "De Noetica Geometriae (1954)",
+          "locus": "Caput IV, §2, pp. 107–111, nn. 3–5",
+          "relation": "Hoenen quotes PoM §390 (pp. 405–406) verbatim and counters that geometry treats real extended being (ens extensum) rather than fictitious empty space; mobility is a strict proprium of extension as materia intelligibilis."
+        },
+        {
+          "corpus": "geometor/euclid",
+          "work": "The Thirteen Books of Euclid's Elements (Heath, 1908)",
+          "locus": "Vol. I, Book I, C.N. 4 (pp. 225–227) & Prop. I.4 (p. 249)",
+          "relation": "Heath cites Russell on motion in geometry as transference of attention and on taking I.4 as an axiom."
+        },
+        {
+          "corpus": "euclid-elements",
+          "work": "Euclid's Elements",
+          "locus": "I.cn.4, I.4, I.8",
+          "relation": "Classical superposition proofs of triangle congruence."
+        }
+      ]
+    },
+    {
+      "id": "hoenen-cap4-s3-congruence-thermometer",
+      "theme": "Rigid Bodies, the Thermometer Paradox, and the Three-Step Congruence Axiom",
+      "russell_1903": {
+        "chapter": "ch-47-metrical",
+        "sections": [
+          "390",
+          "391"
+        ],
+        "pages": "pp. 405–407",
+        "anchor": "pom-391",
+        "verbatim_excerpt": "Suppose that the triangle ABC is by the window, and the side AB consists of the column of mercury in a thermometer; suppose also that DEF is by the fire. Let us apply ABC to DEF as Euclid directs, and let AB just cover DE. Then we are to conclude that ABC and DEF, before the motion, were equal in all respects."
+      },
+      "russell_1897": {
+        "chapter": "ch-02-critique",
+        "sections": [
+          "69",
+          "70",
+          "71",
+          "72",
+          "73"
+        ],
+        "pages": "pp. 74–81",
+        "anchor": "efg-70"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/hoenen",
+          "work": "De Noetica Geometriae (1954)",
+          "locus": "Caput IV, §3, pp. 111–116, nn. 8–10",
+          "relation": "Hoenen endorses Russell's refutation of Helmholtz/Poincaré physical-rigidity empiricism (including the thermometer illustration), then adapts Russell's §391 congruence postulate into a static proof of Euclid I.4 grounded in extension as principle of individuation."
+        },
+        {
+          "corpus": "hilbert",
+          "work": "Grundlagen der Geometrie (1899)",
+          "locus": "Axiom Group III (Congruence, III.1–III.5)",
+          "relation": "Hilbert's axiomatic replacement of superposition by segment and angle congruence postulates, culminating in III.5 (SAS)."
+        },
+        {
+          "corpus": "euclid-elements",
+          "work": "Euclid's Elements",
+          "locus": "I.4, I.16, I.23, I.26",
+          "relation": "Triangle congruence theorems and exterior-angle theorem analyzed in PoM §391."
+        }
+      ]
+    },
+    {
+      "id": "hoenen-cap4-s7-euclid-i1-circles",
+      "theme": "Circle Intersection in Euclid I.1, Spatial Intuition, and the Continuity Postulate",
+      "russell_1903": {
+        "chapter": "ch-47-metrical",
+        "sections": [
+          "389",
+          "418",
+          "419",
+          "420"
+        ],
+        "pages": "pp. 404–405, 439–442",
+        "anchor": "pom-389",
+        "verbatim_excerpt": "To begin with the first proposition. There is no evidence whatever that the circles which we are told to construct intersect, and if they do not, the whole proposition fails. Euclid’s problems are often regarded as existence-theorems, and from this point of view, it is plain, the assumption that the circles in question intersect is precisely the same as the assumption that there is an equilateral triangle on a given base."
+      },
+      "russell_1897": {
+        "chapter": "ch-03b-metrical",
+        "sections": [
+          "160",
+          "161"
+        ],
+        "pages": "pp. 163–165",
+        "anchor": "efg-160"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/hoenen",
+          "work": "De Noetica Geometriae (1954)",
+          "locus": "Caput IV, §7, pp. 139–142, n. 28",
+          "relation": "Hoenen quotes PoM §389 (p. 404) at length and distinguishes demonstrative deduction (scientia) from intuitive grasp of first principles (intellectus), arguing that continuous planar separation makes circle intersection an intelligible necessity rather than a logical fallacy."
+        },
+        {
+          "corpus": "geometor/euclid",
+          "work": "The Thirteen Books of Euclid's Elements (Heath, 1908)",
+          "locus": "Vol. I, Book I, Prop. I.1 commentary (pp. 242–243)",
+          "relation": "Dedekind–Pasch–Hilbert continuity analysis of two-circle intersection in Proposition I.1."
+        },
+        {
+          "corpus": "euclid-elements",
+          "work": "Euclid's Elements",
+          "locus": "I.post.3, I.1",
+          "relation": "Construction of an equilateral triangle on a given finite straight line via two intersecting circles."
+        }
+      ]
+    },
+    {
+      "id": "hoenen-cap4-s4-direction-angle",
+      "theme": "Direction, Rays, Vectors, and the Definition of Angle",
+      "russell_1903": {
+        "chapter": "ch-47-metrical",
+        "sections": [
+          "400",
+          "401",
+          "402",
+          "414"
+        ],
+        "pages": "pp. 414–417, 432–434",
+        "anchor": "pom-400",
+        "verbatim_excerpt": "I come now to a more difficult question than distance, namely the question as to the definition of angle. Here, to begin with, we must deal with rays, not with whole straight lines."
+      },
+      "russell_1897": {
+        "chapter": "ch-03b-metrical",
+        "sections": [
+          "163",
+          "168",
+          "171"
+        ],
+        "pages": "pp. 166–173",
+        "anchor": "efg-168"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/hoenen",
+          "work": "De Noetica Geometriae (1954)",
+          "locus": "Caput IV, §2 (pp. 109–110) & §4 (pp. 119–125, n. 16)",
+          "relation": "Hoenen cites Russell's discussion of Killing and Peano on direction and defends direction (θέσις) as an irreducible qualitative datum of extended intuition prior to angle measurement."
+        },
+        {
+          "corpus": "euclid-elements",
+          "work": "Euclid's Elements",
+          "locus": "I.def.4, I.def.8, I.post.4, I.47",
+          "relation": "Definitions of straight line and plane angle; equality of right angles."
+        }
+      ]
+    },
+    {
+      "id": "hoenen-cap3-continuum-points",
+      "theme": "The Spatial Continuum, Cantor's Point-Sets, and the Antinomy of the Point",
+      "russell_1903": {
+        "chapter": "ch-50-continuity",
+        "sections": [
+          "416",
+          "417",
+          "422",
+          "423",
+          "428",
+          "431"
+        ],
+        "pages": "pp. 437–453",
+        "anchor": "pom-422",
+        "verbatim_excerpt": "To return from this digression: we agreed that the empirical premisses, as regards the continuity of space, are concerned always with divisible entities which have divisible parts."
+      },
+      "russell_1897": {
+        "chapter": "ch-04-consequences",
+        "sections": [
+          "193",
+          "196",
+          "198",
+          "204",
+          "209"
+        ],
+        "pages": "pp. 188–201",
+        "anchor": "efg-196"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/hoenen",
+          "work": "De Noetica Geometriae (1954)",
+          "locus": "Caput III, §2.6.B, pp. 87–91 (citing Russell 1911, p. 183)",
+          "relation": "Hoenen critiques Russell's actual-infinite point-aggregate continuum, upholding the Aristotelian-Thomistic continuum in which points exist in potentia as indivisible boundaries (termini) actuated by division."
+        }
+      ]
+    },
+    {
+      "id": "hoenen-cap5-logicism-kant",
+      "theme": "Pure Mathematics as Formal Implication vs. Kantian & Thomistic Intuition",
+      "russell_1903": {
+        "chapter": "ch-01-pure-math",
+        "sections": [
+          "1",
+          "4",
+          "5",
+          "8",
+          "10",
+          "432",
+          "434",
+          "436"
+        ],
+        "pages": "pp. 3–9, 454–461",
+        "anchor": "pom-1",
+        "verbatim_excerpt": "Pure Mathematics is the class of all propositions of the form “p implies q,” where p and q are propositions containing one or more variables, the same in the two propositions, and neither p nor q contains any constants except logical constants."
+      },
+      "russell_1897": {
+        "chapter": "intro",
+        "sections": [
+          "1",
+          "5",
+          "53",
+          "58"
+        ],
+        "pages": "pp. 1–6, 55–62",
+        "anchor": "efg-1"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/hoenen",
+          "work": "De Noetica Geometriae (1954)",
+          "locus": "Caput V, §3.2.A n. 8 (p. 160) & §4.2.B (pp. 172–175)",
+          "relation": "Hoenen cites Hardy on Russell's proof of 2 + 2 = 4 and analyzes Principia Mathematica ``*2.01`` to argue that even formal symbolic deduction depends on intuitive recognition of spatial token arrangements."
+        }
+      ]
+    },
+    {
+      "id": "pappus-staudt-harmonic-projective",
+      "theme": "Von Staudt's Quadrilateral Construction, Harmonic Ranges, Cross-Ratio, and Duality",
+      "russell_1903": {
+        "chapter": "ch-45-projective",
+        "sections": [
+          "365",
+          "366",
+          "367",
+          "368",
+          "370",
+          "373"
+        ],
+        "pages": "pp. 384–392",
+        "anchor": "pom-365",
+        "verbatim_excerpt": "We can now proceed to the harmonic range and von Staudt’s quadrilateral construction. Given three collinear points a, b, c take any two points u, v collinear with c but not on ab. Construct the points of intersection au . bv and av . bu; join these points, and let the line joining them meet ab in d."
+      },
+      "russell_1897": {
+        "chapter": "ch-03a-projective",
+        "sections": [
+          "35",
+          "36",
+          "111",
+          "112",
+          "113",
+          "114",
+          "119",
+          "120"
+        ],
+        "pages": "pp. 31–33, 122–132",
+        "anchor": "efg-113"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/pappus",
+          "work": "Pappus of Alexandria — Collection Book VII",
+          "locus": "Props. 129–145 (Cross-Ratio Invariance, Complete Quadrilateral Harmonic Fourth, Desargues Configuration)",
+          "relation": "Classical projective invariants of Pappus elevated by von Staudt (1847), Klein, Pieri, and Russell into purely qualitative foundations of projective order and coordinates without metrical distance."
+        }
+      ]
+    },
+    {
+      "id": "pasch-peano-descriptive-geometry",
+      "theme": "Descriptive Geometry: Betweenness, Planar Separation, and Ideal Elements",
+      "russell_1903": {
+        "chapter": "ch-46-descriptive",
+        "sections": [
+          "374",
+          "375",
+          "376",
+          "378",
+          "380",
+          "383",
+          "384",
+          "387"
+        ],
+        "pages": "pp. 393–403",
+        "anchor": "pom-375",
+        "verbatim_excerpt": "We start, in the former method, with two indefinables, point, and between. If a, b, c be three points, and c is between a and b, we say that c is an ab, or belongs to the class of points ab."
+      },
+      "russell_1897": {
+        "chapter": "ch-03a-projective",
+        "sections": [
+          "122",
+          "124"
+        ],
+        "pages": "pp. 131–134",
+        "anchor": "efg-122"
+      },
+      "external_loci": [
+        {
+          "corpus": "hilbert",
+          "work": "Pasch (1882), Peano (1889/1894), Hilbert (1899)",
+          "locus": "Pasch's Axiom of Planar Intersection; Hilbert Axiom Group II (Order)",
+          "relation": "Formalization of open linear order, triangle-transversal intersection (Pasch's axiom), and adjunction of ideal sheaves (points at infinity) embedding descriptive space into projective space."
+        }
+      ]
+    },
+    {
+      "id": "cayley-klein-absolute-metrics",
+      "theme": "Cayley–Klein Projective Metrics and the Absolute Quadric",
+      "russell_1903": {
+        "chapter": "ch-48-relation",
+        "sections": [
+          "405",
+          "406",
+          "407",
+          "408",
+          "409",
+          "410",
+          "411"
+        ],
+        "pages": "pp. 419–428",
+        "anchor": "pom-407",
+        "verbatim_excerpt": "Projective Geometry, having achieved its own independence, has, however, embarked upon a career of foreign aggrandisement; and in this we shall, I think, though on the whole favourable, be obliged to make some slight reservations."
+      },
+      "russell_1897": {
+        "chapter": "ch-01-metageometry",
+        "sections": [
+          "30",
+          "31",
+          "32",
+          "37",
+          "38",
+          "41",
+          "42",
+          "43"
+        ],
+        "pages": "pp. 27–46",
+        "anchor": "efg-31"
+      },
+      "external_loci": [
+        {
+          "corpus": "wildberger",
+          "work": "Cayley (1859), Klein (1871), Wildberger (2005)",
+          "locus": "Sixth Memoir upon Quantics; Über die sogenannte Nicht-Euklidische Geometrie; Universal Hyperbolic / Rational Trigonometry",
+          "relation": "Subsumption of hyperbolic, elliptic, and Euclidean metrics under projective cross-ratios relative to a conic/quadric Absolute; Russell contrasts his 1897 critique ('merely technical') with his 1903 logicist vindication."
+        }
+      ]
+    },
+    {
+      "id": "russell-evolution-1897-to-1903",
+      "theme": "Russell's Philosophical Turn: From 1897 Neo-Kantian Form of Externality to 1903 Logicism",
+      "russell_1903": {
+        "chapter": "ch-44-dimensions",
+        "sections": [
+          "351",
+          "352",
+          "356",
+          "412",
+          "413",
+          "432",
+          "436"
+        ],
+        "pages": "pp. 371–376, 429–433, 454–461",
+        "anchor": "pom-352",
+        "verbatim_excerpt": "As a branch of pure mathematics, Geometry is strictly deductive, indifferent to the choice of its premisses and to the question whether there exist (in the strict sense) such entities as its premisses define. Many different and even inconsistent sets of premisses lead to propositions which would be called geometrical, but all such sets have a common element. This element is wholly summed up by the statement that Geometry deals with series of more than one dimension."
+      },
+      "russell_1897": {
+        "chapter": "ch-03a-projective",
+        "sections": [
+          "103",
+          "132",
+          "139",
+          "186",
+          "192",
+          "209"
+        ],
+        "pages": "pp. 117, 139–146, 182–201",
+        "anchor": "efg-139"
+      },
+      "external_loci": [
+        {
+          "corpus": "geometor/bertrand-russell",
+          "work": "Internal Comparative Evolution (1897 vs. 1903)",
+          "locus": "EFG Preface & Chs. III–IV vs. PoM Preface, Ch. I, Chs. XLIV, XLIX, LI–LII",
+          "relation": "In 1897 Russell deduced projective geometry transcendentally from the 'form of externality' and ended in Hegelian antinomies of the point; after encountering Moore, Peano, Cantor, and Pieri (1898–1900), he redefined pure spaces in 1903 as purely logical classes of serial relations."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 395 232" width="395" height="232" role="img" aria-label="Von Staudt's Complete Quadrilateral Construction of harmonic fourth C to A with respect to B, D (p. 125)">
+  <title>Von Staudt's Complete Quadrilateral Construction of harmonic fourth C to A with respect to B, D (p. 125)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="393" height="230" rx="4" />
+  <line class="primary" x1="22.00" y1="195.00" x2="368.00" y2="195.00" />
+  <line class="primary" x1="224.00" y1="28.00" x2="158.00" y2="195.00" />
+  <line class="primary" x1="224.00" y1="28.00" x2="348.00" y2="195.00" />
+  <line class="primary" x1="42.00" y1="195.00" x2="283.59" y2="108.25" />
+  <line class="primary" x1="348.00" y1="195.00" x2="177.18" y2="146.46" />
+  <line class="primary" x1="158.00" y1="195.00" x2="283.59" y2="108.25" />
+  <line class="accent" x1="224.00" y1="28.00" x2="210.23" y2="195.00" />
+  <line class="aux" x1="224.00" y1="28.00" x2="42.00" y2="195.00" />
+  <line class="aux" x1="42.00" y1="195.00" x2="304.50" y2="136.41" />
+  <circle class="pt" cx="42.00" cy="195.00" r="3.2" />
+  <text class="lbl" x="30.00" y="213.00">A</text>
+  <circle class="pt" cx="158.00" cy="195.00" r="3.2" />
+  <text class="lbl" x="153.00" y="213.00">B</text>
+  <circle class="pt-accent" cx="210.23" cy="195.00" r="3.2" />
+  <text class="lbl" x="205.23" y="213.00">C</text>
+  <circle class="pt" cx="348.00" cy="195.00" r="3.2" />
+  <text class="lbl" x="352.00" y="213.00">D</text>
+  <circle class="pt" cx="224.00" cy="28.00" r="3.2" />
+  <text class="lbl" x="228.00" y="22.00">O</text>
+  <circle class="pt" cx="283.59" cy="108.25" r="3.2" />
+  <text class="lbl" x="291.59" y="106.25">P</text>
+  <circle class="pt" cx="177.18" cy="146.46" r="3.2" />
+  <text class="lbl" x="161.18" y="141.46">Q</text>
+  <circle class="pt-accent" cx="213.38" cy="156.75" r="3.2" />
+  <text class="lbl" x="215.38" y="147.75">R</text>
+  <circle class="pt" cx="304.50" cy="136.41" r="3.2" />
+  <text class="lbl" x="312.50" y="140.41">S</text>
+  <circle class="pt" cx="114.36" cy="128.61" r="3.2" />
+  <text class="lbl" x="98.36" y="124.61">T</text>
+
+</svg>

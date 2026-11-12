@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "geometor/bertrand-russell",
+  "curator": "GEOMETOR Digital Scriptorium",
+  "public_domain_policy": "Strictly pre-1929 first-edition public-domain texts published in 1897 and 1903 by Cambridge University Press. Explicitly excludes Bertrand Russell's copyrighted 1937 second-edition Introduction to The Principles of Mathematics.",
+  "works": [
+    {
+      "id": "principles_of_mathematics_1903",
+      "title": "The Principles of Mathematics, Vol. I",
+      "author": "Bertrand Russell, M.A., Late Fellow of Trinity College, Cambridge",
+      "publisher": "Cambridge: At the University Press",
+      "year": 1903,
+      "edition": "First Edition (1903)",
+      "public_domain_status": "Public Domain in the United States and worldwide for 1903 first-edition text (published prior to January 1, 1931); Public Domain Mark 1.0.",
+      "copyright_exclusion_note": "Omits the 1937 George Allen & Unwin second-edition Introduction.",
+      "primary_urls": [
+        "https://people.umass.edu/klement/pom/pom.html",
+        "https://people.umass.edu/klement/pom/pom.txt",
+        "https://fair-use.org/bertrand-russell/the-principles-of-mathematics/"
+      ],
+      "scope_in_codex": "Complete 1903 Preface (pp. v–ix), Part I Chapter I: Definition of Pure Mathematics (§§1–10, pp. 3–9), and Complete Part VI: Space (Chapters XLIV–LII, §§351–436, pp. 371–461).",
+      "section_count": 96,
+      "sections_included": [
+        "Preface",
+        "1–10",
+        "351–436"
+      ],
+      "files": [
+        {
+          "path": "resources/bertrand_russell/sources/pom_1903_extract.html",
+          "bytes": 384522,
+          "sha256": "04ecee46103c04148c175c2e39f6650804af5724132ba1afd2cf4afaa71e9410",
+          "description": "Verbatim 1903 Cambridge University Press HTML with original page markers (#pagev..#page461), section markers (#sec1..#sec10, #sec351..#sec436), variables, and footnotes."
+        },
+        {
+          "path": "resources/bertrand_russell/sources/pom_1903_toc.json",
+          "bytes": 16241,
+          "sha256": "960627a6e5892fd7f94346d0246d6457f5a93c333ec014e6b8ebfc86b405e8e6",
+          "description": "Extracted 1903 analytical Table of Contents entries and page numbers for §§1–10 and §§351–436."
+        }
+      ]
+    },
+    {
+      "id": "foundations_of_geometry_1897",
+      "title": "An Essay on the Foundations of Geometry",
+      "author": "Bertrand A. W. Russell, M.A., Fellow of Trinity College, Cambridge",
+      "publisher": "Cambridge: At the University Press",
+      "year": 1897,
+      "edition": "First Edition (1897)",
+      "public_domain_status": "Public Domain in the United States and worldwide (published 1897; Project Gutenberg eBook #52091).",
+      "primary_urls": [
+        "https://www.gutenberg.org/ebooks/52091",
+        "https://www.gutenberg.org/cache/epub/52091/pg52091-images.html",
+        "https://www.gutenberg.org/cache/epub/52091/pg52091.txt"
+      ],
+      "scope_in_codex": "Complete verbatim 1897 treatise: Preface, Introduction (§§1–9), Chapter I: A Short History of Metageometry (§§10–50), Chapter II: Critical Account of Some Previous Philosophical Theories of Geometry (§§51–101), Chapter III Section A: The Axioms of Projective Geometry (§§102–140), Chapter III Section B: The Axioms of Metrical Geometry (§§141–179), and Chapter IV: Philosophical Consequences (§§180–209), with vector SVG reconstructions of all 9 geometric figures.",
+      "section_count": 209,
+      "sections_included": [
+        "Preface",
+        "1–209"
+      ],
+      "files": [
+        {
+          "path": "resources/bertrand_russell/sources/efg_1897_pg52091.html",
+          "bytes": 631046,
+          "sha256": "1ef0d62b416fcaa7ff181c61e597b6ffdacdaae031613e0531844d786e9b1ea8",
+          "description": "Complete Project Gutenberg #52091 HTML edition with 1897 Cambridge page numbers ([1]–[201]), sections (§§1–209), footnotes ([1]–[171]), and figure anchors."
+        },
+        {
+          "path": "resources/bertrand_russell/sources/efg_1897_pg52091.txt",
+          "bytes": 511475,
+          "sha256": "16f958b31c26380a8078c89b308eeca94f709c339382b1ca0ed70f7db7034578",
+          "description": "Complete Project Gutenberg #52091 UTF-8 plain-text edition."
+        },
+        {
+          "path": "resources/bertrand_russell/sources/efg_1897_toc.json",
+          "bytes": 53100,
+          "sha256": "7642d9979fb9659b6ba7afef6e0c3f404bd75163c84c29ad82049fd74325d02d",
+          "description": "Extracted 1897 analytical Table of Contents entries and page numbers for §§1–209."
+        }
+      ]
+    }
+  ]
+}

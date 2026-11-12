@@ -1,0 +1,1256 @@
+{
+  "1": {
+    "section": 1,
+    "title_html": "The problem first received a modern form through Kant, who connected the <em>à priori</em> with the subjective",
+    "title_text": "The problem first received a modern form through Kant, who connected the à priori with the subjective",
+    "page": 1
+  },
+  "2": {
+    "section": 2,
+    "title_html": "A mental state is subjective, for Psychology, when its immediate cause does not lie in the outer world",
+    "title_text": "A mental state is subjective, for Psychology, when its immediate cause does not lie in the outer world",
+    "page": 2
+  },
+  "3": {
+    "section": 3,
+    "title_html": "A piece of knowledge is <em>à priori</em>, for Epistemology, when without it knowledge would be impossible",
+    "title_text": "A piece of knowledge is à priori, for Epistemology, when without it knowledge would be impossible",
+    "page": 2
+  },
+  "4": {
+    "section": 4,
+    "title_html": "The subjective and the <em>à priori</em> belong respectively to Psychology and to Epistemology. The latter alone will be investigated in this essay",
+    "title_text": "The subjective and the à priori belong respectively to Psychology and to Epistemology. The latter alone will be investigated in this essay",
+    "page": 3
+  },
+  "5": {
+    "section": 5,
+    "title_html": "My test of the <em>à priori</em> will be purely logical: what knowledge is necessary for experience?",
+    "title_text": "My test of the à priori will be purely logical: what knowledge is necessary for experience?",
+    "page": 3
+  },
+  "6": {
+    "section": 6,
+    "title_html": "But since the necessary is hypothetical, we must include, in the <em>à priori</em>, the ground of necessity",
+    "title_text": "But since the necessary is hypothetical, we must include, in the à priori, the ground of necessity",
+    "page": 4
+  },
+  "7": {
+    "section": 7,
+    "title_html": "This may be the essential postulate of our science, or the element, in the subject-matter, which is necessary to experience;",
+    "title_text": "This may be the essential postulate of our science, or the element, in the subject-matter, which is necessary to experience;",
+    "page": 4
+  },
+  "8": {
+    "section": 8,
+    "title_html": "Which, however, are both at bottom the same ground",
+    "title_text": "Which, however, are both at bottom the same ground",
+    "page": 5
+  },
+  "9": {
+    "section": 9,
+    "title_html": "Forecast of the work",
+    "title_text": "Forecast of the work",
+    "page": 5
+  },
+  "10": {
+    "section": 10,
+    "title_html": "Metageometry began by rejecting the axiom of parallels",
+    "title_text": "Metageometry began by rejecting the axiom of parallels",
+    "page": 7
+  },
+  "11": {
+    "section": 11,
+    "title_html": "Its history may be divided into three periods: the synthetic, the metrical and the projective",
+    "title_text": "Its history may be divided into three periods: the synthetic, the metrical and the projective",
+    "page": 7
+  },
+  "12": {
+    "section": 12,
+    "title_html": "The first period was inaugurated by Gauss,",
+    "title_text": "The first period was inaugurated by Gauss,",
+    "page": 10
+  },
+  "13": {
+    "section": 13,
+    "title_html": "Whose suggestions were developed independently by Lobatchewsky",
+    "title_text": "Whose suggestions were developed independently by Lobatchewsky",
+    "page": 10
+  },
+  "14": {
+    "section": 14,
+    "title_html": "And Bolyai",
+    "title_text": "And Bolyai",
+    "page": 11
+  },
+  "15": {
+    "section": 15,
+    "title_html": "The purpose of all three was to show that the axiom of parallels could not be deduced from the others, since its denial did not lead to contradictions",
+    "title_text": "The purpose of all three was to show that the axiom of parallels could not be deduced from the others, since its denial did not lead to contradictions",
+    "page": 12
+  },
+  "16": {
+    "section": 16,
+    "title_html": "The second period had a more philosophical aim, and was inspired chiefly by Gauss and Herbart",
+    "title_text": "The second period had a more philosophical aim, and was inspired chiefly by Gauss and Herbart",
+    "page": 13
+  },
+  "17": {
+    "section": 17,
+    "title_html": "The first work of this period, that of Riemann, invented two new conceptions:",
+    "title_text": "The first work of this period, that of Riemann, invented two new conceptions:",
+    "page": 14
+  },
+  "18": {
+    "section": 18,
+    "title_html": "The first, that of a manifold, is a class-conception, containing space as a species,",
+    "title_text": "The first, that of a manifold, is a class-conception, containing space as a species,",
+    "page": 14
+  },
+  "19": {
+    "section": 19,
+    "title_html": "And defined as such that its determinations form a collection of magnitudes",
+    "title_text": "And defined as such that its determinations form a collection of magnitudes",
+    "page": 15
+  },
+  "20": {
+    "section": 20,
+    "title_html": "The second, the measure of curvature of a manifold, grew out of curvature in curves and surfaces",
+    "title_text": "The second, the measure of curvature of a manifold, grew out of curvature in curves and surfaces",
+    "page": 16
+  },
+  "21": {
+    "section": 21,
+    "title_html": "By means of Gauss's analytical formula for the curvature of surfaces,",
+    "title_text": "By means of Gauss's analytical formula for the curvature of surfaces,",
+    "page": 19
+  },
+  "22": {
+    "section": 22,
+    "title_html": "Which enables us to define a <em>constant</em> measure of curvature of a three-dimensional space without reference to a fourth dimension",
+    "title_text": "Which enables us to define a constant measure of curvature of a three-dimensional space without reference to a fourth dimension",
+    "page": 20
+  },
+  "23": {
+    "section": 23,
+    "title_html": "The main result of Riemann's mathematical work was to show that, if magnitudes are independent of place, the measure of curvature of space must be constant",
+    "title_text": "The main result of Riemann's mathematical work was to show that, if magnitudes are independent of place, the measure of curvature of space must be constant",
+    "page": 21
+  },
+  "24": {
+    "section": 24,
+    "title_html": "Helmholtz, who was more of a philosopher than a mathematician,",
+    "title_text": "Helmholtz, who was more of a philosopher than a mathematician,",
+    "page": 22
+  },
+  "25": {
+    "section": 25,
+    "title_html": "Gave a new but incorrect formulation of the essential axioms,",
+    "title_text": "Gave a new but incorrect formulation of the essential axioms,",
+    "page": 23
+  },
+  "26": {
+    "section": 26,
+    "title_html": "And deduced the quadratic formula for the infinitesimal arc, which Riemann had assumed",
+    "title_text": "And deduced the quadratic formula for the infinitesimal arc, which Riemann had assumed",
+    "page": 24
+  },
+  "27": {
+    "section": 27,
+    "title_html": "Beltrami gave Lobatchewsky's planimetry a Euclidean interpretation,",
+    "title_text": "Beltrami gave Lobatchewsky's planimetry a Euclidean interpretation,",
+    "page": 25
+  },
+  "28": {
+    "section": 28,
+    "title_html": "Which is analogous to Cayley's theory of distance;",
+    "title_text": "Which is analogous to Cayley's theory of distance;",
+    "page": 26
+  },
+  "29": {
+    "section": 29,
+    "title_html": "And dealt with <em>n</em>-dimensional spaces of constant negative curvature",
+    "title_text": "And dealt with n-dimensional spaces of constant negative curvature",
+    "page": 27
+  },
+  "30": {
+    "section": 30,
+    "title_html": "The third period abandons the metrical methods of the second, and extrudes the notion of spatial quantity",
+    "title_text": "The third period abandons the metrical methods of the second, and extrudes the notion of spatial quantity",
+    "page": 27
+  },
+  "31": {
+    "section": 31,
+    "title_html": "Cayley reduced metrical properties to projective properties, relative to a certain conic or quadric, the Absolute;",
+    "title_text": "Cayley reduced metrical properties to projective properties, relative to a certain conic or quadric, the Absolute;",
+    "page": 28
+  },
+  "32": {
+    "section": 32,
+    "title_html": "And Klein showed that the Euclidean or non-Euclidean systems result, according to the nature of the Absolute;",
+    "title_text": "And Klein showed that the Euclidean or non-Euclidean systems result, according to the nature of the Absolute;",
+    "page": 29
+  },
+  "33": {
+    "section": 33,
+    "title_html": "Hence Euclidean <em>space</em> appeared to give rise to all the kinds of Geometry, and the question, which is true, appeared reduced to one of convention",
+    "title_text": "Hence Euclidean space appeared to give rise to all the kinds of Geometry, and the question, which is true, appeared reduced to one of convention",
+    "page": 30
+  },
+  "34": {
+    "section": 34,
+    "title_html": "But this view is due to a confusion as to the nature of the coordinates employed",
+    "title_text": "But this view is due to a confusion as to the nature of the coordinates employed",
+    "page": 30
+  },
+  "35": {
+    "section": 35,
+    "title_html": "Projective coordinates have been regarded as dependent on distance, and thus really metrical",
+    "title_text": "Projective coordinates have been regarded as dependent on distance, and thus really metrical",
+    "page": 31
+  },
+  "36": {
+    "section": 36,
+    "title_html": "But this is not the case, since anharmonic ratio can be projectively defined",
+    "title_text": "But this is not the case, since anharmonic ratio can be projectively defined",
+    "page": 32
+  },
+  "37": {
+    "section": 37,
+    "title_html": "Projective coordinates, being purely descriptive, can give no information as to metrical properties, and the reduction of metrical to projective properties is purely technical",
+    "title_text": "Projective coordinates, being purely descriptive, can give no information as to metrical properties, and the reduction of metrical to projective properties is purely technical",
+    "page": 33
+  },
+  "38": {
+    "section": 38,
+    "title_html": "The true connection of Cayley's measure of distance with non-Euclidean Geometry is that suggested by Beltrami's Saggio, and worked out by Sir R. Ball,",
+    "title_text": "The true connection of Cayley's measure of distance with non-Euclidean Geometry is that suggested by Beltrami's Saggio, and worked out by Sir R. Ball,",
+    "page": 36
+  },
+  "39": {
+    "section": 39,
+    "title_html": "Which provides a Euclidean equivalent for every non-Euclidean proposition, and so removes the possibility of contradictions in Metageometry",
+    "title_text": "Which provides a Euclidean equivalent for every non-Euclidean proposition, and so removes the possibility of contradictions in Metageometry",
+    "page": 38
+  },
+  "40": {
+    "section": 40,
+    "title_html": "Klein's elliptic Geometry has not been proved to have a corresponding variety of space",
+    "title_text": "Klein's elliptic Geometry has not been proved to have a corresponding variety of space",
+    "page": 39
+  },
+  "41": {
+    "section": 41,
+    "title_html": "The geometrical use of imaginaries, of which Cayley demanded a philosophical discussion,",
+    "title_text": "The geometrical use of imaginaries, of which Cayley demanded a philosophical discussion,",
+    "page": 41
+  },
+  "42": {
+    "section": 42,
+    "title_html": "Has a merely technical validity,",
+    "title_text": "Has a merely technical validity,",
+    "page": 42
+  },
+  "43": {
+    "section": 43,
+    "title_html": "And is capable of giving geometrical results only when it begins and ends with real points and figures",
+    "title_text": "And is capable of giving geometrical results only when it begins and ends with real points and figures",
+    "page": 45
+  },
+  "44": {
+    "section": 44,
+    "title_html": "We have now seen that projective Geometry is logically prior to metrical Geometry, but cannot supersede it",
+    "title_text": "We have now seen that projective Geometry is logically prior to metrical Geometry, but cannot supersede it",
+    "page": 46
+  },
+  "45": {
+    "section": 45,
+    "title_html": "Sophus Lie has applied projective methods to Helmholtz's formulation of the axioms, and has shown the axiom of Monodromy to be superfluous",
+    "title_text": "Sophus Lie has applied projective methods to Helmholtz's formulation of the axioms, and has shown the axiom of Monodromy to be superfluous",
+    "page": 46
+  },
+  "46": {
+    "section": 46,
+    "title_html": "Metageometry has gradually grown independent of philosophy, but has grown continually more interesting to philosophy",
+    "title_text": "Metageometry has gradually grown independent of philosophy, but has grown continually more interesting to philosophy",
+    "page": 50
+  },
+  "47": {
+    "section": 47,
+    "title_html": "Metrical Geometry has three indispensable axioms,",
+    "title_text": "Metrical Geometry has three indispensable axioms,",
+    "page": 50
+  },
+  "48": {
+    "section": 48,
+    "title_html": "Which we shall find to be not results, but conditions, of measurement,",
+    "title_text": "Which we shall find to be not results, but conditions, of measurement,",
+    "page": 51
+  },
+  "49": {
+    "section": 49,
+    "title_html": "And which are nearly equivalent to the three axioms of projective Geometry",
+    "title_text": "And which are nearly equivalent to the three axioms of projective Geometry",
+    "page": 52
+  },
+  "50": {
+    "section": 50,
+    "title_html": "Both sets of axioms are necessitated, not by facts, but by logic",
+    "title_text": "Both sets of axioms are necessitated, not by facts, but by logic",
+    "page": 52
+  },
+  "51": {
+    "section": 51,
+    "title_html": "A criticism of representative modern theories need not begin before Kant",
+    "title_text": "A criticism of representative modern theories need not begin before Kant",
+    "page": 54
+  },
+  "52": {
+    "section": 52,
+    "title_html": "Kant's doctrine must be taken, in an argument about Geometry, on its purely logical side",
+    "title_text": "Kant's doctrine must be taken, in an argument about Geometry, on its purely logical side",
+    "page": 55
+  },
+  "53": {
+    "section": 53,
+    "title_html": "Kant contends that since Geometry is apodeictic, space must be <em>à priori</em> and subjective, while since space is <em>à priori</em> and subjective, Geometry must be apodeictic",
+    "title_text": "Kant contends that since Geometry is apodeictic, space must be à priori and subjective, while since space is à priori and subjective, Geometry must be apodeictic",
+    "page": 55
+  },
+  "54": {
+    "section": 54,
+    "title_html": "Metageometry has upset the first line of argument, not the second",
+    "title_text": "Metageometry has upset the first line of argument, not the second",
+    "page": 56
+  },
+  "55": {
+    "section": 55,
+    "title_html": "The second may be attacked by criticizing either the distinction of synthetic and analytic judgments, or the first two arguments of the metaphysical deduction of space",
+    "title_text": "The second may be attacked by criticizing either the distinction of synthetic and analytic judgments, or the first two arguments of the metaphysical deduction of space",
+    "page": 57
+  },
+  "56": {
+    "section": 56,
+    "title_html": "Modern Logic regards every judgment as both synthetic and analytic,",
+    "title_text": "Modern Logic regards every judgment as both synthetic and analytic,",
+    "page": 57
+  },
+  "57": {
+    "section": 57,
+    "title_html": "But leaves the <em>à priori</em>, as that which is presupposed in the possibility of experience",
+    "title_text": "But leaves the à priori, as that which is presupposed in the possibility of experience",
+    "page": 59
+  },
+  "58": {
+    "section": 58,
+    "title_html": "Kant's first two arguments as to space suffice to prove <em>some</em> form of externality, but not necessarily Euclidean space, a necessary condition of experience",
+    "title_text": "Kant's first two arguments as to space suffice to prove some form of externality, but not necessarily Euclidean space, a necessary condition of experience",
+    "page": 60
+  },
+  "59": {
+    "section": 59,
+    "title_html": "Among the successors of Kant, Herbart alone advanced the theory of Geometry, by influencing Riemann",
+    "title_text": "Among the successors of Kant, Herbart alone advanced the theory of Geometry, by influencing Riemann",
+    "page": 62
+  },
+  "60": {
+    "section": 60,
+    "title_html": "Riemann regarded space as a particular kind of manifold, i.e. wholly quantitatively",
+    "title_text": "Riemann regarded space as a particular kind of manifold, i.e. wholly quantitatively",
+    "page": 63
+  },
+  "61": {
+    "section": 61,
+    "title_html": "He therefore unduly neglected the qualitative adjectives of space",
+    "title_text": "He therefore unduly neglected the qualitative adjectives of space",
+    "page": 64
+  },
+  "62": {
+    "section": 62,
+    "title_html": "His philosophy rests on a vicious disjunction",
+    "title_text": "His philosophy rests on a vicious disjunction",
+    "page": 65
+  },
+  "63": {
+    "section": 63,
+    "title_html": "His definition of a manifold is obscure,",
+    "title_text": "His definition of a manifold is obscure,",
+    "page": 66
+  },
+  "64": {
+    "section": 64,
+    "title_html": "And his definition of measurement applies only to space",
+    "title_text": "And his definition of measurement applies only to space",
+    "page": 67
+  },
+  "65": {
+    "section": 65,
+    "title_html": "Though mathematically invaluable, his view of space as a manifold is philosophically misleading",
+    "title_text": "Though mathematically invaluable, his view of space as a manifold is philosophically misleading",
+    "page": 69
+  },
+  "66": {
+    "section": 66,
+    "title_html": "Helmholtz attacked Kant both on the mathematical and on the psychological side;",
+    "title_text": "Helmholtz attacked Kant both on the mathematical and on the psychological side;",
+    "page": 70
+  },
+  "67": {
+    "section": 67,
+    "title_html": "But his criterion of apriority is changeable and often invalid;",
+    "title_text": "But his criterion of apriority is changeable and often invalid;",
+    "page": 71
+  },
+  "68": {
+    "section": 68,
+    "title_html": "His proof that non-Euclidean spaces are imaginable is inconclusive;",
+    "title_text": "His proof that non-Euclidean spaces are imaginable is inconclusive;",
+    "page": 72
+  },
+  "69": {
+    "section": 69,
+    "title_html": "And his assertion of the dependence of measurement on rigid bodies, which may be taken in three senses,",
+    "title_text": "And his assertion of the dependence of measurement on rigid bodies, which may be taken in three senses,",
+    "page": 74
+  },
+  "70": {
+    "section": 70,
+    "title_html": "Is wholly false if it means that the axiom of Congruence actually asserts the existence of rigid bodies,",
+    "title_text": "Is wholly false if it means that the axiom of Congruence actually asserts the existence of rigid bodies,",
+    "page": 75
+  },
+  "71": {
+    "section": 71,
+    "title_html": "Is untrue if it means that the necessary reference of geometrical propositions to matter renders pure Geometry empirical,",
+    "title_text": "Is untrue if it means that the necessary reference of geometrical propositions to matter renders pure Geometry empirical,",
+    "page": 76
+  },
+  "72": {
+    "section": 72,
+    "title_html": "And is inadequate to his conclusion if it means, what is true, that <em>actual</em> measurement involves approximately rigid bodies",
+    "title_text": "And is inadequate to his conclusion if it means, what is true, that actual measurement involves approximately rigid bodies",
+    "page": 78
+  },
+  "73": {
+    "section": 73,
+    "title_html": "Geometry deals with an abstract matter, whose physical properties are disregarded; and Physics must presuppose Geometry",
+    "title_text": "Geometry deals with an abstract matter, whose physical properties are disregarded; and Physics must presuppose Geometry",
+    "page": 80
+  },
+  "74": {
+    "section": 74,
+    "title_html": "Erdmann accepted the conclusions of Riemann and Helmholtz,",
+    "title_text": "Erdmann accepted the conclusions of Riemann and Helmholtz,",
+    "page": 81
+  },
+  "75": {
+    "section": 75,
+    "title_html": "And regarded the axioms as necessarily successive steps in classifying space as a species of manifold",
+    "title_text": "And regarded the axioms as necessarily successive steps in classifying space as a species of manifold",
+    "page": 82
+  },
+  "76": {
+    "section": 76,
+    "title_html": "His deduction involves four fallacious assumptions, namely:",
+    "title_text": "His deduction involves four fallacious assumptions, namely:",
+    "page": 82
+  },
+  "77": {
+    "section": 77,
+    "title_html": "That conceptions must be abstracted from a series of instances;",
+    "title_text": "That conceptions must be abstracted from a series of instances;",
+    "page": 83
+  },
+  "78": {
+    "section": 78,
+    "title_html": "That all definition is classification;",
+    "title_text": "That all definition is classification;",
+    "page": 83
+  },
+  "79": {
+    "section": 79,
+    "title_html": "That conceptions of magnitude can be applied to space as a whole;",
+    "title_text": "That conceptions of magnitude can be applied to space as a whole;",
+    "page": 84
+  },
+  "80": {
+    "section": 80,
+    "title_html": "And that if conceptions of magnitude could be so applied, all the adjectives of space would result from their application",
+    "title_text": "And that if conceptions of magnitude could be so applied, all the adjectives of space would result from their application",
+    "page": 86
+  },
+  "81": {
+    "section": 81,
+    "title_html": "Erdmann regards Geometry alone as incapable of deciding on the truth of the axiom of Congruence,",
+    "title_text": "Erdmann regards Geometry alone as incapable of deciding on the truth of the axiom of Congruence,",
+    "page": 86
+  },
+  "82": {
+    "section": 82,
+    "title_html": "Which he affirms to be empirically proved by Mechanics.",
+    "title_text": "Which he affirms to be empirically proved by Mechanics.",
+    "page": 88
+  },
+  "83": {
+    "section": 83,
+    "title_html": "The variety and inadequacy of Erdmann's tests of apriority",
+    "title_text": "The variety and inadequacy of Erdmann's tests of apriority",
+    "page": 89
+  },
+  "84": {
+    "section": 84,
+    "title_html": "Invalidate his final conclusions on the theory of Geometry",
+    "title_text": "Invalidate his final conclusions on the theory of Geometry",
+    "page": 90
+  },
+  "85": {
+    "section": 85,
+    "title_html": "Lotze has discussed two questions in the theory of Geometry:",
+    "title_text": "Lotze has discussed two questions in the theory of Geometry:",
+    "page": 93
+  },
+  "86": {
+    "section": 86,
+    "title_html": "(1) He regards the possibility of non-Euclidean spaces as suggested by the subjectivity of space,",
+    "title_text": "(1) He regards the possibility of non-Euclidean spaces as suggested by the subjectivity of space,",
+    "page": 93
+  },
+  "87": {
+    "section": 87,
+    "title_html": "And rejects it owing to a mathematical misunderstanding,",
+    "title_text": "And rejects it owing to a mathematical misunderstanding,",
+    "page": 96
+  },
+  "88": {
+    "section": 88,
+    "title_html": "Having missed the most important sense of their possibility,",
+    "title_text": "Having missed the most important sense of their possibility,",
+    "page": 96
+  },
+  "89": {
+    "section": 89,
+    "title_html": "Which is that they fulfil the logical conditions to which any form of externality must conform",
+    "title_text": "Which is that they fulfil the logical conditions to which any form of externality must conform",
+    "page": 97
+  },
+  "90": {
+    "section": 90,
+    "title_html": "(2) He attacks the mathematical procedure of Metageometry",
+    "title_text": "(2) He attacks the mathematical procedure of Metageometry",
+    "page": 98
+  },
+  "91": {
+    "section": 91,
+    "title_html": "The attack begins with a question-begging definition of parallels",
+    "title_text": "The attack begins with a question-begging definition of parallels",
+    "page": 99
+  },
+  "92": {
+    "section": 92,
+    "title_html": "Lotze maintains that all apparent departures from Euclid could be physically explained, a view which really makes Euclid empirical",
+    "title_text": "Lotze maintains that all apparent departures from Euclid could be physically explained, a view which really makes Euclid empirical",
+    "page": 99
+  },
+  "93": {
+    "section": 93,
+    "title_html": "His criticism of Helmholtz's analogies rests wholly on mathematical mistakes",
+    "title_text": "His criticism of Helmholtz's analogies rests wholly on mathematical mistakes",
+    "page": 101
+  },
+  "94": {
+    "section": 94,
+    "title_html": "His proof that space must have three dimensions rests on neglect of different orders of infinity",
+    "title_text": "His proof that space must have three dimensions rests on neglect of different orders of infinity",
+    "page": 104
+  },
+  "95": {
+    "section": 95,
+    "title_html": "He attacks non-Euclidean spaces on the mistaken ground that they are not homogeneous",
+    "title_text": "He attacks non-Euclidean spaces on the mistaken ground that they are not homogeneous",
+    "page": 107
+  },
+  "96": {
+    "section": 96,
+    "title_html": "Lotze's objections fall under four heads",
+    "title_text": "Lotze's objections fall under four heads",
+    "page": 108
+  },
+  "97": {
+    "section": 97,
+    "title_html": "Two other semi-philosophical objections may be urged,",
+    "title_text": "Two other semi-philosophical objections may be urged,",
+    "page": 109
+  },
+  "98": {
+    "section": 98,
+    "title_html": "One of which, the absence of similarity, has been made the basis of attack by Delbœuf,",
+    "title_text": "One of which, the absence of similarity, has been made the basis of attack by Delbœuf,",
+    "page": 110
+  },
+  "99": {
+    "section": 99,
+    "title_html": "But does not form a valid ground of objection",
+    "title_text": "But does not form a valid ground of objection",
+    "page": 111
+  },
+  "100": {
+    "section": 100,
+    "title_html": "Recent French speculation on the foundations of Geometry has suggested few new views",
+    "title_text": "Recent French speculation on the foundations of Geometry has suggested few new views",
+    "page": 112
+  },
+  "101": {
+    "section": 101,
+    "title_html": "All homogeneous spaces are <em>à priori</em> possible, and the decision between them is empirical",
+    "title_text": "All homogeneous spaces are à priori possible, and the decision between them is empirical",
+    "page": 114
+  },
+  "102": {
+    "section": 102,
+    "title_html": "Projective Geometry does not deal with magnitude, and applies to all spaces alike",
+    "title_text": "Projective Geometry does not deal with magnitude, and applies to all spaces alike",
+    "page": 117
+  },
+  "103": {
+    "section": 103,
+    "title_html": "It will be found wholly <em>à priori</em>",
+    "title_text": "It will be found wholly à priori",
+    "page": 117
+  },
+  "104": {
+    "section": 104,
+    "title_html": "Its axioms have not yet been formulated philosophically",
+    "title_text": "Its axioms have not yet been formulated philosophically",
+    "page": 118
+  },
+  "105": {
+    "section": 105,
+    "title_html": "Coordinates, in projective Geometry, are not spatial magnitudes, but convenient names for points",
+    "title_text": "Coordinates, in projective Geometry, are not spatial magnitudes, but convenient names for points",
+    "page": 118
+  },
+  "106": {
+    "section": 106,
+    "title_html": "The possibility of distinguishing various points is an axiom",
+    "title_text": "The possibility of distinguishing various points is an axiom",
+    "page": 119
+  },
+  "107": {
+    "section": 107,
+    "title_html": "The qualitative relations between points, dealt with by projective Geometry, are presupposed by the quantitative treatment",
+    "title_text": "The qualitative relations between points, dealt with by projective Geometry, are presupposed by the quantitative treatment",
+    "page": 119
+  },
+  "108": {
+    "section": 108,
+    "title_html": "The only qualitative relation between two points is the straight line, and all straight lines are qualitatively similar",
+    "title_text": "The only qualitative relation between two points is the straight line, and all straight lines are qualitatively similar",
+    "page": 120
+  },
+  "109": {
+    "section": 109,
+    "title_html": "Hence follows, by extension, the principle of projective transformation",
+    "title_text": "Hence follows, by extension, the principle of projective transformation",
+    "page": 121
+  },
+  "110": {
+    "section": 110,
+    "title_html": "By which figures qualitatively indistinguishable from a given figure are obtained",
+    "title_text": "By which figures qualitatively indistinguishable from a given figure are obtained",
+    "page": 122
+  },
+  "111": {
+    "section": 111,
+    "title_html": "Anharmonic ratio may and must be descriptively defined",
+    "title_text": "Anharmonic ratio may and must be descriptively defined",
+    "page": 122
+  },
+  "112": {
+    "section": 112,
+    "title_html": "The quadrilateral construction is essential to the projective definition of points,",
+    "title_text": "The quadrilateral construction is essential to the projective definition of points,",
+    "page": 123
+  },
+  "113": {
+    "section": 113,
+    "title_html": "And can be projectively defined,",
+    "title_text": "And can be projectively defined,",
+    "page": 124
+  },
+  "114": {
+    "section": 114,
+    "title_html": "By the general principle of projective transformation",
+    "title_text": "By the general principle of projective transformation",
+    "page": 126
+  },
+  "115": {
+    "section": 115,
+    "title_html": "The principle of duality is the mathematical form of a philosophical circle,",
+    "title_text": "The principle of duality is the mathematical form of a philosophical circle,",
+    "page": 127
+  },
+  "116": {
+    "section": 116,
+    "title_html": "Which is an inevitable consequence of the relativity of space, and makes any definition of the point contradictory",
+    "title_text": "Which is an inevitable consequence of the relativity of space, and makes any definition of the point contradictory",
+    "page": 128
+  },
+  "117": {
+    "section": 117,
+    "title_html": "We define the point as that which is spatial, but contains no space, whence other definitions follow",
+    "title_text": "We define the point as that which is spatial, but contains no space, whence other definitions follow",
+    "page": 128
+  },
+  "118": {
+    "section": 118,
+    "title_html": "What is meant by qualitative equivalence in Geometry?",
+    "title_text": "What is meant by qualitative equivalence in Geometry?",
+    "page": 129
+  },
+  "119": {
+    "section": 119,
+    "title_html": "Two pairs of points on one straight line, or two pairs of straight lines through one point, are qualitatively equivalent",
+    "title_text": "Two pairs of points on one straight line, or two pairs of straight lines through one point, are qualitatively equivalent",
+    "page": 129
+  },
+  "120": {
+    "section": 120,
+    "title_html": "This explains why <em>four</em> collinear points are needed, to give an intrinsic relation by which the fourth can be descriptively defined when the first three are given",
+    "title_text": "This explains why four collinear points are needed, to give an intrinsic relation by which the fourth can be descriptively defined when the first three are given",
+    "page": 130
+  },
+  "121": {
+    "section": 121,
+    "title_html": "Any two projectively related figures are qualitatively equivalent, i.e. differ in no non-quantitative conceptual property",
+    "title_text": "Any two projectively related figures are qualitatively equivalent, i.e. differ in no non-quantitative conceptual property",
+    "page": 131
+  },
+  "122": {
+    "section": 122,
+    "title_html": "Three axioms are used by projective Geometry,",
+    "title_text": "Three axioms are used by projective Geometry,",
+    "page": 132
+  },
+  "123": {
+    "section": 123,
+    "title_html": "And are required for qualitative spatial comparison,",
+    "title_text": "And are required for qualitative spatial comparison,",
+    "page": 132
+  },
+  "124": {
+    "section": 124,
+    "title_html": "Which involves the homogeneity, relativity and passivity of space",
+    "title_text": "Which involves the homogeneity, relativity and passivity of space",
+    "page": 133
+  },
+  "125": {
+    "section": 125,
+    "title_html": "The conception of a form of externality,",
+    "title_text": "The conception of a form of externality,",
+    "page": 134
+  },
+  "126": {
+    "section": 126,
+    "title_html": "Being a creature of the intellect, can be dealt with by pure mathematics",
+    "title_text": "Being a creature of the intellect, can be dealt with by pure mathematics",
+    "page": 134
+  },
+  "127": {
+    "section": 127,
+    "title_html": "The resulting doctrine of extension will be, for the moment, hypothetical",
+    "title_text": "The resulting doctrine of extension will be, for the moment, hypothetical",
+    "page": 135
+  },
+  "128": {
+    "section": 128,
+    "title_html": "But is rendered assertorical by the necessity, for experience, of some form of externality",
+    "title_text": "But is rendered assertorical by the necessity, for experience, of some form of externality",
+    "page": 136
+  },
+  "129": {
+    "section": 129,
+    "title_html": "Any such form must be relational",
+    "title_text": "Any such form must be relational",
+    "page": 136
+  },
+  "130": {
+    "section": 130,
+    "title_html": "And homogeneous",
+    "title_text": "And homogeneous",
+    "page": 137
+  },
+  "131": {
+    "section": 131,
+    "title_html": "And the relations constituting it must appear infinitely divisible",
+    "title_text": "And the relations constituting it must appear infinitely divisible",
+    "page": 137
+  },
+  "132": {
+    "section": 132,
+    "title_html": "It must have a finite integral number of dimensions,",
+    "title_text": "It must have a finite integral number of dimensions,",
+    "page": 139
+  },
+  "133": {
+    "section": 133,
+    "title_html": "Owing to its passivity and homogeneity",
+    "title_text": "Owing to its passivity and homogeneity",
+    "page": 140
+  },
+  "134": {
+    "section": 134,
+    "title_html": "And to the systematic unity of the world",
+    "title_text": "And to the systematic unity of the world",
+    "page": 140
+  },
+  "135": {
+    "section": 135,
+    "title_html": "A one-dimensional form alone would not suffice for experience",
+    "title_text": "A one-dimensional form alone would not suffice for experience",
+    "page": 141
+  },
+  "136": {
+    "section": 136,
+    "title_html": "Since its elements would be immovably fixed in a series",
+    "title_text": "Since its elements would be immovably fixed in a series",
+    "page": 142
+  },
+  "137": {
+    "section": 137,
+    "title_html": "Two positions have a relation independent of other positions,",
+    "title_text": "Two positions have a relation independent of other positions,",
+    "page": 143
+  },
+  "138": {
+    "section": 138,
+    "title_html": "Since positions are wholly defined by mutually independent relations",
+    "title_text": "Since positions are wholly defined by mutually independent relations",
+    "page": 143
+  },
+  "139": {
+    "section": 139,
+    "title_html": "Hence projective Geometry is wholly <em>à priori</em>,",
+    "title_text": "Hence projective Geometry is wholly à priori,",
+    "page": 146
+  },
+  "140": {
+    "section": 140,
+    "title_html": "Though metrical Geometry contains an empirical element",
+    "title_text": "Though metrical Geometry contains an empirical element",
+    "page": 146
+  },
+  "141": {
+    "section": 141,
+    "title_html": "Metrical Geometry is distinct from projective, but has the same fundamental postulate",
+    "title_text": "Metrical Geometry is distinct from projective, but has the same fundamental postulate",
+    "page": 147
+  },
+  "142": {
+    "section": 142,
+    "title_html": "It introduces the new idea of motion, and has three <em>à priori</em> axioms",
+    "title_text": "It introduces the new idea of motion, and has three à priori axioms",
+    "page": 148
+  },
+  "143": {
+    "section": 143,
+    "title_html": "Measurement requires a criterion of spatial equality",
+    "title_text": "Measurement requires a criterion of spatial equality",
+    "page": 149
+  },
+  "144": {
+    "section": 144,
+    "title_html": "Which is given by superposition, and involves the axiom of Free Mobility",
+    "title_text": "Which is given by superposition, and involves the axiom of Free Mobility",
+    "page": 150
+  },
+  "145": {
+    "section": 145,
+    "title_html": "The denial of this axiom involves an action of empty space on things",
+    "title_text": "The denial of this axiom involves an action of empty space on things",
+    "page": 151
+  },
+  "146": {
+    "section": 146,
+    "title_html": "There is a mathematically possible alternative to the axiom,",
+    "title_text": "There is a mathematically possible alternative to the axiom,",
+    "page": 152
+  },
+  "147": {
+    "section": 147,
+    "title_html": "Which, however, is logically and philosophically untenable",
+    "title_text": "Which, however, is logically and philosophically untenable",
+    "page": 153
+  },
+  "148": {
+    "section": 148,
+    "title_html": "Though Free Mobility is <em>à priori</em>, actual measurement is empirical",
+    "title_text": "Though Free Mobility is à priori, actual measurement is empirical",
+    "page": 154
+  },
+  "149": {
+    "section": 149,
+    "title_html": "Some objections remain to be answered, concerning—",
+    "title_text": "Some objections remain to be answered, concerning—",
+    "page": 154
+  },
+  "150": {
+    "section": 150,
+    "title_html": "(1) The comparison of volumes and of Kant's symmetrical objects",
+    "title_text": "(1) The comparison of volumes and of Kant's symmetrical objects",
+    "page": 154
+  },
+  "151": {
+    "section": 151,
+    "title_html": "(2) The measurement of time, where congruence is impossible",
+    "title_text": "(2) The measurement of time, where congruence is impossible",
+    "page": 156
+  },
+  "152": {
+    "section": 152,
+    "title_html": "(3) The immediate perception of spatial magnitude; and",
+    "title_text": "(3) The immediate perception of spatial magnitude; and",
+    "page": 157
+  },
+  "153": {
+    "section": 153,
+    "title_html": "(4) The Geometry of non-congruent surfaces",
+    "title_text": "(4) The Geometry of non-congruent surfaces",
+    "page": 158
+  },
+  "154": {
+    "section": 154,
+    "title_html": "Free Mobility includes Helmholtz's Monodromy",
+    "title_text": "Free Mobility includes Helmholtz's Monodromy",
+    "page": 159
+  },
+  "155": {
+    "section": 155,
+    "title_html": "Free Mobility involves the relativity of space",
+    "title_text": "Free Mobility involves the relativity of space",
+    "page": 159
+  },
+  "156": {
+    "section": 156,
+    "title_html": "From which, reciprocally, it can be deduced",
+    "title_text": "From which, reciprocally, it can be deduced",
+    "page": 160
+  },
+  "157": {
+    "section": 157,
+    "title_html": "Our axiom is therefore <em>à priori</em> in a double sense",
+    "title_text": "Our axiom is therefore à priori in a double sense",
+    "page": 160
+  },
+  "158": {
+    "section": 158,
+    "title_html": "Space must have a finite integral number of dimensions",
+    "title_text": "Space must have a finite integral number of dimensions",
+    "page": 161
+  },
+  "159": {
+    "section": 159,
+    "title_html": "But the restriction to three is empirical",
+    "title_text": "But the restriction to three is empirical",
+    "page": 162
+  },
+  "160": {
+    "section": 160,
+    "title_html": "The general axiom follows from the relativity of position",
+    "title_text": "The general axiom follows from the relativity of position",
+    "page": 162
+  },
+  "161": {
+    "section": 161,
+    "title_html": "The limitation to three dimensions, unlike most empirical knowledge, is accurate and certain",
+    "title_text": "The limitation to three dimensions, unlike most empirical knowledge, is accurate and certain",
+    "page": 163
+  },
+  "162": {
+    "section": 162,
+    "title_html": "The axiom of distance corresponds, here, to that of the straight line in projective Geometry",
+    "title_text": "The axiom of distance corresponds, here, to that of the straight line in projective Geometry",
+    "page": 164
+  },
+  "163": {
+    "section": 163,
+    "title_html": "The possibility of spatial measurement involves a magnitude uniquely determined by two points,",
+    "title_text": "The possibility of spatial measurement involves a magnitude uniquely determined by two points,",
+    "page": 164
+  },
+  "164": {
+    "section": 164,
+    "title_html": "Since two points must have some relation, and the passivity of space proves this to be independent of external reference",
+    "title_text": "Since two points must have some relation, and the passivity of space proves this to be independent of external reference",
+    "page": 165
+  },
+  "165": {
+    "section": 165,
+    "title_html": "There can be only one such relation",
+    "title_text": "There can be only one such relation",
+    "page": 166
+  },
+  "166": {
+    "section": 166,
+    "title_html": "This must be measured by a curve joining the two points,",
+    "title_text": "This must be measured by a curve joining the two points,",
+    "page": 166
+  },
+  "167": {
+    "section": 167,
+    "title_html": "And the curve must be uniquely determined by the two points",
+    "title_text": "And the curve must be uniquely determined by the two points",
+    "page": 167
+  },
+  "168": {
+    "section": 168,
+    "title_html": "Spherical Geometry contains an exception to this axiom,",
+    "title_text": "Spherical Geometry contains an exception to this axiom,",
+    "page": 168
+  },
+  "169": {
+    "section": 169,
+    "title_html": "Which, however, is not quite equivalent to Euclid's",
+    "title_text": "Which, however, is not quite equivalent to Euclid's",
+    "page": 168
+  },
+  "170": {
+    "section": 170,
+    "title_html": "The exception is due to the fact that two points, in spherical space, may have an external relation unaltered by motion,",
+    "title_text": "The exception is due to the fact that two points, in spherical space, may have an external relation unaltered by motion,",
+    "page": 169
+  },
+  "171": {
+    "section": 171,
+    "title_html": "Which, however, being a relation of linear magnitude, presupposes the possibility of linear magnitude",
+    "title_text": "Which, however, being a relation of linear magnitude, presupposes the possibility of linear magnitude",
+    "page": 170
+  },
+  "172": {
+    "section": 172,
+    "title_html": "A relation between two points must be a line joining them",
+    "title_text": "A relation between two points must be a line joining them",
+    "page": 170
+  },
+  "173": {
+    "section": 173,
+    "title_html": "Conversely, the existence of a unique line between two points can be deduced from the nature of a form of externality,",
+    "title_text": "Conversely, the existence of a unique line between two points can be deduced from the nature of a form of externality,",
+    "page": 171
+  },
+  "174": {
+    "section": 174,
+    "title_html": "And necessarily leads to distance, when quantity is applied to it",
+    "title_text": "And necessarily leads to distance, when quantity is applied to it",
+    "page": 172
+  },
+  "175": {
+    "section": 175,
+    "title_html": "Hence the axiom of distance, also, is <em>à priori</em> in a double sense",
+    "title_text": "Hence the axiom of distance, also, is à priori in a double sense",
+    "page": 172
+  },
+  "176": {
+    "section": 176,
+    "title_html": "No metrical coordinate system can be set up without the straight line",
+    "title_text": "No metrical coordinate system can be set up without the straight line",
+    "page": 174
+  },
+  "177": {
+    "section": 177,
+    "title_html": "No axioms besides the above three are necessary to metrical Geometry",
+    "title_text": "No axioms besides the above three are necessary to metrical Geometry",
+    "page": 175
+  },
+  "178": {
+    "section": 178,
+    "title_html": "But these three are necessary to the direct measurement of any continuum",
+    "title_text": "But these three are necessary to the direct measurement of any continuum",
+    "page": 176
+  },
+  "179": {
+    "section": 179,
+    "title_html": "Two philosophical questions remain for a final chapter",
+    "title_text": "Two philosophical questions remain for a final chapter",
+    "page": 177
+  },
+  "180": {
+    "section": 180,
+    "title_html": "What is the relation to experience of a form of externality in general?",
+    "title_text": "What is the relation to experience of a form of externality in general?",
+    "page": 178
+  },
+  "181": {
+    "section": 181,
+    "title_html": "This form is the class-conception, containing every possible intuition of externality; and some such intuition is necessary to experience",
+    "title_text": "This form is the class-conception, containing every possible intuition of externality; and some such intuition is necessary to experience",
+    "page": 178
+  },
+  "182": {
+    "section": 182,
+    "title_html": "What relation does this view bear to Kant's?",
+    "title_text": "What relation does this view bear to Kant's?",
+    "page": 179
+  },
+  "183": {
+    "section": 183,
+    "title_html": "It is less psychological, since it does not discuss whether space is given in sensation,",
+    "title_text": "It is less psychological, since it does not discuss whether space is given in sensation,",
+    "page": 180
+  },
+  "184": {
+    "section": 184,
+    "title_html": "And maintains that not only space, but any form of externality which renders experience possible, must be given in sense-perception",
+    "title_text": "And maintains that not only space, but any form of externality which renders experience possible, must be given in sense-perception",
+    "page": 181
+  },
+  "185": {
+    "section": 185,
+    "title_html": "Externality should mean, not externality to the Self, but the mutual externality of presented things",
+    "title_text": "Externality should mean, not externality to the Self, but the mutual externality of presented things",
+    "page": 181
+  },
+  "186": {
+    "section": 186,
+    "title_html": "Would this be unknowable without a given form of externality?",
+    "title_text": "Would this be unknowable without a given form of externality?",
+    "page": 182
+  },
+  "187": {
+    "section": 187,
+    "title_html": "Bradley has proved that space and time preclude the existence of mere particulars,",
+    "title_text": "Bradley has proved that space and time preclude the existence of mere particulars,",
+    "page": 182
+  },
+  "188": {
+    "section": 188,
+    "title_html": "And that knowledge requires the <em>This</em> to be neither simple nor self-subsistent",
+    "title_text": "And that knowledge requires the This to be neither simple nor self-subsistent",
+    "page": 183
+  },
+  "189": {
+    "section": 189,
+    "title_html": "To prove that experience requires a form of externality, I assume that all knowledge requires the recognition of identity in difference",
+    "title_text": "To prove that experience requires a form of externality, I assume that all knowledge requires the recognition of identity in difference",
+    "page": 184
+  },
+  "190": {
+    "section": 190,
+    "title_html": "Such recognition involves time",
+    "title_text": "Such recognition involves time",
+    "page": 184
+  },
+  "191": {
+    "section": 191,
+    "title_html": "And some other form giving simultaneous diversity",
+    "title_text": "And some other form giving simultaneous diversity",
+    "page": 185
+  },
+  "192": {
+    "section": 192,
+    "title_html": "The above argument has not deduced sense-perception from the categories, but has shown the former, unless it contains a certain element, to be unintelligible to the latter",
+    "title_text": "The above argument has not deduced sense-perception from the categories, but has shown the former, unless it contains a certain element, to be unintelligible to the latter",
+    "page": 186
+  },
+  "193": {
+    "section": 193,
+    "title_html": "How to account for the realization of this element, is a question for metaphysics",
+    "title_text": "How to account for the realization of this element, is a question for metaphysics",
+    "page": 187
+  },
+  "194": {
+    "section": 194,
+    "title_html": "What are we to do with the contradictions in space?",
+    "title_text": "What are we to do with the contradictions in space?",
+    "page": 188
+  },
+  "195": {
+    "section": 195,
+    "title_html": "Three contradictions will be discussed in what follows",
+    "title_text": "Three contradictions will be discussed in what follows",
+    "page": 188
+  },
+  "196": {
+    "section": 196,
+    "title_html": "(1) The antinomy of the Point proves the relativity of space,",
+    "title_text": "(1) The antinomy of the Point proves the relativity of space,",
+    "page": 189
+  },
+  "197": {
+    "section": 197,
+    "title_html": "And shows that Geometry must have some reference to matter,",
+    "title_text": "And shows that Geometry must have some reference to matter,",
+    "page": 190
+  },
+  "198": {
+    "section": 198,
+    "title_html": "By which means it is made to refer to spatial order, not to empty space",
+    "title_text": "By which means it is made to refer to spatial order, not to empty space",
+    "page": 191
+  },
+  "199": {
+    "section": 199,
+    "title_html": "The causal properties of matter are irrelevant to Geometry, which must regard it as composed of unextended atoms, by which points are replaced",
+    "title_text": "The causal properties of matter are irrelevant to Geometry, which must regard it as composed of unextended atoms, by which points are replaced",
+    "page": 191
+  },
+  "200": {
+    "section": 200,
+    "title_html": "(2) The circle in defining straight lines and planes is overcome by the same reference to matter",
+    "title_text": "(2) The circle in defining straight lines and planes is overcome by the same reference to matter",
+    "page": 192
+  },
+  "201": {
+    "section": 201,
+    "title_html": "(3) The antinomy that space is relational and yet more than relational,",
+    "title_text": "(3) The antinomy that space is relational and yet more than relational,",
+    "page": 193
+  },
+  "202": {
+    "section": 202,
+    "title_html": "Seems to depend on the confusion of empty space with spatial order",
+    "title_text": "Seems to depend on the confusion of empty space with spatial order",
+    "page": 193
+  },
+  "203": {
+    "section": 203,
+    "title_html": "Kant regarded empty space as the subject-matter of Geometry,",
+    "title_text": "Kant regarded empty space as the subject-matter of Geometry,",
+    "page": 194
+  },
+  "204": {
+    "section": 204,
+    "title_html": "But the arguments of the Aesthetic are inconclusive on this point,",
+    "title_text": "But the arguments of the Aesthetic are inconclusive on this point,",
+    "page": 195
+  },
+  "205": {
+    "section": 205,
+    "title_html": "And are upset by the mathematical antinomies, which prove that spatial order should be the subject-matter of Geometry",
+    "title_text": "And are upset by the mathematical antinomies, which prove that spatial order should be the subject-matter of Geometry",
+    "page": 196
+  },
+  "206": {
+    "section": 206,
+    "title_html": "The apparent thinghood of space is a psychological illusion, due to the fact that spatial relations are immediately given",
+    "title_text": "The apparent thinghood of space is a psychological illusion, due to the fact that spatial relations are immediately given",
+    "page": 196
+  },
+  "207": {
+    "section": 207,
+    "title_html": "The apparent divisibility of spatial relations is either an illusion, arising out of empty space, or the expression of the possibility of quantitatively different spatial relations",
+    "title_text": "The apparent divisibility of spatial relations is either an illusion, arising out of empty space, or the expression of the possibility of quantitatively different spatial relations",
+    "page": 197
+  },
+  "208": {
+    "section": 208,
+    "title_html": "Externality is not a relation, but an aspect of relations. Spatial order, owing to its reference to matter, is a real relation",
+    "title_text": "Externality is not a relation, but an aspect of relations. Spatial order, owing to its reference to matter, is a real relation",
+    "page": 198
+  },
+  "209": {
+    "section": 209,
+    "title_html": "Conclusion",
+    "title_text": "Conclusion",
+    "page": 199
+  }
+}

@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometor-bertrand-russell"
+authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
+description = "Scholarly Book Codex of Bertrand Russell's foundational treatises on geometry (1897 & 1903), with cross-corpus concordance to Hoenen, Euclid, and Pappus."
+readme = "README.md"
+requires-python = ">=3.13"
+dynamic = ["version"]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[project.scripts]
+geometor-bertrand-russell = "geometor.bertrand_russell.compile_codex:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = {attr = "geometor.bertrand_russell.__version__"}
+
+[project.urls]
+"Website" = "https://geometor.github.io/bertrand-russell"
+"Repository" = "https://github.com/geometor/bertrand-russell"
+"Issues" = "https://github.com/geometor/bertrand-russell/issues"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"

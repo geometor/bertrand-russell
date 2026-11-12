@@ -1,0 +1,164 @@
+{
+  "formal-implication": {
+    "headword": "formal implication",
+    "translation": "Universal conditional over variables: φ(x) implies ψ(x) for all x",
+    "language": "English (Logicism)",
+    "definition": "Russell's foundational relation in PoM (1903, §§1, 5–6): an implication holding for every value of one or more variables, by which pure mathematics asserts hypothetical deductions ('if S is a Euclidean space, then P holds of S') without categorical existential commitments."
+  },
+  "logical-constant": {
+    "headword": "logical constant",
+    "translation": "Indefinable or purely logical primitive notion",
+    "language": "English (Logicism)",
+    "definition": "In PoM §1 & §10, the sole non-variable constituents permitted in propositions of pure mathematics: implication, class-membership (ε), 'such that', relation, and truth."
+  },
+  "propositional-function": {
+    "headword": "propositional function",
+    "translation": "Open expression φ(x) yielding a proposition for each value of x",
+    "language": "English (Logicism)",
+    "definition": "An expression containing one or more real variables which becomes a determinate true or false proposition whenever definite terms are substituted for its variables."
+  },
+  "projective-geometry": {
+    "headword": "projective geometry",
+    "translation": "Qualitative geometry of incidence, collineation, and harmonic separation",
+    "language": "English (Geometry)",
+    "definition": "The geometry of properties invariant under central projection and section, requiring neither betweenness on open lines nor quantitative distance; axiomatized qualitatively via incidence and von Staudt's quadrilateral construction (EFG Ch. III Sec. A; PoM Ch. XLV)."
+  },
+  "descriptive-geometry": {
+    "headword": "descriptive geometry",
+    "translation": "Geometry of open serial order and betweenness (Pasch–Peano)",
+    "language": "English (Geometry)",
+    "definition": "In Russell's 1903 classification (PoM Ch. XLVI, §§374–387), the study of spaces where two points determine an open serial segment (betweenness) rather than a closed projective line—applicable to Euclidean and hyperbolic spaces prior to introducing metrical congruence, and completed into projective space via ideal elements."
+  },
+  "metrical-geometry": {
+    "headword": "metrical geometry",
+    "translation": "Quantitative geometry of distance, congruence, angle, area, and volume",
+    "language": "English (Geometry)",
+    "definition": "The branch of geometry introducing quantitative equality (congruence) of stretches, distances, and angles, presupposing projective or descriptive order (EFG Ch. III Sec. B; PoM Ch. XLVII)."
+  },
+  "harmonic-range": {
+    "headword": "harmonic range",
+    "translation": "Four collinear points (A, B, C, D) in harmonic conjugation",
+    "language": "English (Projective Geometry)",
+    "definition": "Four collinear points such that A and C are harmonic conjugates with respect to B and D: metrically having cross-ratio -1, and projectively defined without metrics by von Staudt's complete quadrilateral construction (EFG §113; PoM §365)."
+  },
+  "quadrilateral-construction": {
+    "headword": "quadrilateral construction",
+    "translation": "Von Staudt's pure-incidence construction of the harmonic fourth point",
+    "language": "English (Projective Geometry)",
+    "definition": "Given collinear points A, B, D, constructing the unique harmonic conjugate C of A with respect to B, D by projecting from an external point O and intersecting diagonals of a complete quadrilateral—uniqueness in a plane following from three-dimensional incidence via Desargues's theorem (EFG §113; PoM §365)."
+  },
+  "anharmonic-ratio": {
+    "headword": "anharmonic ratio (cross-ratio)",
+    "translation": "Projective invariant of four collinear points or concurrent rays",
+    "language": "English / French (rapport anharmonique)",
+    "definition": "The double ratio (AB/CB) / (AD/CD) preserved under perspective projection; in pure projective geometry, assigned numerically via Möbius nets and Dedekind continuity without appeal to metrical distance (EFG §§111–112; PoM §370)."
+  },
+  "involution": {
+    "headword": "involution",
+    "translation": "Symmetric projective pairing of collinear points with double points",
+    "language": "English (Projective Geometry)",
+    "definition": "A projective correspondence on a line that interchanges conjugate pairs; hyperbolic involutions possess two real double points harmonic with every conjugate pair, whereas elliptic involutions have none (PoM §366)."
+  },
+  "moebius-net": {
+    "headword": "Möbius net",
+    "translation": "Countable dense harmonic net on a projective line or plane",
+    "language": "English (Projective Geometry)",
+    "definition": "The denumerable progression of points generated from three initial collinear points (0, 1, ∞) by repeated harmonic quadrilateral constructions, establishing rational projective coordinates and projective order (PoM §368)."
+  },
+  "duality": {
+    "headword": "principle of duality",
+    "translation": "Reciprocity of points and planes in 3-space (or points and lines in 2-space)",
+    "language": "English (Projective Geometry)",
+    "definition": "The formal symmetry of projective axioms under uniform interchange of 'point' and 'plane' (leaving 'straight line' invariant in three dimensions), doubling every projective theorem (EFG §107; PoM §373)."
+  },
+  "betweenness": {
+    "headword": "betweenness",
+    "translation": "Triadic open-order relation of collinear points",
+    "language": "English (Descriptive Geometry)",
+    "definition": "The primitive order relation axiomatized by Pasch, Peano, and Hilbert, analyzed by Russell in PoM Part IV and Ch. XLVI as generated by transitive asymmetrical serial relations along a line."
+  },
+  "separation-of-couples": {
+    "headword": "separation of couples",
+    "translation": "Tetradic cyclic order relation on a closed series (ab // cd)",
+    "language": "English (Order Theory / Projective Geometry)",
+    "definition": "Vailati's five-axiom symmetrical transitive relation between point-pairs (a, c) and (b, d) on a closed projective or elliptic line where simple triadic betweenness fails because any two points bound two complementary segments (PoM §§194, 367, 398)."
+  },
+  "ideal-elements": {
+    "headword": "ideal elements (points, lines, and planes at infinity)",
+    "translation": "Logical classes (sheaves/pencils) completing a descriptive space into a projective space",
+    "language": "English (Descriptive Geometry)",
+    "definition": "Following Pasch, an 'ideal point' is defined logically—without postulating fictitious entities—as an entire bundle (sheaf) of lines meeting pairwise in planes, allowing parallel or ultra-parallel lines to share an ideal intersection (PoM §§383–386)."
+  },
+  "superposition": {
+    "headword": "superposition",
+    "translation": "Geometric proof of congruence by transporting one figure onto another",
+    "language": "English (Classical Geometry)",
+    "definition": "Euclid's method in I.4, I.8, and C.N. 4; rejected by Russell in PoM §390 as logically circular because spatial points are immobile positions while moving material bodies presupposes an antecedent metrical definition of rigidity; rehabilitated epistemologically by Hoenen via extension as materia intelligibilis."
+  },
+  "stretch": {
+    "headword": "stretch",
+    "translation": "Open or closed segment of points between two endpoints on a line",
+    "language": "English (PoM Theory of Quantity)",
+    "definition": "The class of intermediate terms (or the generating serial relation restricted to them) between two collinear points A and B, contrasted by Russell with 'distance', which is an indivisible two-term relation (PoM §§169–170, 393–398)."
+  },
+  "magnitude-of-divisibility": {
+    "headword": "magnitude of divisibility",
+    "translation": "Quantitative measure of a stretch, area, or volume as a property of serial relations",
+    "language": "English (PoM Metrical Geometry)",
+    "definition": "Russell's relational interpretation of extensive spatial quantity (PoM §§162, 396–397): since all continuous stretches have the same Cantor cardinality 2^α₀, length belongs not to the point-set itself but to equivalence classes of generating serial relations."
+  },
+  "the-absolute": {
+    "headword": "the Absolute (Grundgebild)",
+    "translation": "Invariant conic or quadric locus defining a Cayley–Klein projective metric",
+    "language": "English / German",
+    "definition": "Cayley and Klein's fixed second-degree locus in projective space relative to which distance and angle are logarithmic functions of cross-ratios: an imaginary quadric yields elliptic geometry, a real non-degenerate quadric yields hyperbolic geometry, and a degenerate imaginary conic in a plane yields Euclidean geometry (EFG §31; PoM §§407–409)."
+  },
+  "metageometry": {
+    "headword": "Metageometry",
+    "translation": "General / non-Euclidean geometry investigating axiom independence",
+    "language": "English (19th-c. Geometry)",
+    "definition": "Term used throughout Russell's 1897 Essay for the synthetic (Gauss, Lobachevsky, Bolyai), metrical-differential (Riemann, Helmholtz, Beltrami), and projective (Cayley, Klein, Lie) generalizations of Euclidean geometry."
+  },
+  "manifold": {
+    "headword": "manifold (Mannigfaltigkeit)",
+    "translation": "Continuous or discrete n-tuply extended system of determinations",
+    "language": "English / German",
+    "definition": "Riemann's general class-concept of multiply extended magnitudes (1854), critiqued in EFG Ch. II (§§60–65) for neglecting qualitative relational order and reformulated logically in PoM Ch. XLIV as a multi-dimensional series."
+  },
+  "measure-of-curvature": {
+    "headword": "measure of curvature (Krümmungsmass)",
+    "translation": "Intrinsic Gaussian / Riemannian curvature constant k",
+    "language": "English / German",
+    "definition": "Intrinsic parameter characterizing homogeneous spaces admitting free mobility: k = 0 for Euclidean space, k < 0 for Lobachevskian (hyperbolic) space, and k > 0 for spherical and elliptic spaces (EFG §§20–23)."
+  },
+  "free-mobility": {
+    "headword": "axiom of Free Mobility (Congruence)",
+    "translation": "Invariance of spatial magnitudes under continuous change of position",
+    "language": "English",
+    "definition": "In EFG (§§146–154), the a priori metrical postulate that spatial magnitudes are independent of place, equivalent to constant Riemannian curvature and homogeneity of space."
+  },
+  "form-of-externality": {
+    "headword": "form of externality",
+    "translation": "Relational condition of experiencing simultaneous substantival diversity",
+    "language": "English (1897 Epistemology)",
+    "definition": "Central philosophical concept of Russell's 1897 Essay (Chs. III–IV): any intuitive relational medium rendering experience of diverse interrelated things possible—from which Russell deduced projective geometry and free mobility as a priori before abandoning transcendental arguments in 1903."
+  },
+  "materia-intelligibilis": {
+    "headword": "materia intelligibilis",
+    "translation": "Intelligible matter (pure continuous extension)",
+    "language": "Latin (Scholastic / Aristotelian)",
+    "definition": "Aristotle's and Aquinas's designation (ὕλη νοητή) for continuous extension abstracted from sensible qualities, invoked by Hoenen (Caput IV & VII) as the principle of individuation and congruence answering Russell's attack on Euclid I.4."
+  },
+  "motion-geometric": {
+    "headword": "motion (geometrical)",
+    "translation": "Class of metric-preserving one-one point transformations",
+    "language": "English (PoM Metrical Geometry)",
+    "definition": "In PoM §§390 & 395, Russell's static relational replacement for kinematic transport: a group of bijective point-correlations leaving all distances and metrical properties invariant (axiomatized directly as an indefinable by Pieri, 1899)."
+  },
+  "point-spatial": {
+    "headword": "point (spatial element)",
+    "translation": "Simple unextended term of spatial relations",
+    "language": "English (Foundations of Geometry)",
+    "definition": "Treated in EFG (§§117, 189–204) as infected with a dialectical contradiction between unextended simplicity and spatiality, then vindicated in PoM (Ch. LI, §§423–431) as a logically consistent substantive term of multi-dimensional serial relations."
+  }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 160" width="180" height="160" role="img" aria-label="Oriented circle with directional arrow on the elliptic plane (p. 41)">
+  <title>Oriented circle with directional arrow on the elliptic plane (p. 41)</title>
+  <style>
+    .bg { fill: #fcfaf5; stroke: #d8d0c0; stroke-width: 1; rx: 4; }
+    .primary { stroke: #1c2430; stroke-width: 1.75; fill: none; stroke-linecap: round; }
+    .aux { stroke: #526071; stroke-width: 1.15; stroke-dasharray: 4 3; fill: none; }
+    .accent { stroke: #8b3a2b; stroke-width: 1.85; fill: none; }
+    .pt { fill: #1c2430; }
+    .pt-accent { fill: #8b3a2b; }
+    .lbl { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 14px; font-style: italic; fill: #1c2430; }
+    .lbl-rom { font-family: "Libertinus Serif", "STIX Two Text", Georgia, serif; font-size: 13px; fill: #1c2430; }
+  </style>
+  <rect class="bg" x="1" y="1" width="178" height="158" rx="4" />
+  <circle class="primary" cx="90" cy="80" r="42" />
+  <path class="accent" d="M 90 38 A 42 42 0 0 1 132 80" />
+  <polygon class="pt-accent" points="132,84 126,72 138,73" />
+  <circle class="pt" cx="90.00" cy="80.00" r="3.2" />
+
+</svg>
