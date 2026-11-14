@@ -2,6 +2,11 @@
 changelog
 =========
 
+0.1.1 (2026-11-13)
+------------------
+
+- Curated and mapped primary-source folio links for 1897 *Essay on the Foundations of Geometry* and 1903 *Principles of Mathematics* (305/305 directives resolved).
+
 0.1.0 (2026-11-11)
 ------------------
 
