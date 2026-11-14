@@ -1,7 +1,7 @@
 :navigation: header
 :order: 2
+:nav_title: Foundations of Geometry
 :layout: book
-:title: Foundations of Geometry (1897)
 :book_title: An Essay on the Foundations of Geometry
 :book_subtitle: Complete First Edition (§§ 1–209, 1897)
 :author: Bertrand A. W. Russell, M.A.
@@ -13,7 +13,7 @@
 .. _efg-index:
 .. _foundations-of-geometry-index:
 
-AN ESSAY ON THE FOUNDATIONS OF GEOMETRY
+An Essay on the Foundations of Geometry
 =======================================
 
 .. rubric:: Complete 1897 Cambridge University Press First Edition (Preface, Dedication, and §§ 1–209)
@@ -33,8 +33,8 @@ This Book Codex reproduces the **complete, unabridged 1897 Cambridge University 
 
 ----
 
-Analytical Table of Contents
-----------------------------
+Table of Contents
+-----------------
 
 Preface & Dedication (1897)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -84,6 +84,16 @@ Chapter IV: Philosophical Consequences (§§ 180–209)
 *pp. 178–201*
 
 :ref:`English (1897) <efg-ch-04-consequences-en>` · :ref:`Summary <efg-ch-04-consequences-summary>` · :ref:`Notes <efg-ch-04-consequences-notes>`
+
+----
+
+Scholarly Apparatus & Cross-Corpus Indices
+------------------------------------------
+
+* :doc:`Cross-Corpus Concordance </concordance>` — Russell (1897 & 1903) ↔ Hoenen, Heath's Euclid, & Pappus
+* :doc:`Biographical Register of Persons </persons>` — Geometers, logicians, and philosophers cited in Russell's treatises
+* :doc:`Systematic Bibliography </bibliography>` — Primary editions and historical sources
+* :doc:`Technical Glossary </glossary>` — Projective, descriptive, metrical, and logical terminology
 
 .. toctree::
    :maxdepth: 2

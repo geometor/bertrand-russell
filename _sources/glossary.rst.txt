@@ -1,10 +1,11 @@
-:title: Technical Glossary of Geometric & Logical Terms
-:layout: book
+:navigation: footer
+:order: 60
+:nav_title: Glossary
 
 .. _glossary:
 
-Technical Glossary
-==================
+Glossary
+========
 
 .. rubric:: Projective, Descriptive, Metrical, Logicist, and Scholastic Terminology
 
