@@ -1,11 +1,10 @@
-:navigation: header
-:order: 3
-:layout: book
-:title: Concordance
+:navigation: footer
+:order: 50
+:nav_title: Concordance
 
 .. _concordance:
 
-CROSS-CORPUS CONCORDANCE
+Cross-Corpus Concordance
 ========================
 
 .. rubric:: Bidirectional Loci Across Russell (1897 & 1903), Hoenen (*De Noetica Geometriae*, 1954), Heath's *Euclid* (1908), and *Pappus*
