@@ -18,7 +18,7 @@ CHAPTER I
 § 1. Definition of pure mathematics
 -----------------------------------
 
-.. folio:: §1
+.. folio:: pom-§1
    :page: p. 3
 
 .. _pom-p3:
@@ -30,7 +30,7 @@ CHAPTER I
 § 2. The principles of mathematics are no longer controversial
 --------------------------------------------------------------
 
-.. folio:: §2
+.. folio:: pom-§2
    :page: p. 3
 
 .. _pom-p4:
@@ -42,7 +42,7 @@ CHAPTER I
 § 3. Pure mathematics uses only a few notions, and these are logical constants
 ------------------------------------------------------------------------------
 
-.. folio:: §3
+.. folio:: pom-§3
    :page: p. 4
 
 **3.** The Philosophy of Mathematics has been hitherto as controversial, obscure and unprogressive as the other branches of philosophy. Although it was generally agreed that mathematics is in some sense true, philosophers disputed as to what mathematical propositions really meant: although something was true, no two people were agreed as to what it was that was true, and if something was known, no one knew what it was that was known. So long, however, as this was doubtful, it could hardly be said that any certain and exact knowledge was to be obtained in mathematics. We find, accordingly, that idealists have tended more and more to regard all mathematics as dealing with mere appearance, while empiricists have held everything mathematical to be approximation to some exact truth about which they had nothing to tell us. This state of things, it must be confessed, was thoroughly unsatisfactory. Philosophy asks of Mathematics: What does it mean? Mathematics in the past was unable to answer, and Philosophy answered by introducing the totally irrelevant notion of mind. But now Mathematics is able to answer, so far at least as to reduce the whole of its propositions to certain fundamental notions of logic. At this point, the discussion must be resumed by Philosophy. I shall endeavour to indicate what are the fundamental notions involved, to prove at length that no others occur in mathematics, and to point out briefly the philosophical difficulties involved in the analysis of these notions. A complete treatment of these difficulties would involve a treatise on Logic, which will not be found in the following pages.
@@ -52,7 +52,7 @@ CHAPTER I
 § 4. All pure mathematics follows formally from twenty premisses
 ----------------------------------------------------------------
 
-.. folio:: §4
+.. folio:: pom-§4
    :page: p. 4
 
 .. _pom-p5:
@@ -64,7 +64,7 @@ CHAPTER I
 § 5. Asserts formal implications
 --------------------------------
 
-.. folio:: §5
+.. folio:: pom-§5
    :page: p. 5
 
 **5.** The general doctrine that all mathematics is deduction by logical principles from logical principles was strongly advocated by Leibniz, who urged constantly that axioms ought to be proved and that all except a few fundamental notions ought to be defined. But owing partly to a faulty logic, partly to belief in the logical necessity of Euclidean Geometry, he was led into hopeless errors in the endeavour to carry out in detail a view which, in its general outline, is now known to be correct [#pom_fn5_1]_. The actual propositions of Euclid, for example, do not follow from the principles of logic alone; and the perception of this fact led Kant to his innovations in the theory of knowledge. But since the growth of non-Euclidean Geometry, it has appeared that pure mathematics has no concern with the question whether the axioms and propositions of Euclid hold of actual space or not: this is a question for applied mathematics, to be decided, so far as any decision is possible, by experiment and observation. What pure mathematics asserts is merely that the Euclidean propositions follow from the Euclidean axioms—*i.e.* it asserts an implication: any space which has such and such properties has also such and such other properties. Thus, as dealt with in pure mathematics, the Euclidean and non-Euclidean Geometries are equally true: in each nothing is affirmed except implications. All propositions as to what actually exists, like the space we live in, belong to experimental or empirical science, not to mathematics; when they belong to applied mathematics, they arise from giving to one or more of the variables in a proposition of pure mathematics some constant value satisfying the hypothesis, and thus enabling us, for that value of the variable, actually to assert both hypothesis and consequent instead of asserting merely the implication. We assert always in mathematics that if a certain assertion *p* is true of any entity *x*, or of any set of entities *x*, *y*, *z*, … , then some other assertion *q* is true of those entities; but we do not assert either *p* or *q* separately of our entities. We assert a relation between the assertions *p* and *q*, which I shall call *formal implication*.
@@ -74,7 +74,7 @@ CHAPTER I
 § 6. And employs variables
 --------------------------
 
-.. folio:: §6
+.. folio:: pom-§6
    :page: p. 5
 
 .. _pom-p6:
@@ -88,7 +88,7 @@ The distinction between a variable and a constant is somewhat obscured by mathem
 § 7. Which may have any value without exception
 -----------------------------------------------
 
-.. folio:: §7
+.. folio:: pom-§7
    :page: p. 6
 
 .. _pom-p7:
@@ -100,7 +100,7 @@ The distinction between a variable and a constant is somewhat obscured by mathem
 § 8. Mathematics deals with types of relations
 ----------------------------------------------
 
-.. folio:: §8
+.. folio:: pom-§8
    :page: p. 7
 
 .. _pom-p8:
@@ -112,7 +112,7 @@ The distinction between a variable and a constant is somewhat obscured by mathem
 § 9. Applied mathematics is defined by the occurrence of constants which are not logical
 ----------------------------------------------------------------------------------------
 
-.. folio:: §9
+.. folio:: pom-§9
    :page: p. 8
 
 **9.** Thus pure mathematics must contain no indefinables except logical constants, and consequently no premisses, or indemonstrable propositions, but such as are concerned exclusively with logical constants and with variables. It is precisely this that distinguishes pure from applied mathematics. In applied mathematics, results which have been shown by pure mathematics to follow from some hypothesis as to the variable are actually asserted of some constant satisfying the hypothesis in question. Thus terms which were variables become constant, and a new premiss is always required, namely: this particular entity satisfies the hypothesis in question. Thus for example Euclidean Geometry, as a branch of pure mathematics, consists wholly of propositions having the hypothesis “*S* is a Euclidean space.” If we go on to: “The space that exists is Euclidean,” this enables us to assert of the space that exists the consequents of all the hypotheticals constituting Euclidean Geometry, where now the variable *S* is replaced by the constant *actual space*. But by this step we pass from pure to applied mathematics.
@@ -122,7 +122,7 @@ The distinction between a variable and a constant is somewhat obscured by mathem
 § 10. Relation of mathematics to logic
 --------------------------------------
 
-.. folio:: §10
+.. folio:: pom-§10
    :page: p. 8
 
 .. _pom-p9:
