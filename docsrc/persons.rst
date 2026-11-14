@@ -1,16 +1,36 @@
-:title: Biographical Register of Geometers & Philosophers
-:layout: book
+:navigation: header
+:order: 5
+:nav_title: People
 
 .. _persons:
 
-Biographical Register of Persons
-================================
+People
+======
 
-.. rubric:: Mathematicians, Logicians, and Philosophers of Space in Russell's Geometric Treatises
+.. rubric:: Primary Author, Collaborators, and Cited Thinkers in Russell's Geometric Treatises
 
 This register profiles **43 geometers, logicians, and philosophers** discussed across :cite:`*An Essay on the Foundations of Geometry* (1897) <russell:1897>`, :cite:`*The Principles of Mathematics* (1903) <russell:1903>`, and the GEOMETOR critical commentary. Every inline ``:person:`` reference resolves directly to its biographical entry here.
 
 ----
+
+Authors, Translators & Editors
+------------------------------
+
+.. _person-russell:
+
+Bertrand Arthur William Russell (1872 – 1970)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*British Philosopher, Logician & Mathematician*
+
+Fellow of Trinity College, Cambridge, and co-author with A. N. Whitehead of *Principia Mathematica*. His 1897 *Essay on the Foundations of Geometry* synthesized Klein's metageometry with a revised Kantian epistemology of the 'form of externality', whereas his 1903 *Principles of Mathematics* inaugurated modern logicism, reducing pure geometry to the logic of multi-dimensional relations and sharpening the critique of Euclidean superposition later answered by P. Hoenen, S.J.
+
+Entered Trinity College, Cambridge in October 1890 as a scholar in the Mathematical Tripos (7th Wrangler, 1893) before turning to the Moral Sciences Tripos (First Class with distinction, 1894). Throughout the crucial decade 1894–1903, the foundations of geometry formed the central crucible in which Russell forged his philosophy of mathematics. Expanded from his 1895 Fellowship dissertation, the 1897 *Essay* modernized Kant's *Critique of Pure Reason* in light of nineteenth-century metageometry. Following decisive encounters with Peano, Pieri, and Cantor at the 1900 Paris Congress, Russell transformed mathematical philosophy through the logic of relations in *The Principles of Mathematics* (1903).
+
+----
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 .. _person-whitehead:
 
@@ -65,15 +85,6 @@ Bernhard Riemann (1826 – 1866)
 *German Mathematician*
 
 In his 1854 Habilitationsvortrag ('Über die Hypothesen, welche der Geometrie zu Grunde liegen'), generalized Gauss's intrinsic curvature to n-dimensional manifolds (Mannigfaltigkeiten) and introduced spaces of constant positive curvature.
-
-.. _person-russell:
-
-Bertrand Arthur William Russell (1872 – 1970)
----------------------------------------------
-
-*British Philosopher, Logician & Mathematician*
-
-Fellow of Trinity College, Cambridge, and co-author with A. N. Whitehead of Principia Mathematica. His 1897 Essay on the Foundations of Geometry synthesized Klein's metageometry with a revised Kantian epistemology of the 'form of externality', whereas his 1903 Principles of Mathematics inaugurated modern logicism, reducing pure geometry to the logic of multi-dimensional relations and sharpening the critique of Euclidean superposition later answered by P. Hoenen, S.J.
 
 .. _person-gauss:
 

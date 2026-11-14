@@ -1108,8 +1108,8 @@ def _compile_pom_book_index() -> str:
     lines: list[str] = [
         ":navigation: header",
         ":order: 1",
+        ":nav_title: Principles of Mathematics",
         ":layout: book",
-        ":title: Principles of Mathematics (1903)",
         ":book_title: The Principles of Mathematics",
         ":book_subtitle: Vol. I — Preface, Part I (Ch. I), and Part VI: Space (1903)",
         ":author: Bertrand Russell, M.A.",
@@ -1121,7 +1121,7 @@ def _compile_pom_book_index() -> str:
         ".. _pom-index:",
         ".. _principles-of-mathematics-index:",
         "",
-        "THE PRINCIPLES OF MATHEMATICS",
+        "The Principles of Mathematics",
         "=============================",
         "",
         ".. rubric:: Vol. I — 1903 First Edition: Preface, Part I (Chapter I), and Part VI (*Space*, Chapters XLIV–LII)",
@@ -1154,8 +1154,8 @@ def _compile_pom_book_index() -> str:
         "",
         "----",
         "",
-        "Analytical Table of Contents",
-        "----------------------------",
+        "Table of Contents",
+        "-----------------",
         "",
     ]
 
@@ -1208,8 +1208,8 @@ def _compile_efg_book_index() -> str:
     lines: list[str] = [
         ":navigation: header",
         ":order: 2",
+        ":nav_title: Foundations of Geometry",
         ":layout: book",
-        ":title: Foundations of Geometry (1897)",
         ":book_title: An Essay on the Foundations of Geometry",
         ":book_subtitle: Complete First Edition (§§ 1–209, 1897)",
         ":author: Bertrand A. W. Russell, M.A.",
@@ -1221,7 +1221,7 @@ def _compile_efg_book_index() -> str:
         ".. _efg-index:",
         ".. _foundations-of-geometry-index:",
         "",
-        "AN ESSAY ON THE FOUNDATIONS OF GEOMETRY",
+        "An Essay on the Foundations of Geometry",
         "=======================================",
         "",
         ".. rubric:: Complete 1897 Cambridge University Press First Edition (Preface, Dedication, and §§ 1–209)",
@@ -1245,8 +1245,8 @@ def _compile_efg_book_index() -> str:
         "",
         "----",
         "",
-        "Analytical Table of Contents",
-        "----------------------------",
+        "Table of Contents",
+        "-----------------",
         "",
     ]
 
@@ -1303,14 +1303,13 @@ def _compile_concordance_page(repo_root: Path) -> str:
     """Generate `docsrc/concordance.rst` linking Russell (1897 & 1903) to Hoenen, Heath's Euclid, and Pappus."""
     entries = load_concordance(repo_root)
     lines: list[str] = [
-        ":navigation: header",
-        ":order: 3",
-        ":layout: book",
-        ":title: Concordance",
+        ":navigation: footer",
+        ":order: 50",
+        ":nav_title: Concordance",
         "",
         ".. _concordance:",
         "",
-        "CROSS-CORPUS CONCORDANCE",
+        "Cross-Corpus Concordance",
         "========================",
         "",
         ".. rubric:: Bidirectional Loci Across Russell (1897 & 1903), Hoenen (*De Noetica Geometriae*, 1954), Heath's *Euclid* (1908), and *Pappus*",
@@ -1396,13 +1395,14 @@ def _compile_concordance_page(repo_root: Path) -> str:
 def _compile_bibliography_page(citations: dict[str, dict[str, Any]]) -> str:
     """Generate `docsrc/bibliography.rst` with `#cite-<slug>` anchors matching `publish`."""
     lines: list[str] = [
-        ":title: Systematic Bibliography & Cited Sources",
-        ":layout: book",
+        ":navigation: header",
+        ":order: 6",
+        ":nav_title: Bibliography",
         "",
         ".. _bibliography:",
         "",
-        "Bibliography & Cited Sources",
-        "============================",
+        "Bibliography",
+        "============",
         "",
         ".. rubric:: Primary Russell Editions, 19th-Century Geometrical Sources, and GEOMETOR Critical Apparatus",
         "",
@@ -1434,15 +1434,16 @@ def _compile_bibliography_page(citations: dict[str, dict[str, Any]]) -> str:
 def _compile_persons_page(persons: dict[str, dict[str, Any]]) -> str:
     """Generate `docsrc/persons.rst` with `#person-<slug>` anchors matching `publish`."""
     lines: list[str] = [
-        ":title: Biographical Register of Geometers & Philosophers",
-        ":layout: book",
+        ":navigation: header",
+        ":order: 5",
+        ":nav_title: People",
         "",
         ".. _persons:",
         "",
-        "Biographical Register of Persons",
-        "================================",
+        "People",
+        "======",
         "",
-        ".. rubric:: Mathematicians, Logicians, and Philosophers of Space in Russell's Geometric Treatises",
+        ".. rubric:: Primary Author, Collaborators, and Cited Thinkers in Russell's Geometric Treatises",
         "",
         (f"This register profiles **{len(persons)} geometers, logicians, and philosophers** discussed across "
         ":cite:`*An Essay on the Foundations of Geometry* (1897) <russell:1897>`, "
@@ -1451,8 +1452,36 @@ def _compile_persons_page(persons: dict[str, dict[str, Any]]) -> str:
         "",
         "----",
         "",
+        "Authors, Translators & Editors",
+        "------------------------------",
+        "",
+        ".. _person-russell:",
+        "",
+        "Bertrand Arthur William Russell (1872–1970)",
+        "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~",
+        "",
+        "*British Philosopher, Logician & Mathematician*",
+        "",
+        ("Fellow of Trinity College, Cambridge, and co-author with A. N. Whitehead of *Principia Mathematica*. "
+        "His 1897 *Essay on the Foundations of Geometry* synthesized Klein's metageometry with a revised Kantian "
+        "epistemology of the 'form of externality', whereas his 1903 *Principles of Mathematics* inaugurated modern "
+        "logicism, reducing pure geometry to the logic of multi-dimensional relations and sharpening the critique "
+        "of Euclidean superposition later answered by P. Hoenen, S.J.\n\n"
+        "Entered Trinity College, Cambridge in 1890 as a scholar in the Mathematical Tripos (7th Wrangler, 1893) "
+        "before turning to the Moral Sciences Tripos (First Class with distinction, 1894). Expanded from his 1895 "
+        "Fellowship dissertation, the 1897 *Essay* modernized Kant's *Critique of Pure Reason* in light of nineteenth-century "
+        "metageometry. Following decisive encounters with Peano, Pieri, and Cantor at the 1900 Paris Congress, "
+        "Russell transformed mathematical philosophy through the logic of relations in *The Principles of Mathematics* (1903)."),
+        "",
+        "----",
+        "",
+        "Cited Geometers, Philosophers & Scholars",
+        "----------------------------------------",
+        "",
     ]
     for key in sorted(persons.keys(), key=lambda k: persons[k]["name"]):
+        if key == "russell":
+            continue
         info = persons[key]
         slug = apparatus_slug(key)
         heading = f"{info['name']} ({info['dates']})"
@@ -1460,7 +1489,7 @@ def _compile_persons_page(persons: dict[str, dict[str, Any]]) -> str:
             [
                 f".. _person-{slug}:",
                 "",
-                _rst_heading(heading, "-"),
+                _rst_heading(heading, "~"),
                 "",
                 f"*{info['role']}*",
                 "",
@@ -1474,13 +1503,14 @@ def _compile_persons_page(persons: dict[str, dict[str, Any]]) -> str:
 def _compile_glossary_page(glossary: dict[str, dict[str, Any]]) -> str:
     """Generate `docsrc/glossary.rst` with `#term-<slug>` anchors matching `publish`."""
     lines: list[str] = [
-        ":title: Technical Glossary of Geometric & Logical Terms",
-        ":layout: book",
+        ":navigation: footer",
+        ":order: 60",
+        ":nav_title: Glossary",
         "",
         ".. _glossary:",
         "",
-        "Technical Glossary",
-        "==================",
+        "Glossary",
+        "========",
         "",
         ".. rubric:: Projective, Descriptive, Metrical, Logicist, and Scholastic Terminology",
         "",

@@ -1,7 +1,7 @@
 :navigation: header
 :order: 1
+:nav_title: Principles of Mathematics
 :layout: book
-:title: Principles of Mathematics (1903)
 :book_title: The Principles of Mathematics
 :book_subtitle: Vol. I — Preface, Part I (Ch. I), and Part VI: Space (1903)
 :author: Bertrand Russell, M.A.
@@ -13,7 +13,7 @@
 .. _pom-index:
 .. _principles-of-mathematics-index:
 
-THE PRINCIPLES OF MATHEMATICS
+The Principles of Mathematics
 =============================
 
 .. rubric:: Vol. I — 1903 First Edition: Preface, Part I (Chapter I), and Part VI (*Space*, Chapters XLIV–LII)
@@ -37,8 +37,8 @@ This Book Codex presents the **unabridged, verbatim 1903 Cambridge University Pr
 
 ----
 
-Analytical Table of Contents
-----------------------------
+Table of Contents
+-----------------
 
 Preface (1903)
 ~~~~~~~~~~~~~~
@@ -116,6 +116,16 @@ Chapter LII: Kant's Theory of Space (§§ 432–436)
 *Part VI — Space · pp. 454–461*
 
 :ref:`English (1903) <pom-ch-52-kant-en>` · :ref:`Summary <pom-ch-52-kant-summary>` · :ref:`Notes <pom-ch-52-kant-notes>`
+
+----
+
+Scholarly Apparatus & Cross-Corpus Indices
+------------------------------------------
+
+* :doc:`Cross-Corpus Concordance </concordance>` — Russell (1897 & 1903) ↔ Hoenen, Heath's Euclid, & Pappus
+* :doc:`Biographical Register of Persons </persons>` — Geometers, logicians, and philosophers cited in Russell's treatises
+* :doc:`Systematic Bibliography </bibliography>` — Primary editions and historical sources
+* :doc:`Technical Glossary </glossary>` — Projective, descriptive, metrical, and logical terminology
 
 .. toctree::
    :maxdepth: 2

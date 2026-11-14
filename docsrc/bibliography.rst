@@ -1,10 +1,11 @@
-:title: Systematic Bibliography & Cited Sources
-:layout: book
+:navigation: header
+:order: 6
+:nav_title: Bibliography
 
 .. _bibliography:
 
-Bibliography & Cited Sources
-============================
+Bibliography
+============
 
 .. rubric:: Primary Russell Editions, 19th-Century Geometrical Sources, and GEOMETOR Critical Apparatus
 

@@ -1,8 +1,9 @@
 :navigation: header
 :order: 10
+:nav_title: Mission
 
 =======
-mission
+Mission
 =======
 
 ``geometor.bertrand_russell`` establishes a verified, public-domain digital critical edition of **Bertrand Russell's** two foundational Cambridge treatises on geometry—*An Essay on the Foundations of Geometry* (1897) and *The Principles of Mathematics* (1903, First Edition: Preface, Part I Ch. I, and Part VI *Space*).
