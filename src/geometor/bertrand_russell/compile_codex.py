@@ -631,7 +631,8 @@ def _compile_pom_chapter_en(
             lines.append(_rst_heading(f"§ {sec_num}. {sec_title}", "-"))
             lines.append("")
             if sec_page:
-                lines.append(f".. folio:: §{sec_num}")
+                prefix = "pom-" if int(sec_num) <= 10 else ""
+                lines.append(f".. folio:: {prefix}§{sec_num}")
                 lines.append(f"   :page: p. {sec_page}")
                 lines.append("")
 
