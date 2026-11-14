@@ -16,7 +16,7 @@ from geometor.bertrand_russell.concordance import (
 )
 from geometor.bertrand_russell.diagrams import generate_all_diagrams
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 __all__ = [
     "ConcordanceEntry",
