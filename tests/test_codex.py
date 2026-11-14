@@ -36,7 +36,7 @@ def _strip_rst_inline_markup(text: str) -> str:
 
 def test_package_version_and_source_checksums() -> None:
     """All archived 1897 and 1903 primary source files match SHA-256 checksums and byte counts."""
-    assert __version__ == "0.1.0"
+    assert __version__ == "0.1.1"
     manifest = load_sources_manifest(REPO_ROOT)
     assert len(manifest.get("works", [])) == 2
     verification = verify_source_checksums(REPO_ROOT)
