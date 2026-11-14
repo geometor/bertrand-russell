@@ -36,6 +36,7 @@ Scholarly Apparatus & Essays
 ----------------------------
 
 * :doc:`Using This Edition (Reader's Guide) <usage/index>`
+* :doc:`About This Edition <about/index>`
 * :doc:`Biographical Register of Persons <persons>` · :doc:`Systematic Bibliography <bibliography>`
 * :doc:`Cross-Corpus Concordance (Russell 1897 & 1903 ↔ Hoenen, Heath's Euclid, & Pappus) <concordance>` · :doc:`Technical Glossary <glossary>`
 * :ref:`Bertrand Russell (1872–1970): Trinity Fellowship to Logicism <about-bertrand-russell>`

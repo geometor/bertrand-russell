@@ -49,7 +49,7 @@
           <a href="../bibliography.html"  >Bibliography</a>
         </li>
         <li>
-          <a href="../mission/index.html"  >Mission</a>
+          <a href="#" class="is-active" aria-selected="true" aria-current="page">About</a>
         </li>
         <li>
           <a href="../usage/index.html"  >Usage</a>
@@ -76,7 +76,7 @@
         </div>
         <div class="book-header-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../modules/api/geometor/bertrand_russell/diagrams/index.html" title="geometor.bertrand_russell.diagrams">&larr; <span class="nav-label">Prev</span></a>
+            <a class="book-nav-btn" href="../bibliography.html" title="Bibliography">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
           </div>
@@ -86,9 +86,38 @@
         </div>
       </header>
       <div class="content body book-content" role="main">
-        <section class="level-1" id="about">
-        <span id="about-index"></span><h1>About<a class="headerlink" href="#about" title="Link to this heading">¶</a></h1>
-        <p>Biographical, mathematical, and philosophical essays contextualizing <a class="person-ref" id="occ-person-russell-1" href="../persons.html#person-russell" data-person="russell" title="Bertrand Arthur William Russell (1872 – 1970) — British Philosopher, Logician &amp; Mathematician">Bertrand Russell</a>’s 1897 and 1903 treatises on geometry within the <strong>GEOMETOR</strong> initiative.</p>
+        <section class="level-1" id="about-index">
+        <span id="about"></span><span id="id1"></span><h1>About<a class="headerlink" href="#about-index" title="Link to this heading">¶</a></h1>
+        <p class="rubric">Extracting Historical Semantic Knowledge &amp; Repurposing It for Exact Symbolic Reasoning</p>
+        <section class="level-2" id="about-this-edition">
+        <h2>About This Edition<a class="headerlink" href="#about-this-edition" title="Link to this heading">¶</a></h2>
+        <p><code class="docutils literal notranslate"><span class="pre">geometor.bertrand_russell</span></code> establishes a verified, public-domain digital critical edition of <strong>Bertrand Russell’s</strong> two foundational Cambridge treatises on geometry: <em>An Essay on the Foundations of Geometry</em> (1897) and <em>The Principles of Mathematics</em> (1903, First Edition: Preface, Part I Ch. I, and Part VI <em>Space</em>). Reconstructed from primary Cambridge University Press impressions, this edition recovers the historical progression of Russell’s spatial thought from his neo-Kantian fellowship dissertation to the relational logic of the logicist thesis.</p>
+        <p>The edition reconstructs the complete unabridged 1897 dissertation—including all 209 numbered sections, 171 author’s footnotes, and 9 calibrated vector figures—alongside all 96 numbered sections of the 1903 spatial foundations (Chapters XLIV–LII, §§ 351–436). It provides a complete, machine-addressable semantic representation of Russell’s famous critique of Euclid in Chapter XLVII (§§ 389–391), including the circle-intersection dilemma in Proposition I.1, the illegitimacy of triangle superposition in Proposition I.4, and the formalization of projective, descriptive, and metrical geometry via the relational logic of Peano, Cantor, and Pieri.</p>
+        <p>Within the <strong>GEOMETOR</strong> canon, Russell’s treatises serve as the primary logicist and metageometrical interlocutor for three sister projects:</p>
+        <ol class="arabic simple">
+        <li><p><strong>Epistemology of Geometry (`geometor/hoenen`)</strong>: Supplying the exact 1903 text and surrounding relational continuum chapters answered point-by-point by <a class="person-ref" id="occ-person-hoenen-1" href="../persons.html#person-hoenen" data-person="hoenen" title="Petrus Hubertus Jacobus Hoenen, S.J. (1880 – 1961) — Dutch Jesuit Physicist &amp; Philosopher of Mathematics">Fr. Petrus Hoenen, S.J.</a> in <em>De Noetica Geometriae</em> (1954), Caput III–V.</p></li>
+        <li><p><strong>Classical Euclidean Foundations (`geometor/euclid` &amp; `geometor/elements`)</strong>: Providing the structural context for <a class="person-ref" id="occ-person-heath-1" href="../persons.html#person-heath" data-person="heath" title="Sir Thomas Little Heath (1861 – 1940) — British Historian of Ancient Greek Mathematics">Sir Thomas L. Heath</a>’s engagement with Russell’s critique of circle intersection in <code class="docutils literal notranslate"><span class="pre">I.1</span></code>, triangle <a class="term-ref glossary-term" id="occ-term-superposition-1" href="../glossary.html#term-superposition" data-term="superposition" title="superposition (Geometric proof of congruence by transporting one figure onto another): Euclid&#x27;s method in I.4, I.8, and C.N. 4; rejected by Russell in PoM §390 as logically circular because spatial points are immobile positions while moving material bodies presupposes an antecedent metrical definition of rigidity; rehabilitated epistemologically by Hoenen via extension as materia intelligibilis.">superposition</a> in <code class="docutils literal notranslate"><span class="pre">I.4</span></code>, and implicit order axioms.</p></li>
+        <li><p><strong>Synthetic Projective Geometry (`geometor/pappus`)</strong>: Tracing the modern axiomatization of <a class="person-ref" id="occ-person-pappus-1" href="../persons.html#person-pappus" data-person="pappus" title="Pappus of Alexandria (c. 290 – c. 350 AD) — Late Antique Greek Geometer">Pappus of Alexandria</a>’s cross-ratio invariance and <a class="person-ref" id="occ-person-staudt-1" href="../persons.html#person-staudt" data-person="staudt" title="Karl Georg Christian von Staudt (1798 – 1867) — German Synthetic Projective Geometer">Karl Georg Christian von Staudt</a>’s <a class="term-ref glossary-term" id="occ-term-quadrilateral-construction-1" href="../glossary.html#term-quadrilateral-construction" data-term="quadrilateral-construction" title="quadrilateral construction (Von Staudt&#x27;s pure-incidence construction of the harmonic fourth point): Given collinear points A, B, D, constructing the unique harmonic conjugate C of A with respect to B, D by projecting from an external point O and intersecting diagonals of a complete quadrilateral—uniqueness in a plane following from three-dimensional incidence via Desargues&#x27;s theorem (EFG §113; PoM §365).">quadrilateral construction</a> from Russell’s 1897 circularity critique to his 1903 <a class="person-ref" id="occ-person-pieri-1" href="../persons.html#person-pieri" data-person="pieri" title="Mario Pieri (1860 – 1913) — Italian Geometer of the Peano School">Pieri</a>-inspired deductive synthesis.</p></li>
+        </ol>
+        </section>
+        <section class="level-2" id="the-geometor-mission">
+        <h2>The GEOMETOR Mission<a class="headerlink" href="#the-geometor-mission" title="Link to this heading">¶</a></h2>
+        <p>The <strong>GEOMETOR</strong> initiative, founded by <strong>phi ARCHITECT</strong>, is dedicated to a three-fold synthesis of classical geometry, exact symbolic computation, and modern knowledge architecture:</p>
+        <ul class="simple">
+        <li><p><strong>Extracting Historical Semantic Knowledge</strong>: Moving beyond passive page scans and static OCR to recover the living deductive structure of 2,300+ years of geometric, axiomatic, and philosophical treatises. We elevate running prose, marginal citations, primary-source folios (via <code class="docutils literal notranslate"><span class="pre">publish</span> <span class="pre">folio</span></code>), and calibrated Ink-to-Vector <code class="docutils literal notranslate"><span class="pre">.euclid-graphic</span></code> diagrams into structured, machine-addressable semantic graphs where every enunciation, proof step, and historical cross-reference is individually referenceable.</p></li>
+        <li><p><strong>Exact Symbolic Grounding (``geometor.model``)</strong>: Anchoring geometric constructions in 100% exact symbolic algebra (via <code class="docutils literal notranslate"><span class="pre">SymPy</span></code>) and Rational Trigonometry invariants (quadrance, spread, cross-ratio) over exact algebraic number fields rather than lossy floating-point approximations. Every geometric theorem is treated as an exact algebraic truth verifiable through computational modeling.</p></li>
+        <li><p><strong>Repurposing Knowledge Across Mediums</strong>: Re-deploying extracted semantic and algebraic structures across synchronized multi-track <strong>Book Codices</strong> and EPUB 3 editions (via <code class="docutils literal notranslate"><span class="pre">photon-platform/publish</span></code>), computable deductive canons (<code class="docutils literal notranslate"><span class="pre">geometor.elements</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.etc</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.pappus</span></code>, <code class="docutils literal notranslate"><span class="pre">geometor.divine</span></code>), interactive SVG laboratories (<code class="docutils literal notranslate"><span class="pre">geometor.explorer</span></code>), QHD visual broadcasts, and neuro-symbolic program synthesis (<code class="docutils literal notranslate"><span class="pre">geometor.seer</span></code>) across <a class="reference external" href="https://geometor.com">geometor.com</a>.</p></li>
+        </ul>
+        </section>
+        <section class="level-2" id="sources-provenance-methodology">
+        <h2>Sources, Provenance &amp; Methodology<a class="headerlink" href="#sources-provenance-methodology" title="Link to this heading">¶</a></h2>
+        <p>This critical edition derives from original nineteenth- and early-twentieth-century primary print impressions:</p>
+        <ul class="simple">
+        <li><p><strong>Foundations of Geometry (1897)</strong>: Bertrand Russell, <em>An Essay on the Foundations of Geometry</em>. Cambridge: At the University Press, 1897. Collation verified against the original Cambridge print copy and high-resolution scans.</p></li>
+        <li><p><strong>Principles of Mathematics (1903)</strong>: Bertrand Russell, <em>The Principles of Mathematics</em>, Vol. I. Cambridge: At the University Press, 1903. This edition strictly reproduces the first edition text of 1903, deliberately omitting the copyrighted 1937 second-edition introduction.</p></li>
+        </ul>
+        <p>The texts have been collated, proofread, and encoded into semantic reStructuredText following the GEOMETOR Digital Scriptorium methodology, with full citation integration, cross-corpus concordance, and analytical vector figures.</p>
+        <p>Contextual and Biographical Essays:</p>
         <ul class="simple">
         <li><p><a class="reference internal" href="bertrand-russell.html#about-bertrand-russell"><span class="std std-ref">Bertrand Russell (1872–1970): From Trinity Fellowship to Logicism</span></a></p></li>
         <li><p><a class="reference internal" href="evolution-1897-1903.html#about-evolution-1897-1903"><span class="std std-ref">Philosophical Turn (1897 → 1903): Form of Externality vs. Logic of Relations</span></a></p></li>
@@ -97,13 +126,14 @@
         <div class="toctree-wrapper compound">
         </div>
         </section>
+        </section>
 
       </div>
       <footer class="book-footer">
         <div class="book-footer-ornament">&#10086;</div>
         <div class="book-footer-nav">
           <div class="book-nav-prev">
-            <a class="book-nav-btn" href="../modules/api/geometor/bertrand_russell/diagrams/index.html" title="geometor.bertrand_russell.diagrams">&larr; <span class="nav-label">geometor.bertrand_russell.diagrams</span></a>
+            <a class="book-nav-btn" href="../bibliography.html" title="Bibliography">&larr; <span class="nav-label">Bibliography</span></a>
           </div>
           <div class="book-nav-center">
             <a class="book-toc-link" href="../index.html">GEOMETOR • bertrand-russell</a>
@@ -169,7 +199,6 @@
   <footer>
     <div class="footer-nav">
       <ul>
-        <li><a href="#" class="is-active" aria-selected="true" aria-current="page">About</a></li>
         <li><a href="../concordance.html"  >Concordance</a></li>
         <li><a href="../glossary.html"  >Glossary</a></li>
       </ul>
@@ -184,7 +213,7 @@
 
   <script src="../_static/jquery.js?v=5d32c60e"></script>
   <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-  <script src="../_static/documentation_options.js?v=92734c54"></script>
+  <script src="../_static/documentation_options.js?v=360bc84d"></script>
   <script src="../_static/doctools.js?v=fd6eb6e6"></script>
   <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
