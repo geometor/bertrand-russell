@@ -1,14 +1,17 @@
 :navigation: header
-:order: 1
+:order: 2
+:type: book
 :nav_title: Principles of Mathematics
+:breadcrumb_title: Principles of Mathematics
 :layout: book
 :book_title: The Principles of Mathematics
 :book_subtitle: Vol. I — Preface, Part I (Ch. I), and Part VI: Space (1903)
-:author: Bertrand Russell, M.A.
+:author: Bertrand Russell
 :series: First Edition (Excluding 1937 Second-Edition Introduction)
 :publisher: At the University Press
 :location: Cambridge
 :year: 1903
+:excerpt: Russell's landmark 1903 logicist investigation of pure mathematics and the relational foundations of projective, descriptive, and metrical geometry.
 
 .. _pom-index:
 .. _principles-of-mathematics-index:
@@ -33,141 +36,29 @@ This Book Codex presents the **unabridged, verbatim 1903 Cambridge University Pr
 
 .. note::
 
-   Russell's later Introduction to the 1937 George Allen & Unwin second edition remains under copyright    in several jurisdictions and is strictly **excluded** from this edition.
+   Russell's later Introduction to the 1937 George Allen & Unwin second edition remains under copyright in several jurisdictions and is strictly **excluded** from this edition.
 
 ----
 
-Table of Contents
------------------
+Chapters
+--------
 
-Preface (1903)
-~~~~~~~~~~~~~~
-
-*Front Matter (1903 First Edition) · pp. v–ix*
-
-:ref:`English (1903) <pom-preface-en>` · :ref:`Summary <pom-preface-summary>` · :ref:`Notes <pom-preface-notes>`
-
-Chapter I: Definition of Pure Mathematics (§§ 1–10)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part I — The Indefinables of Mathematics · pp. 3–9*
-
-:ref:`English (1903) <pom-ch-01-pure-math-en>` · :ref:`Summary <pom-ch-01-pure-math-summary>` · :ref:`Notes <pom-ch-01-pure-math-notes>`
-
-Chapter XLIV: Dimensions and Complex Numbers (§§ 351–360)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 371–380*
-
-:ref:`English (1903) <pom-ch-44-dimensions-en>` · :ref:`Summary <pom-ch-44-dimensions-summary>` · :ref:`Notes <pom-ch-44-dimensions-notes>`
-
-Chapter XLV: Projective Geometry (§§ 361–373)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 381–392*
-
-:ref:`English (1903) <pom-ch-45-projective-en>` · :ref:`Summary <pom-ch-45-projective-summary>` · :ref:`Notes <pom-ch-45-projective-notes>`
-
-Chapter XLVI: Descriptive Geometry (§§ 374–387)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 393–403*
-
-:ref:`English (1903) <pom-ch-46-descriptive-en>` · :ref:`Summary <pom-ch-46-descriptive-summary>` · :ref:`Notes <pom-ch-46-descriptive-notes>`
-
-Chapter XLVII: Metrical Geometry (§§ 388–404)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 404–418*
-
-:ref:`English (1903) <pom-ch-47-metrical-en>` · :ref:`Summary <pom-ch-47-metrical-summary>` · :ref:`Notes <pom-ch-47-metrical-notes>`
-
-Chapter XLVIII: Relation of Metrical to Projective and Descriptive Geometry (§§ 405–411)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 419–428*
-
-:ref:`English (1903) <pom-ch-48-relation-en>` · :ref:`Summary <pom-ch-48-relation-summary>` · :ref:`Notes <pom-ch-48-relation-notes>`
-
-Chapter XLIX: Definitions of Various Spaces (§§ 412–415)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 429–436*
-
-:ref:`English (1903) <pom-ch-49-spaces-en>` · :ref:`Summary <pom-ch-49-spaces-summary>` · :ref:`Notes <pom-ch-49-spaces-notes>`
-
-Chapter L: The Continuity of Space (§§ 416–422)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 437–444*
-
-:ref:`English (1903) <pom-ch-50-continuity-en>` · :ref:`Summary <pom-ch-50-continuity-summary>` · :ref:`Notes <pom-ch-50-continuity-notes>`
-
-Chapter LI: Logical Arguments Against Points (§§ 423–431)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 445–453*
-
-:ref:`English (1903) <pom-ch-51-points-en>` · :ref:`Summary <pom-ch-51-points-summary>` · :ref:`Notes <pom-ch-51-points-notes>`
-
-Chapter LII: Kant's Theory of Space (§§ 432–436)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*Part VI — Space · pp. 454–461*
-
-:ref:`English (1903) <pom-ch-52-kant-en>` · :ref:`Summary <pom-ch-52-kant-summary>` · :ref:`Notes <pom-ch-52-kant-notes>`
-
-----
-
-Scholarly Apparatus & Cross-Corpus Indices
-------------------------------------------
-
-* :doc:`Cross-Corpus Concordance </concordance>` — Russell (1897 & 1903) ↔ Hoenen, Heath's Euclid, & Pappus
-* :doc:`Biographical Register of Persons </persons>` — Geometers, logicians, and philosophers cited in Russell's treatises
-* :doc:`Systematic Bibliography </bibliography>` — Primary editions and historical sources
-* :doc:`Technical Glossary </glossary>` — Projective, descriptive, metrical, and logical terminology
+.. collection::
+   :type: chapter
+   :sort: order
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 1903 Treatise (Verbatim)
 
-   preface/preface-en
-   ch-01-pure-math/ch-01-pure-math-en
-   ch-44-dimensions/ch-44-dimensions-en
-   ch-45-projective/ch-45-projective-en
-   ch-46-descriptive/ch-46-descriptive-en
-   ch-47-metrical/ch-47-metrical-en
-   ch-48-relation/ch-48-relation-en
-   ch-49-spaces/ch-49-spaces-en
-   ch-50-continuity/ch-50-continuity-en
-   ch-51-points/ch-51-points-en
-   ch-52-kant/ch-52-kant-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Summaries & Critical Notes
-
-   preface/preface-summary
-   preface/preface-notes
-   ch-01-pure-math/ch-01-pure-math-summary
-   ch-01-pure-math/ch-01-pure-math-notes
-   ch-44-dimensions/ch-44-dimensions-summary
-   ch-44-dimensions/ch-44-dimensions-notes
-   ch-45-projective/ch-45-projective-summary
-   ch-45-projective/ch-45-projective-notes
-   ch-46-descriptive/ch-46-descriptive-summary
-   ch-46-descriptive/ch-46-descriptive-notes
-   ch-47-metrical/ch-47-metrical-summary
-   ch-47-metrical/ch-47-metrical-notes
-   ch-48-relation/ch-48-relation-summary
-   ch-48-relation/ch-48-relation-notes
-   ch-49-spaces/ch-49-spaces-summary
-   ch-49-spaces/ch-49-spaces-notes
-   ch-50-continuity/ch-50-continuity-summary
-   ch-50-continuity/ch-50-continuity-notes
-   ch-51-points/ch-51-points-summary
-   ch-51-points/ch-51-points-notes
-   ch-52-kant/ch-52-kant-summary
-   ch-52-kant/ch-52-kant-notes
+   preface/index
+   ch_01/index
+   ch_44/index
+   ch_45/index
+   ch_46/index
+   ch_47/index
+   ch_48/index
+   ch_49/index
+   ch_50/index
+   ch_51/index
+   ch_52/index
