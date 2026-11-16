@@ -863,3 +863,22 @@ EFG_APPARATUS: dict[str, ChapterApparatus] = {
         ),
     ),
 }
+
+# Canonical chapter aliases for split codex hierarchy
+EFG_APPARATUS["introduction"] = EFG_APPARATUS["intro"]
+EFG_APPARATUS["ch_01"] = EFG_APPARATUS["ch-01-metageometry"]
+EFG_APPARATUS["ch_02"] = EFG_APPARATUS["ch-02-critique"]
+EFG_APPARATUS["ch_03"] = EFG_APPARATUS["ch-03a-projective"]
+EFG_APPARATUS["ch_04"] = EFG_APPARATUS["ch-04-consequences"]
+
+POM_APPARATUS["ch_01"] = POM_APPARATUS["ch-01-pure-math"]
+POM_APPARATUS["ch_44"] = POM_APPARATUS["ch-44-dimensions"]
+POM_APPARATUS["ch_45"] = POM_APPARATUS["ch-45-projective"]
+POM_APPARATUS["ch_46"] = POM_APPARATUS["ch-46-descriptive"]
+POM_APPARATUS["ch_47"] = POM_APPARATUS["ch-47-metrical"]
+POM_APPARATUS["ch_48"] = POM_APPARATUS["ch-48-relation"]
+POM_APPARATUS["ch_49"] = POM_APPARATUS["ch-49-spaces"]
+POM_APPARATUS["ch_50"] = POM_APPARATUS["ch-50-continuity"]
+POM_APPARATUS["ch_51"] = POM_APPARATUS["ch-51-points"]
+POM_APPARATUS["ch_52"] = POM_APPARATUS["ch-52-kant"]
+

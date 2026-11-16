@@ -10,35 +10,34 @@
 
 ### 1. *The Principles of Mathematics* (1903, 1st Edition — Cambridge University Press)
 
-Located in `docsrc/principles_of_mathematics/`, strictly faithful to the **public-domain 1903 first edition** (omitting the copyrighted 1937 second-edition introduction). Structured across **11 synchronized 3-track units** (`English` · `Summary` · `Notes`) covering **all 96 numbered sections**:
+Located in `docsrc/principles_of_mathematics/`, strictly faithful to the **public-domain 1903 first edition** (omitting the copyrighted 1937 second-edition introduction). Structured across **11 canonical chapter containers** (`preface`, `ch_01`, `ch_44`..`ch_52`) with visual `.. collection::` galleries, synchronized companion track pills (`English` · `Summary` · `Notes`), and atomic section pages covering **all 96 numbered sections** and **all 103 authorial footnotes**:
 
-| Unit | Original Locus | Sections | Pages |
-| :--- | :--- | :--- | :--- |
-| `preface` | 1903 Preface (dated December 1902) | — | pp. v–ix |
-| `ch-01-pure-math` | Part I, Ch. I — *Definition of Pure Mathematics* | §§ 1–10 | pp. 3–9 |
-| `ch-44-dimensions` | Part VI (*Space*), Ch. XLIV — *Dimensions and Complex Numbers* | §§ 351–360 | pp. 371–380 |
-| `ch-45-projective` | Ch. XLV — *Projective Geometry* | §§ 361–373 | pp. 381–392 |
-| `ch-46-descriptive` | Ch. XLVI — *Descriptive Geometry* | §§ 374–387 | pp. 393–403 |
-| `ch-47-metrical` | Ch. XLVII — *Metrical Geometry* (Euclid `I.1` & `I.4` critique) | §§ 388–404 | pp. 404–418 |
-| `ch-48-relation` | Ch. XLVIII — *Relation of Metrical to Projective and Descriptive Geometry* | §§ 405–411 | pp. 419–428 |
-| `ch-49-spaces` | Ch. XLIX — *Definitions of Various Spaces* | §§ 412–415 | pp. 429–436 |
-| `ch-50-continuity` | Ch. L — *The Continuity of Space* | §§ 416–422 | pp. 437–444 |
-| `ch-51-points` | Ch. LI — *Logical Arguments Against Points* | §§ 423–431 | pp. 445–453 |
-| `ch-52-kant` | Ch. LII — *Kant's Theory of Space* | §§ 432–436 | pp. 454–461 |
+| Chapter | Canonical ID | Title & Topic | Sections | Pages |
+| :--- | :--- | :--- | :--- | :--- |
+| `preface` | Preface | Preface (dated December 1902) | — | pp. v–ix |
+| `ch_01` | Ch. I | Part I, Ch. I — *Definition of Pure Mathematics* | §§ 1–10 | pp. 3–9 |
+| `ch_44` | Ch. XLIV | Part VI (*Space*), Ch. XLIV — *Dimensions and Complex Numbers* | §§ 351–360 | pp. 371–380 |
+| `ch_45` | Ch. XLV | Ch. XLV — *Projective Geometry* | §§ 361–373 | pp. 381–392 |
+| `ch_46` | Ch. XLVI | Ch. XLVI — *Descriptive Geometry* | §§ 374–387 | pp. 393–403 |
+| `ch_47` | Ch. XLVII | Ch. XLVII — *Metrical Geometry* (Euclid `I.1` & `I.4` critique, §§ 388–391, 392–399, 400–404) | §§ 388–404 | pp. 404–418 |
+| `ch_48` | Ch. XLVIII | Ch. XLVIII — *Relation of Metrical to Projective and Descriptive Geometry* | §§ 405–411 | pp. 419–428 |
+| `ch_49` | Ch. XLIX | Ch. XLIX — *Definitions of Various Spaces* | §§ 412–415 | pp. 429–436 |
+| `ch_50` | Ch. L | Ch. L — *The Continuity of Space* | §§ 416–422 | pp. 437–444 |
+| `ch_51` | Ch. LI | Ch. LI — *Logical Arguments Against Points* | §§ 423–431 | pp. 445–453 |
+| `ch_52` | Ch. LII | Ch. LII — *Kant's Theory of Space* | §§ 432–436 | pp. 454–461 |
 
 ### 2. *An Essay on the Foundations of Geometry* (1897 — Cambridge University Press)
 
-Located in `docsrc/foundations_of_geometry/` (from Project Gutenberg `#52091`), presenting the **complete, unabridged 1897 treatise** across **7 synchronized 3-track units** (`English` · `Summary` · `Notes`) covering **all 209 numbered sections (`§§ 1–209`)**, all **171 author's footnotes**, and **9 analytical SVG vector diagrams** (`efg-fig-01-p021.svg` through `efg-fig-09-p145.svg`):
+Located in `docsrc/foundations_of_geometry/` (from Project Gutenberg `#52091`), presenting the **complete, unabridged 1897 treatise** across **6 canonical chapter containers** (`preface`, `introduction`, `ch_01`, `ch_02`, `ch_03`, `ch_04`), with visual `.. collection::` galleries, 27 atomic section pages with companion tracks (`English` · `Summary` · `Notes`) covering **all 209 numbered sections (`§§ 1–209`)**, all **171 author's footnotes**, and **9 analytical SVG vector diagrams** (`efg-fig-01-p021.svg` through `efg-fig-09-p145.svg`):
 
-| Unit | Original Locus | Sections | Pages | Figures |
-| :--- | :--- | :--- | :--- | :--- |
-| `preface` | Dedication (to J. McT. E. McTaggart) & Preface | — | pp. v–ix | — |
-| `intro` | Introduction — *Problem of Apodeictic Geometry* | §§ 1–9 | pp. 1–6 | — |
-| `ch-01-metageometry` | Ch. I — *A Short History of Metageometry* | §§ 10–50 | pp. 7–53 | Figs. 1–2 |
-| `ch-02-critique` | Ch. II — *Critical Account of Some Previous Philosophical Theories* | §§ 51–101 | pp. 54–116 | Figs. 3–5 |
-| `ch-03a-projective` | Ch. III, Sec. A — *The Axioms of Projective Geometry* | §§ 102–140 | pp. 117–147 | Figs. 6–9 |
-| `ch-03b-metrical` | Ch. III, Sec. B — *The Axioms of Metrical Geometry* | §§ 141–179 | pp. 147–177 | — |
-| `ch-04-consequences` | Ch. IV — *Philosophical Consequences* | §§ 180–209 | pp. 178–201 | — |
+| Chapter | Canonical ID | Title & Topic | Sections | Pages | Figures |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `preface` | Preface | Dedication (to J. McT. E. McTaggart) & Preface | — | pp. v–ix | — |
+| `introduction` | Intro | Introduction — *Our Problem Defined* | §§ 1–9 | pp. 1–6 | — |
+| `ch_01` | Cap. I | Ch. I — *A Short History of Metageometry* | §§ 10–50 | pp. 7–53 | Figs. 1–2 |
+| `ch_02` | Cap. II | Ch. II — *Critical Account of Previous Philosophical Theories* | §§ 51–101 | pp. 54–116 | Figs. 3–5 |
+| `ch_03` | Cap. III | Ch. III — *The Axioms of Geometry* (Sec. A: Projective, Sec. B: Metrical) | §§ 102–179 | pp. 117–177 | Figs. 6–9 |
+| `ch_04` | Cap. IV | Ch. IV — *Philosophical Consequences* | §§ 180–209 | pp. 178–201 | — |
 
 ---
 

@@ -6,7 +6,7 @@
       "id": "hoenen-cap4-s2-superposition",
       "theme": "Critique of Superposition & Motion in Geometry (Euclid I.4)",
       "russell_1903": {
-        "chapter": "ch-47-metrical",
+        "chapter": "ch_47",
         "sections": [
           "390"
         ],
@@ -15,7 +15,7 @@
         "verbatim_excerpt": "The fourth proposition is the first in which Euclid employs the method of superposition—a method which, since he will make any détour to avoid it, he evidently dislikes, and rightly, since it has no logical validity, and strikes every intelligent child as a juggle. In the first place, to speak of motion implies that our triangles are not spatial, but material. For a point of space is a position, and can no more change its position than the leopard can change his spots."
       },
       "russell_1897": {
-        "chapter": "ch-03b-metrical",
+        "chapter": "ch_03",
         "sections": [
           "146",
           "147",
@@ -50,7 +50,7 @@
       "id": "hoenen-cap4-s3-congruence-thermometer",
       "theme": "Rigid Bodies, the Thermometer Paradox, and the Three-Step Congruence Axiom",
       "russell_1903": {
-        "chapter": "ch-47-metrical",
+        "chapter": "ch_47",
         "sections": [
           "390",
           "391"
@@ -60,7 +60,7 @@
         "verbatim_excerpt": "Suppose that the triangle ABC is by the window, and the side AB consists of the column of mercury in a thermometer; suppose also that DEF is by the fire. Let us apply ABC to DEF as Euclid directs, and let AB just cover DE. Then we are to conclude that ABC and DEF, before the motion, were equal in all respects."
       },
       "russell_1897": {
-        "chapter": "ch-02-critique",
+        "chapter": "ch_02",
         "sections": [
           "69",
           "70",
@@ -96,7 +96,7 @@
       "id": "hoenen-cap4-s7-euclid-i1-circles",
       "theme": "Circle Intersection in Euclid I.1, Spatial Intuition, and the Continuity Postulate",
       "russell_1903": {
-        "chapter": "ch-47-metrical",
+        "chapter": "ch_47",
         "sections": [
           "389",
           "418",
@@ -108,7 +108,7 @@
         "verbatim_excerpt": "To begin with the first proposition. There is no evidence whatever that the circles which we are told to construct intersect, and if they do not, the whole proposition fails. Euclid’s problems are often regarded as existence-theorems, and from this point of view, it is plain, the assumption that the circles in question intersect is precisely the same as the assumption that there is an equilateral triangle on a given base."
       },
       "russell_1897": {
-        "chapter": "ch-03b-metrical",
+        "chapter": "ch_03",
         "sections": [
           "160",
           "161"
@@ -141,7 +141,7 @@
       "id": "hoenen-cap4-s4-direction-angle",
       "theme": "Direction, Rays, Vectors, and the Definition of Angle",
       "russell_1903": {
-        "chapter": "ch-47-metrical",
+        "chapter": "ch_47",
         "sections": [
           "400",
           "401",
@@ -153,7 +153,7 @@
         "verbatim_excerpt": "I come now to a more difficult question than distance, namely the question as to the definition of angle. Here, to begin with, we must deal with rays, not with whole straight lines."
       },
       "russell_1897": {
-        "chapter": "ch-03b-metrical",
+        "chapter": "ch_03",
         "sections": [
           "163",
           "168",
@@ -181,7 +181,7 @@
       "id": "hoenen-cap3-continuum-points",
       "theme": "The Spatial Continuum, Cantor's Point-Sets, and the Antinomy of the Point",
       "russell_1903": {
-        "chapter": "ch-50-continuity",
+        "chapter": "ch_50",
         "sections": [
           "416",
           "417",
@@ -195,7 +195,7 @@
         "verbatim_excerpt": "To return from this digression: we agreed that the empirical premisses, as regards the continuity of space, are concerned always with divisible entities which have divisible parts."
       },
       "russell_1897": {
-        "chapter": "ch-04-consequences",
+        "chapter": "ch_04",
         "sections": [
           "193",
           "196",
@@ -219,7 +219,7 @@
       "id": "hoenen-cap5-logicism-kant",
       "theme": "Pure Mathematics as Formal Implication vs. Kantian & Thomistic Intuition",
       "russell_1903": {
-        "chapter": "ch-01-pure-math",
+        "chapter": "ch_01",
         "sections": [
           "1",
           "4",
@@ -235,7 +235,7 @@
         "verbatim_excerpt": "Pure Mathematics is the class of all propositions of the form “p implies q,” where p and q are propositions containing one or more variables, the same in the two propositions, and neither p nor q contains any constants except logical constants."
       },
       "russell_1897": {
-        "chapter": "intro",
+        "chapter": "introduction",
         "sections": [
           "1",
           "5",
@@ -258,7 +258,7 @@
       "id": "pappus-staudt-harmonic-projective",
       "theme": "Von Staudt's Quadrilateral Construction, Harmonic Ranges, Cross-Ratio, and Duality",
       "russell_1903": {
-        "chapter": "ch-45-projective",
+        "chapter": "ch_45",
         "sections": [
           "365",
           "366",
@@ -272,7 +272,7 @@
         "verbatim_excerpt": "We can now proceed to the harmonic range and von Staudt’s quadrilateral construction. Given three collinear points a, b, c take any two points u, v collinear with c but not on ab. Construct the points of intersection au . bv and av . bu; join these points, and let the line joining them meet ab in d."
       },
       "russell_1897": {
-        "chapter": "ch-03a-projective",
+        "chapter": "ch_03",
         "sections": [
           "35",
           "36",
@@ -299,7 +299,7 @@
       "id": "pasch-peano-descriptive-geometry",
       "theme": "Descriptive Geometry: Betweenness, Planar Separation, and Ideal Elements",
       "russell_1903": {
-        "chapter": "ch-46-descriptive",
+        "chapter": "ch_46",
         "sections": [
           "374",
           "375",
@@ -315,7 +315,7 @@
         "verbatim_excerpt": "We start, in the former method, with two indefinables, point, and between. If a, b, c be three points, and c is between a and b, we say that c is an ab, or belongs to the class of points ab."
       },
       "russell_1897": {
-        "chapter": "ch-03a-projective",
+        "chapter": "ch_03",
         "sections": [
           "122",
           "124"
@@ -336,7 +336,7 @@
       "id": "cayley-klein-absolute-metrics",
       "theme": "Cayley–Klein Projective Metrics and the Absolute Quadric",
       "russell_1903": {
-        "chapter": "ch-48-relation",
+        "chapter": "ch_48",
         "sections": [
           "405",
           "406",
@@ -351,7 +351,7 @@
         "verbatim_excerpt": "Projective Geometry, having achieved its own independence, has, however, embarked upon a career of foreign aggrandisement; and in this we shall, I think, though on the whole favourable, be obliged to make some slight reservations."
       },
       "russell_1897": {
-        "chapter": "ch-01-metageometry",
+        "chapter": "ch_01",
         "sections": [
           "30",
           "31",
@@ -378,7 +378,7 @@
       "id": "russell-evolution-1897-to-1903",
       "theme": "Russell's Philosophical Turn: From 1897 Neo-Kantian Form of Externality to 1903 Logicism",
       "russell_1903": {
-        "chapter": "ch-44-dimensions",
+        "chapter": "ch_44",
         "sections": [
           "351",
           "352",
@@ -393,7 +393,7 @@
         "verbatim_excerpt": "As a branch of pure mathematics, Geometry is strictly deductive, indifferent to the choice of its premisses and to the question whether there exist (in the strict sense) such entities as its premisses define. Many different and even inconsistent sets of premisses lead to propositions which would be called geometrical, but all such sets have a common element. This element is wholly summed up by the statement that Geometry deals with series of more than one dimension."
       },
       "russell_1897": {
-        "chapter": "ch-03a-projective",
+        "chapter": "ch_03",
         "sections": [
           "103",
           "132",

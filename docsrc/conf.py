@@ -11,7 +11,9 @@ repo_name = "bertrand-russell"
 
 setup_globals(org, org_name, repo, repo_name)
 
-project = "GEOMETOR • bertrand-russell"
+site_title = "Bertrand Russell"
+project = site_title
+html_title = f"{site_title} • {org_name}"
 author = "Bertrand Russell • Digital Edition GEOMETOR"
 copyright = "1897, 1903 Cambridge University Press • Digital Edition GEOMETOR"
 

@@ -45,24 +45,28 @@ def test_package_version_and_source_checksums() -> None:
 
 
 def test_pom_1903_codex_completeness_and_public_domain_scope() -> None:
-    """Codex I covers all 11 multi-track units, all 96 sections, and omits the 1937 introduction."""
+    """Codex I covers all 11 canonical chapters, all 96 sections, and omits the 1937 introduction."""
     pom_dir = DOCSRC / "principles_of_mathematics"
     assert (pom_dir / "index.rst").is_file()
     assert len(POM_CHAPTER_SPECS) == 11
-    assert len(POM_APPARATUS) == 11
+    assert len(POM_APPARATUS) >= 11
 
     en_texts: list[str] = []
     for spec in POM_CHAPTER_SPECS:
         stem = spec["stem"]
         unit_dir = pom_dir / stem
-        for track in ("en", "summary", "notes"):
-            track_path = unit_dir / f"{stem}-{track}.rst"
-            assert track_path.is_file(), f"Missing PoM track file: {track_path}"
-        en_content = (unit_dir / f"{stem}-en.rst").read_text(encoding="utf-8")
-        assert ".. code-block:: python" not in en_content
-        assert "Introduction to the Second Edition" not in en_content
-        assert "1937" not in en_content
-        en_texts.append(en_content)
+        sec_en_files = sorted(unit_dir.glob("*-en.rst"))
+        assert len(sec_en_files) >= 1, f"No section files in {unit_dir}"
+        for sec_en in sec_en_files:
+            sec_stem = sec_en.stem[:-3]
+            for track in ("en", "summary", "notes"):
+                track_path = unit_dir / f"{sec_stem}-{track}.rst"
+                assert track_path.is_file(), f"Missing PoM track file: {track_path}"
+            content = sec_en.read_text(encoding="utf-8")
+            assert ".. code-block:: python" not in content
+            assert "Introduction to the Second Edition" not in content
+            assert "1937" not in content
+            en_texts.append(content)
 
     combined_en = "\n".join(en_texts)
     expected_sections = list(range(1, 11)) + list(range(351, 437))
@@ -71,34 +75,40 @@ def test_pom_1903_codex_completeness_and_public_domain_scope() -> None:
         matches = re.findall(rf"^\.\. _pom-{sec}:$", combined_en, flags=re.MULTILINE)
         assert len(matches) == 1, f"Expected unique anchor .. _pom-{sec}:, got {len(matches)}"
 
-    ch47_en = (pom_dir / "ch-47-metrical" / "ch-47-metrical-en.rst").read_text(encoding="utf-8")
+    ch47_en = "\n".join(
+        p.read_text(encoding="utf-8") for p in sorted((pom_dir / "ch_47").glob("*-en.rst"))
+    )
     for page_num in (404, 405, 406, 407):
         assert f".. _pom-p{page_num}:" in ch47_en
 
 
 def test_efg_1897_codex_completeness_and_footnotes() -> None:
-    """Codex II covers all 7 multi-track units, all 209 sections, and balanced footnotes."""
+    """Codex II covers all 6 canonical chapters, all 209 sections, and balanced footnotes."""
     efg_dir = DOCSRC / "foundations_of_geometry"
     assert (efg_dir / "index.rst").is_file()
-    assert len(EFG_CHAPTER_SPECS) == 7
-    assert len(EFG_APPARATUS) == 7
+    assert len(EFG_CHAPTER_SPECS) == 6
+    assert len(EFG_APPARATUS) >= 6
 
     en_texts: list[str] = []
     total_fn_defs = 0
     for spec in EFG_CHAPTER_SPECS:
         stem = spec["stem"]
         unit_dir = efg_dir / stem
-        for track in ("en", "summary", "notes"):
-            track_path = unit_dir / f"{stem}-{track}.rst"
-            assert track_path.is_file(), f"Missing EFG track file: {track_path}"
-        en_content = (unit_dir / f"{stem}-en.rst").read_text(encoding="utf-8")
-        assert ".. code-block:: python" not in en_content
-        en_texts.append(en_content)
+        sec_en_files = sorted(unit_dir.glob("*-en.rst"))
+        assert len(sec_en_files) >= 1, f"No section files in {unit_dir}"
+        for sec_en in sec_en_files:
+            sec_stem = sec_en.stem[:-3]
+            for track in ("en", "summary", "notes"):
+                track_path = unit_dir / f"{sec_stem}-{track}.rst"
+                assert track_path.is_file(), f"Missing EFG track file: {track_path}"
+            en_content = sec_en.read_text(encoding="utf-8")
+            assert ".. code-block:: python" not in en_content
+            en_texts.append(en_content)
 
-        fn_refs = set(re.findall(r"\[#(efg_fn\d+)\]_", en_content))
-        fn_defs = set(re.findall(r"^\.\. \[#(efg_fn\d+)\]", en_content, flags=re.MULTILINE))
-        assert fn_refs == fn_defs, f"Footnote mismatch in {stem}: diff={fn_refs ^ fn_defs}"
-        total_fn_defs += len(fn_defs)
+            fn_refs = set(re.findall(r"\[#(efg_fn\d+)\]_", en_content))
+            fn_defs = set(re.findall(r"^\.\. \[#(efg_fn\d+)\]", en_content, flags=re.MULTILINE))
+            assert fn_refs == fn_defs, f"Footnote mismatch in {sec_en}: diff={fn_refs ^ fn_defs}"
+            total_fn_defs += len(fn_defs)
 
     assert total_fn_defs >= 170
 
@@ -111,15 +121,17 @@ def test_efg_1897_codex_completeness_and_footnotes() -> None:
 def test_verbatim_passages_and_concordance_excerpts() -> None:
     """Canonical passages in both codices and all concordance 1903 excerpts match verbatim."""
     pom_ch1 = _strip_rst_inline_markup(
-        (DOCSRC / "principles_of_mathematics" / "ch-01-pure-math" / "ch-01-pure-math-en.rst").read_text(
-            encoding="utf-8"
+        "\n".join(
+            p.read_text(encoding="utf-8")
+            for p in sorted((DOCSRC / "principles_of_mathematics" / "ch_01").glob("*-en.rst"))
         )
     )
     assert "Pure Mathematics is the class of all propositions of the form" in pom_ch1
 
     pom_ch47 = _strip_rst_inline_markup(
-        (DOCSRC / "principles_of_mathematics" / "ch-47-metrical" / "ch-47-metrical-en.rst").read_text(
-            encoding="utf-8"
+        "\n".join(
+            p.read_text(encoding="utf-8")
+            for p in sorted((DOCSRC / "principles_of_mathematics" / "ch_47").glob("*-en.rst"))
         )
     )
     for phrase in (
@@ -133,14 +145,14 @@ def test_verbatim_passages_and_concordance_excerpts() -> None:
         assert phrase in pom_ch47, f"Missing canonical PoM Ch. XLVII phrase: {phrase}"
 
     efg_ch3a = _strip_rst_inline_markup(
-        (DOCSRC / "foundations_of_geometry" / "ch-03a-projective" / "ch-03a-projective-en.rst").read_text(
+        (DOCSRC / "foundations_of_geometry" / "ch_03" / "sec_a2-en.rst").read_text(
             encoding="utf-8"
         )
     )
     assert "Given any three points A, B, D in one straight line, the quadrilateral construction" in efg_ch3a
 
     efg_ch3b = _strip_rst_inline_markup(
-        (DOCSRC / "foundations_of_geometry" / "ch-03b-metrical" / "ch-03b-metrical-en.rst").read_text(
+        (DOCSRC / "foundations_of_geometry" / "ch_03" / "sec_b2-en.rst").read_text(
             encoding="utf-8"
         )
     )
@@ -150,13 +162,14 @@ def test_verbatim_passages_and_concordance_excerpts() -> None:
     assert len(entries) == 10
     for entry in entries:
         stem = entry.russell_1903.chapter
-        chapter_rst = (DOCSRC / "principles_of_mathematics" / stem / f"{stem}-en.rst").read_text(
-            encoding="utf-8"
+        chapter_rst = "\n".join(
+            p.read_text(encoding="utf-8")
+            for p in sorted((DOCSRC / "principles_of_mathematics" / stem).glob("*-en.rst"))
         )
         normalized_chapter = _strip_rst_inline_markup(chapter_rst)
         normalized_excerpt = re.sub(r"\s+", " ", entry.russell_1903.verbatim_excerpt).strip()
         assert normalized_excerpt in normalized_chapter, (
-            f"Concordance excerpt for {entry.id} not found verbatim in {stem}-en.rst"
+            f"Concordance excerpt for {entry.id} not found verbatim in {stem}"
         )
 
 

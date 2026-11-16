@@ -33,7 +33,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. v–ix",
     },
     {
-        "stem": "ch-01-pure-math",
+        "stem": "ch_01",
         "html_id": "chapter1",
         "part_label": "Part I — The Indefinables of Mathematics",
         "heading": "CHAPTER I",
@@ -43,7 +43,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 3–9",
     },
     {
-        "stem": "ch-44-dimensions",
+        "stem": "ch_44",
         "html_id": "chapter44",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER XLIV",
@@ -53,7 +53,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 371–380",
     },
     {
-        "stem": "ch-45-projective",
+        "stem": "ch_45",
         "html_id": "chapter45",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER XLV",
@@ -63,7 +63,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 381–392",
     },
     {
-        "stem": "ch-46-descriptive",
+        "stem": "ch_46",
         "html_id": "chapter46",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER XLVI",
@@ -73,7 +73,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 393–403",
     },
     {
-        "stem": "ch-47-metrical",
+        "stem": "ch_47",
         "html_id": "chapter47",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER XLVII",
@@ -83,7 +83,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 404–418",
     },
     {
-        "stem": "ch-48-relation",
+        "stem": "ch_48",
         "html_id": "chapter48",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER XLVIII",
@@ -93,7 +93,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 419–428",
     },
     {
-        "stem": "ch-49-spaces",
+        "stem": "ch_49",
         "html_id": "chapter49",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER XLIX",
@@ -103,7 +103,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 429–436",
     },
     {
-        "stem": "ch-50-continuity",
+        "stem": "ch_50",
         "html_id": "chapter50",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER L",
@@ -113,7 +113,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 437–444",
     },
     {
-        "stem": "ch-51-points",
+        "stem": "ch_51",
         "html_id": "chapter51",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER LI",
@@ -123,7 +123,7 @@ POM_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "pages": "pp. 445–453",
     },
     {
-        "stem": "ch-52-kant",
+        "stem": "ch_52",
         "html_id": "chapter52",
         "part_label": "Part VI — Space",
         "heading": "CHAPTER LII",
@@ -138,16 +138,16 @@ POM_INCLUDED_SECTIONS: frozenset[int] = frozenset(
     list(range(1, 11)) + list(range(351, 437))
 )
 POM_INCLUDED_CHAPTERS: dict[int, str] = {
-    1: "ch-01-pure-math",
-    44: "ch-44-dimensions",
-    45: "ch-45-projective",
-    46: "ch-46-descriptive",
-    47: "ch-47-metrical",
-    48: "ch-48-relation",
-    49: "ch-49-spaces",
-    50: "ch-50-continuity",
-    51: "ch-51-points",
-    52: "ch-52-kant",
+    1: "ch_01",
+    44: "ch_44",
+    45: "ch_45",
+    46: "ch_46",
+    47: "ch_47",
+    48: "ch_48",
+    49: "ch_49",
+    50: "ch_50",
+    51: "ch_51",
+    52: "ch_52",
 }
 
 EFG_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
@@ -161,7 +161,7 @@ EFG_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "has_subheadings": False,
     },
     {
-        "stem": "intro",
+        "stem": "introduction",
         "heading": "INTRODUCTION",
         "rubric": "Our Problem Defined by Its Relations to Logic, Psychology and Mathematics (§§ 1–9, pp. 1–6)",
         "toc_title": "Introduction: Our Problem Defined (§§ 1–9)",
@@ -170,7 +170,7 @@ EFG_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "has_subheadings": False,
     },
     {
-        "stem": "ch-01-metageometry",
+        "stem": "ch_01",
         "heading": "CHAPTER I",
         "rubric": "A Short History of Metageometry (§§ 10–50, pp. 7–53)",
         "toc_title": "Chapter I: A Short History of Metageometry (§§ 10–50)",
@@ -179,7 +179,7 @@ EFG_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "has_subheadings": True,
     },
     {
-        "stem": "ch-02-critique",
+        "stem": "ch_02",
         "heading": "CHAPTER II",
         "rubric": "Critical Account of Some Previous Philosophical Theories of Geometry (§§ 51–101, pp. 54–116)",
         "toc_title": "Chapter II: Critical Account of Previous Philosophical Theories (§§ 51–101)",
@@ -188,25 +188,16 @@ EFG_CHAPTER_SPECS: tuple[dict[str, Any], ...] = (
         "has_subheadings": True,
     },
     {
-        "stem": "ch-03a-projective",
-        "heading": "CHAPTER III — SECTION A",
-        "rubric": "The Axioms of Projective Geometry (§§ 102–140, pp. 117–147)",
-        "toc_title": "Chapter III, Section A: The Axioms of Projective Geometry (§§ 102–140)",
-        "sec_range": (102, 140),
-        "pages": "pp. 117–147",
-        "has_subheadings": False,
-    },
-    {
-        "stem": "ch-03b-metrical",
-        "heading": "CHAPTER III — SECTION B",
-        "rubric": "The Axioms of Metrical Geometry (§§ 141–179, pp. 147–177)",
-        "toc_title": "Chapter III, Section B: The Axioms of Metrical Geometry (§§ 141–179)",
-        "sec_range": (141, 179),
-        "pages": "pp. 147–177",
+        "stem": "ch_03",
+        "heading": "CHAPTER III",
+        "rubric": "The A Priori in Geometry — Projective and Metrical (§§ 102–179, pp. 117–177)",
+        "toc_title": "Chapter III: The A Priori in Geometry (§§ 102–179)",
+        "sec_range": (102, 179),
+        "pages": "pp. 117–177",
         "has_subheadings": True,
     },
     {
-        "stem": "ch-04-consequences",
+        "stem": "ch_04",
         "heading": "CHAPTER IV",
         "rubric": "Philosophical Consequences (§§ 180–209, pp. 178–201)",
         "toc_title": "Chapter IV: Philosophical Consequences (§§ 180–209)",

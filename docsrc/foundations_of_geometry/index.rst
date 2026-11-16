@@ -1,14 +1,17 @@
 :navigation: header
-:order: 2
+:order: 1
+:type: book
 :nav_title: Foundations of Geometry
+:breadcrumb_title: Foundations of Geometry
 :layout: book
 :book_title: An Essay on the Foundations of Geometry
 :book_subtitle: Complete First Edition (§§ 1–209, 1897)
-:author: Bertrand A. W. Russell, M.A.
+:author: Bertrand Russell
 :series: Fellowship Dissertation Expansion, Trinity College, Cambridge
 :publisher: At the University Press
 :location: Cambridge
 :year: 1897
+:excerpt: Russell's 1897 Cambridge Fellowship dissertation deducing the a priori axioms of projective and metrical geometry from the form of externality and nineteenth-century metageometry.
 
 .. _efg-index:
 .. _foundations-of-geometry-index:
@@ -33,97 +36,20 @@ This Book Codex reproduces the **complete, unabridged 1897 Cambridge University 
 
 ----
 
-Table of Contents
------------------
+Chapters
+--------
 
-Preface & Dedication (1897)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. v–vi*
-
-:ref:`English (1897) <efg-preface-en>` · :ref:`Summary <efg-preface-summary>` · :ref:`Notes <efg-preface-notes>`
-
-Introduction: Our Problem Defined (§§ 1–9)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. 1–6*
-
-:ref:`English (1897) <efg-intro-en>` · :ref:`Summary <efg-intro-summary>` · :ref:`Notes <efg-intro-notes>`
-
-Chapter I: A Short History of Metageometry (§§ 10–50)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. 7–53*
-
-:ref:`English (1897) <efg-ch-01-metageometry-en>` · :ref:`Summary <efg-ch-01-metageometry-summary>` · :ref:`Notes <efg-ch-01-metageometry-notes>`
-
-Chapter II: Critical Account of Previous Philosophical Theories (§§ 51–101)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. 54–116*
-
-:ref:`English (1897) <efg-ch-02-critique-en>` · :ref:`Summary <efg-ch-02-critique-summary>` · :ref:`Notes <efg-ch-02-critique-notes>`
-
-Chapter III, Section A: The Axioms of Projective Geometry (§§ 102–140)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. 117–147*
-
-:ref:`English (1897) <efg-ch-03a-projective-en>` · :ref:`Summary <efg-ch-03a-projective-summary>` · :ref:`Notes <efg-ch-03a-projective-notes>`
-
-Chapter III, Section B: The Axioms of Metrical Geometry (§§ 141–179)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. 147–177*
-
-:ref:`English (1897) <efg-ch-03b-metrical-en>` · :ref:`Summary <efg-ch-03b-metrical-summary>` · :ref:`Notes <efg-ch-03b-metrical-notes>`
-
-Chapter IV: Philosophical Consequences (§§ 180–209)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-*pp. 178–201*
-
-:ref:`English (1897) <efg-ch-04-consequences-en>` · :ref:`Summary <efg-ch-04-consequences-summary>` · :ref:`Notes <efg-ch-04-consequences-notes>`
-
-----
-
-Scholarly Apparatus & Cross-Corpus Indices
-------------------------------------------
-
-* :doc:`Cross-Corpus Concordance </concordance>` — Russell (1897 & 1903) ↔ Hoenen, Heath's Euclid, & Pappus
-* :doc:`Biographical Register of Persons </persons>` — Geometers, logicians, and philosophers cited in Russell's treatises
-* :doc:`Systematic Bibliography </bibliography>` — Primary editions and historical sources
-* :doc:`Technical Glossary </glossary>` — Projective, descriptive, metrical, and logical terminology
+.. collection::
+   :type: chapter
+   :sort: order
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 1897 Treatise (Verbatim)
 
-   preface/preface-en
-   intro/intro-en
-   ch-01-metageometry/ch-01-metageometry-en
-   ch-02-critique/ch-02-critique-en
-   ch-03a-projective/ch-03a-projective-en
-   ch-03b-metrical/ch-03b-metrical-en
-   ch-04-consequences/ch-04-consequences-en
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :caption: Summaries & Critical Notes
-
-   preface/preface-summary
-   preface/preface-notes
-   intro/intro-summary
-   intro/intro-notes
-   ch-01-metageometry/ch-01-metageometry-summary
-   ch-01-metageometry/ch-01-metageometry-notes
-   ch-02-critique/ch-02-critique-summary
-   ch-02-critique/ch-02-critique-notes
-   ch-03a-projective/ch-03a-projective-summary
-   ch-03a-projective/ch-03a-projective-notes
-   ch-03b-metrical/ch-03b-metrical-summary
-   ch-03b-metrical/ch-03b-metrical-notes
-   ch-04-consequences/ch-04-consequences-summary
-   ch-04-consequences/ch-04-consequences-notes
+   preface/index
+   introduction/index
+   ch_01/index
+   ch_02/index
+   ch_03/index
+   ch_04/index
