@@ -18,8 +18,8 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`An Essay on the Foundations of Geometry <https://geometor.github.io/bertrand-russell/foundations_of_geometry/>`_** — Complete 1897 Cambridge University Press edition (§§ 1–209), analyzing the history of metageometry, projective and metrical axioms, and philosophical consequences.
-- **`The Principles of Mathematics <https://geometor.github.io/bertrand-russell/principles_of_mathematics/>`_** — Unabridged 1903 first edition treatment of Part I (Definition of Pure Mathematics) and Part VI (Space, §§ 351–436), addressing projective, descriptive, and metrical geometry.
+- `An Essay on the Foundations of Geometry <https://geometor.github.io/bertrand-russell/foundations_of_geometry/>`_ — Complete 1897 Cambridge University Press edition (§§ 1–209), analyzing the history of metageometry, projective and metrical axioms, and philosophical consequences.
+- `The Principles of Mathematics <https://geometor.github.io/bertrand-russell/principles_of_mathematics/>`_ — Unabridged 1903 first edition treatment of Part I (Definition of Pure Mathematics) and Part VI (Space, §§ 351–436), addressing projective, descriptive, and metrical geometry.
 
 Repository Contents
 -------------------
