@@ -21,6 +21,18 @@ Books in This Archive
 - `An Essay on the Foundations of Geometry <https://geometor.github.io/bertrand-russell/foundations_of_geometry/>`_ — Complete 1897 Cambridge University Press edition (§§ 1–209), analyzing the history of metageometry, projective and metrical axioms, and philosophical consequences.
 - `The Principles of Mathematics <https://geometor.github.io/bertrand-russell/principles_of_mathematics/>`_ — Unabridged 1903 first edition treatment of Part I (Definition of Pure Mathematics) and Part VI (Space, §§ 351–436), addressing projective, descriptive, and metrical geometry.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-bertrand-russell`` Python package (``import geometor.bertrand_russell``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``commentary.py`` — Scholarly analytical summaries and critical commentary notes for the 1897 and 1903 treatises.
+- ``compile_codex.py`` — Deterministic HTML-to-RST Book Codex compiler for Bertrand Russell's 1897 and 1903 treatises.
+- ``concordance.py`` — Data loaders, integrity verifiers, and concordance queries for Russell's geometric treatises.
+- ``diagrams.py`` — Exact vector SVG reconstructions of the 9 geometric figures in Russell's 1897 treatise.
+
+See the `API Reference <https://geometor.github.io/bertrand-russell/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
