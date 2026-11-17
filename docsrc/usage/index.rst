@@ -73,7 +73,7 @@ The research log, thematic loci, and essays are indexed using structured metadat
 
 Rich cross-references are integrated throughout all texts:
 
-* **Person References (``:person:``)**: Hovering over or clicking a person link (such as :person:`Bertrand Russell <russell>`, :person:`Fr. Petrus Hoenen <hoenen>`, or :person:`Sir Thomas L. Heath <heath>`) displays their biographical summary and links to their entry in the :doc:`Biographical Register </persons>`.
+* **Person References (``:person:``)**: Hovering over or clicking a person link (such as :person:`Bertrand Russell <russell>`, :person:`Fr. Petrus Hoenen <hoenen>`, or :person:`Sir Thomas L. Heath <heath>`) displays their biographical summary and links to their entry in the :doc:`Biographical Register </people/index>`.
 * **Citation References (``:cite:``)**: Citation links resolve directly to full bibliographic data and contextual commentary in the :doc:`Systematic Bibliography </bibliography>`.
 * **Term References (``:term:``)**: Technical terminology (such as :term:`free mobility <free-mobility>`, :term:`betweenness <betweenness>`, or :term:`superposition <superposition>`) links directly to definitions in the :doc:`Technical Glossary </glossary>`.
 * **Concordance Links**: Deep links connect Russell's passages directly to external loci in ``geometor/hoenen``, ``geometor/euclid``, and ``geometor/pappus``.

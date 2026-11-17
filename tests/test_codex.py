@@ -212,7 +212,7 @@ def test_concordance_queries_and_apparatus_role_integrity() -> None:
     glossary = regs["glossary"]
 
     bib_rst = (DOCSRC / "bibliography.rst").read_text(encoding="utf-8")
-    pers_rst = (DOCSRC / "persons.rst").read_text(encoding="utf-8")
+    pers_rst = "\n".join(p.read_text(encoding="utf-8") for p in sorted((DOCSRC / "people").glob("*.rst")))
     glos_rst = (DOCSRC / "glossary.rst").read_text(encoding="utf-8")
 
     all_rst_files = [
