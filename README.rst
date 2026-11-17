@@ -3,6 +3,11 @@ GEOMETOR • bertrand-russell
 
 **Visit the Online Archive:** https://geometor.github.io/bertrand-russell/
 
+.. image:: docsrc/_static/diagrams/efg-fig-01-p021.svg
+   :alt: GEOMETOR • bertrand-russell featured geometric construction
+   :target: https://geometor.github.io/bertrand-russell/
+   :align: center
+
 **Bertrand Russell • Foundations of Geometry, Principles of Mathematics (Space) • semantic digital archive**
 
 Mission
