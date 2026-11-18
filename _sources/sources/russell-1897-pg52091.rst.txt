@@ -1,0 +1,19 @@
+:type: source_record
+:author: Bertrand Russell
+:year: 1897
+:era: Project Gutenberg
+:languages: English
+:site_url: https://www.gutenberg.org/ebooks/52091
+:excerpt: Project Gutenberg #52091 HTML/TXT for Essay on the Foundations of Geometry (1897) + 1903 PoM Part VI.
+
+.. _source-russell-1897-pg52091:
+
+An Essay on the Foundations of Geometry (1897) & Principles of Mathematics (1903)
+=================================================================================
+
+Project Gutenberg #52091 HTML/TXT for Essay on the Foundations of Geometry (1897) + 1903 PoM Part VI.
+
+* **Publisher**: Cambridge University Press / Project Gutenberg #52091
+* **Local Path**: ``resources/efg_1897_pg52091.html``
+* **Rights**: Public Domain (1897 / 1903)
+* **Origin URL**: `https://www.gutenberg.org/ebooks/52091 <https://www.gutenberg.org/ebooks/52091>`_
