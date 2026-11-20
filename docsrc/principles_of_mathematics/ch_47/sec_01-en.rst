@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: XLVII.1
-:folio: § 388
+:folio: §388
 :page: 404
 :title: Critique of Euclid, Superposition, and Rigid Bodies
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-47-en:
 .. _pom-ch_47-sec_01-en:
 
-.. folio:: § 388
+.. folio:: §388
    :page: 404
 
 Critique of Euclid, Superposition, and Rigid Bodies

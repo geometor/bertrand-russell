@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: XLVII.2
-:folio: § 392
+:folio: §392
 :page: 407
 :title: Axioms of Distance, Stretches, and Magnitude of Divisibility
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _pom-ch_47-sec_02-en:
 
-.. folio:: § 392
+.. folio:: §392
    :page: 407
 
 Axioms of Distance, Stretches, and Magnitude of Divisibility

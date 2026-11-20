@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: XLIV.1
-:folio: § 351
+:folio: §351
 :page: 371
 :title: Definition of Dimensions and Positional Manifolds
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-44-en:
 .. _pom-ch_44-sec_01-en:
 
-.. folio:: § 351
+.. folio:: §351
    :page: 371
 
 Definition of Dimensions and Positional Manifolds

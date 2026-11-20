@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: LII.1
-:folio: § 432
+:folio: §432
 :page: 454
 :title: Refutation of Kant's Theory of Space and Spatial Intuition
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-52-en:
 .. _pom-ch_52-sec_01-en:
 
-.. folio:: § 432
+.. folio:: §432
    :page: 454
 
 Refutation of Kant's Theory of Space and Spatial Intuition

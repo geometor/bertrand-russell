@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: Intro.1
-:folio: § 1
+:folio: §1
 :page: 1
 :title: Psychology and Epistemology: The Problem of the A Priori
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _efg-introduction-en:
 .. _efg-introduction-sec_01-en:
 
-.. folio:: § 1
+.. folio:: §1
    :page: 1
 
 Psychology and Epistemology: The Problem of the A Priori

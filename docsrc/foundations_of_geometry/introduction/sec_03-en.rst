@@ -2,14 +2,14 @@
 :type: section
 :order: 3
 :canonical_id: Intro.3
-:folio: § 9
+:folio: §9
 :page: 5
 :title: Methodological Forecast of the Work
 :tracks: English: sec_03-en | Summary: sec_03-summary | Notes: sec_03-notes
 
 .. _efg-introduction-sec_03-en:
 
-.. folio:: § 9
+.. folio:: §9
    :page: 5
 
 Methodological Forecast of the Work

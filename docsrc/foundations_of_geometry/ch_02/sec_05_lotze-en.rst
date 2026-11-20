@@ -2,14 +2,14 @@
 :type: section
 :order: 5
 :canonical_id: II.5
-:folio: § 90
+:folio: §90
 :page: 98
 :title: Lotze's Mathematical Misunderstandings of Metageometry
 :tracks: English: sec_05_lotze-en | Summary: sec_05_lotze-summary | Notes: sec_05_lotze-notes
 
 .. _efg-ch_02-sec_05_lotze-en:
 
-.. folio:: § 90
+.. folio:: §90
    :page: 98
 
 Lotze's Mathematical Misunderstandings of Metageometry

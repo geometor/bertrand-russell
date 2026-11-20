@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: I.1
-:folio: § 10
+:folio: §10
 :page: 7
 :title: First Period: The Synthetic Period
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _efg-ch-01-en:
 .. _efg-ch_01-sec_01-en:
 
-.. folio:: § 10
+.. folio:: §10
    :page: 7
 
 First Period: The Synthetic Period

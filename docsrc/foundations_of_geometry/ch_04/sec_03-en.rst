@@ -2,14 +2,14 @@
 :type: section
 :order: 3
 :canonical_id: IV.3
-:folio: § 201
+:folio: §201
 :page: 193
 :title: Contradictions of Empty Space vs. Real Spatial Order
 :tracks: English: sec_03-en | Summary: sec_03-summary | Notes: sec_03-notes
 
 .. _efg-ch_04-sec_03-en:
 
-.. folio:: § 201
+.. folio:: §201
    :page: 193
 
 Contradictions of Empty Space vs. Real Spatial Order

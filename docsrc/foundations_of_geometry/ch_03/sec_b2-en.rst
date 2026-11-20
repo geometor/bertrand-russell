@@ -2,14 +2,14 @@
 :type: section
 :order: 6
 :canonical_id: III.B.2
-:folio: § 144
+:folio: §144
 :page: 150
 :title: I. The Axiom of Free Mobility
 :tracks: English: sec_b2-en | Summary: sec_b2-summary | Notes: sec_b2-notes
 
 .. _efg-ch_03-sec_b2-en:
 
-.. folio:: § 144
+.. folio:: §144
    :page: 150
 
 I. The Axiom of Free Mobility

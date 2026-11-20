@@ -2,14 +2,14 @@
 :type: section
 :order: 4
 :canonical_id: III.A.4
-:folio: § 123
+:folio: §123
 :page: 132
 :title: Transcendental Deduction of the Projective Axioms
 :tracks: English: sec_a4-en | Summary: sec_a4-summary | Notes: sec_a4-notes
 
 .. _efg-ch_03-sec_a4-en:
 
-.. folio:: § 123
+.. folio:: §123
    :page: 132
 
 Transcendental Deduction of the Projective Axioms

@@ -2,14 +2,14 @@
 :type: section
 :order: 4
 :canonical_id: I.4
-:folio: § 46
+:folio: §46
 :page: 50
 :title: Philosophical Outcome: The Indispensable Axioms of Geometry
 :tracks: English: sec_04-en | Summary: sec_04-summary | Notes: sec_04-notes
 
 .. _efg-ch_01-sec_04-en:
 
-.. folio:: § 46
+.. folio:: §46
    :page: 50
 
 Philosophical Outcome: The Indispensable Axioms of Geometry

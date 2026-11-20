@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: II.1
-:folio: § 51
+:folio: §51
 :page: 54
 :title: Kant's Transcendental Doctrine of Space
 :tracks: English: sec_01_kant-en | Summary: sec_01_kant-summary | Notes: sec_01_kant-notes
@@ -13,7 +13,7 @@
 .. _efg-ch-02-en:
 .. _efg-ch_02-sec_01_kant-en:
 
-.. folio:: § 51
+.. folio:: §51
    :page: 54
 
 Kant's Transcendental Doctrine of Space

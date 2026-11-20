@@ -2,14 +2,14 @@
 :type: section
 :order: 3
 :canonical_id: XLVII.3
-:folio: § 400
+:folio: §400
 :page: 414
 :title: Angles as Stretches of Rays, Areas, and the Metrical Hierarchy
 :tracks: English: sec_03-en | Summary: sec_03-summary | Notes: sec_03-notes
 
 .. _pom-ch_47-sec_03-en:
 
-.. folio:: § 400
+.. folio:: §400
    :page: 414
 
 Angles as Stretches of Rays, Areas, and the Metrical Hierarchy

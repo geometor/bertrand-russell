@@ -2,8 +2,10 @@
   "schema_version": "1.0.0",
   "repository": "geometor/bertrand-russell",
   "description": "Primary-source anchor line mapping for Bertrand Russell Geometric Codex (1897 EFG & 1903 PoM)",
-  "total_folios": 305,
+  "total_folios": 307,
   "folios": {
+    "Preface": "resources/bertrand_russell/sources/efg_1897_pg52091.html#L580",
+    "p. v": "resources/bertrand_russell/sources/pom_1903_extract.html#L27",
     "pom-§1": "resources/bertrand_russell/sources/pom_1903_extract.html#L266",
     "pom-§2": "resources/bertrand_russell/sources/pom_1903_extract.html#L278",
     "pom-§3": "resources/bertrand_russell/sources/pom_1903_extract.html#L306",

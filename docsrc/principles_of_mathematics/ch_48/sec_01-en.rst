@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: XLVIII.1
-:folio: § 405
+:folio: §405
 :page: 419
 :title: Projective and Descriptive Metric and the Absolute Quadric
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-48-en:
 .. _pom-ch_48-sec_01-en:
 
-.. folio:: § 405
+.. folio:: §405
    :page: 419
 
 Projective and Descriptive Metric and the Absolute Quadric

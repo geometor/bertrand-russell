@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: XLVI.2
-:folio: § 381
+:folio: §381
 :page: 399
 :title: Ideal Points, Lines, Planes, and Projective Completion
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _pom-ch_46-sec_02-en:
 
-.. folio:: § 381
+.. folio:: §381
    :page: 399
 
 Ideal Points, Lines, Planes, and Projective Completion

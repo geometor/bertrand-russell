@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: I.2
-:folio: § 6
+:folio: pom-§6
 :page: 5
 :title: Logical Constants, Variables, and Relation to Pure Logic
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _pom-ch_01-sec_02-en:
 
-.. folio:: § 6
+.. folio:: pom-§6
    :page: 5
 
 Logical Constants, Variables, and Relation to Pure Logic

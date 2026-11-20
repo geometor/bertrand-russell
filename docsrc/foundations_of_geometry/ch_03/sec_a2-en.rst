@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: III.A.2
-:folio: § 111
+:folio: §111
 :page: 122
 :title: Projective Coordinates and the Complete Quadrilateral
 :tracks: English: sec_a2-en | Summary: sec_a2-summary | Notes: sec_a2-notes
 
 .. _efg-ch_03-sec_a2-en:
 
-.. folio:: § 111
+.. folio:: §111
    :page: 122
 
 Projective Coordinates and the Complete Quadrilateral
