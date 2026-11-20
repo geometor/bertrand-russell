@@ -3,6 +3,12 @@ GEOMETOR • bertrand-russell
 
 **Visit the Online Archive:** https://geometor.github.io/bertrand-russell/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • bertrand-russell Medallion
+   :target: https://geometor.github.io/bertrand-russell/
+   :width: 180px
+   :align: center
+
 .. image:: docsrc/_static/diagrams/efg-fig-01-p021.svg
    :alt: GEOMETOR • bertrand-russell featured geometric construction
    :target: https://geometor.github.io/bertrand-russell/
