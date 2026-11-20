@@ -2,14 +2,14 @@
 :type: section
 :order: 3
 :canonical_id: II.3
-:folio: § 71
+:folio: §71
 :page: 74
 :title: Helmholtz's Physical Geometry and Rigid Bodies
 :tracks: English: sec_03_helmholtz-en | Summary: sec_03_helmholtz-summary | Notes: sec_03_helmholtz-notes
 
 .. _efg-ch_02-sec_03_helmholtz-en:
 
-.. folio:: § 71
+.. folio:: §71
    :page: 74
 
 Helmholtz's Physical Geometry and Rigid Bodies

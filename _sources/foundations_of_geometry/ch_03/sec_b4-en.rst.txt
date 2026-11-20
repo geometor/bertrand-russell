@@ -2,14 +2,14 @@
 :type: section
 :order: 8
 :canonical_id: III.B.4
-:folio: § 162
+:folio: §162
 :page: 164
 :title: III. The Axiom of Distance
 :tracks: English: sec_b4-en | Summary: sec_b4-summary | Notes: sec_b4-notes
 
 .. _efg-ch_03-sec_b4-en:
 
-.. folio:: § 162
+.. folio:: §162
    :page: 164
 
 III. The Axiom of Distance

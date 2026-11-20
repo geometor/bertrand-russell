@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: XLV.1
-:folio: § 361
+:folio: §361
 :page: 381
 :title: Pieri's Projective Postulates, Lines, and Involutions
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-45-en:
 .. _pom-ch_45-sec_01-en:
 
-.. folio:: § 361
+.. folio:: §361
    :page: 381
 
 Pieri's Projective Postulates, Lines, and Involutions

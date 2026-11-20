@@ -2,14 +2,14 @@
 :type: section
 :order: 4
 :canonical_id: IV.4
-:folio: § 209
+:folio: §209
 :page: 199
 :title: Conclusion: The Epistemological Outcome
 :tracks: English: sec_04-en | Summary: sec_04-summary | Notes: sec_04-notes
 
 .. _efg-ch_04-sec_04-en:
 
-.. folio:: § 209
+.. folio:: §209
    :page: 199
 
 Conclusion: The Epistemological Outcome

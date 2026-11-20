@@ -2,14 +2,14 @@
 :type: section
 :order: 3
 :canonical_id: I.3
-:folio: § 30
+:folio: §30
 :page: 27
 :title: Third Period: The Projective Period
 :tracks: English: sec_03-en | Summary: sec_03-summary | Notes: sec_03-notes
 
 .. _efg-ch_01-sec_03-en:
 
-.. folio:: § 30
+.. folio:: §30
    :page: 27
 
 Third Period: The Projective Period

@@ -2,14 +2,14 @@
 :type: section
 :order: 7
 :canonical_id: III.B.3
-:folio: § 158
+:folio: §158
 :page: 161
 :title: II. The Axiom of Dimensions
 :tracks: English: sec_b3-en | Summary: sec_b3-summary | Notes: sec_b3-notes
 
 .. _efg-ch_03-sec_b3-en:
 
-.. folio:: § 158
+.. folio:: §158
    :page: 161
 
 II. The Axiom of Dimensions

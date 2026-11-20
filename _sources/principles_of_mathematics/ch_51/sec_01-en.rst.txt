@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: LI.1
-:folio: § 423
+:folio: §423
 :page: 445
 :title: Logical Arguments Against Points and Vindication of Absolute Position
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-51-en:
 .. _pom-ch_51-sec_01-en:
 
-.. folio:: § 423
+.. folio:: §423
    :page: 445
 
 Logical Arguments Against Points and Vindication of Absolute Position

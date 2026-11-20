@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: III.A.1
-:folio: § 102
+:folio: §102
 :page: 117
 :title: The Nature and Qualitative Postulates of Projective Geometry
 :tracks: English: sec_a1-en | Summary: sec_a1-summary | Notes: sec_a1-notes
@@ -12,7 +12,7 @@
 .. _efg-ch-03a:
 .. _efg-ch_03-sec_a1-en:
 
-.. folio:: § 102
+.. folio:: §102
    :page: 117
 
 The Nature and Qualitative Postulates of Projective Geometry

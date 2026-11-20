@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: XLVI.1
-:folio: § 374
+:folio: §374
 :page: 393
 :title: Pasch, Peano, and the Serial Definition of Betweenness
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-46-en:
 .. _pom-ch_46-sec_01-en:
 
-.. folio:: § 374
+.. folio:: §374
    :page: 393
 
 Pasch, Peano, and the Serial Definition of Betweenness

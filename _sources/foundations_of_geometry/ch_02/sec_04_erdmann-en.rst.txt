@@ -2,14 +2,14 @@
 :type: section
 :order: 4
 :canonical_id: II.4
-:folio: § 80
+:folio: §80
 :page: 86
 :title: Erdmann's Axioms and the Epistemology of Mechanics
 :tracks: English: sec_04_erdmann-en | Summary: sec_04_erdmann-summary | Notes: sec_04_erdmann-notes
 
 .. _efg-ch_02-sec_04_erdmann-en:
 
-.. folio:: § 80
+.. folio:: §80
    :page: 86
 
 Erdmann's Axioms and the Epistemology of Mechanics

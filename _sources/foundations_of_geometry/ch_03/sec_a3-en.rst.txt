@@ -2,14 +2,14 @@
 :type: section
 :order: 3
 :canonical_id: III.A.3
-:folio: § 115
+:folio: §115
 :page: 127
 :title: The Principle of Duality and the Antinomy of the Point
 :tracks: English: sec_a3-en | Summary: sec_a3-summary | Notes: sec_a3-notes
 
 .. _efg-ch_03-sec_a3-en:
 
-.. folio:: § 115
+.. folio:: §115
    :page: 127
 
 The Principle of Duality and the Antinomy of the Point

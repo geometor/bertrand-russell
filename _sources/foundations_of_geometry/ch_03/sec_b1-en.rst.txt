@@ -2,7 +2,7 @@
 :type: section
 :order: 5
 :canonical_id: III.B.1
-:folio: § 141
+:folio: §141
 :page: 147
 :title: The Postulate of Measurement and Motion
 :tracks: English: sec_b1-en | Summary: sec_b1-summary | Notes: sec_b1-notes
@@ -12,7 +12,7 @@
 .. _efg-ch-03b:
 .. _efg-ch_03-sec_b1-en:
 
-.. folio:: § 141
+.. folio:: §141
    :page: 147
 
 The Postulate of Measurement and Motion

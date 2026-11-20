@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: XLIX.1
-:folio: § 412
+:folio: §412
 :page: 429
 :title: Definitions of Various Spaces as Classes of Relations
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-49-en:
 .. _pom-ch_49-sec_01-en:
 
-.. folio:: § 412
+.. folio:: §412
    :page: 429
 
 Definitions of Various Spaces as Classes of Relations

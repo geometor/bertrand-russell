@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: XLV.2
-:folio: § 367
+:folio: §367
 :page: 386
 :title: Möbius Nets, Projective Order, and Duality
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _pom-ch_45-sec_02-en:
 
-.. folio:: § 367
+.. folio:: §367
    :page: 386
 
 Möbius Nets, Projective Order, and Duality

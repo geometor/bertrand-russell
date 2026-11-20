@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: II.2
-:folio: § 65
+:folio: §65
 :page: 69
 :title: Riemann's Conception of Space as a Manifold
 :tracks: English: sec_02_riemann-en | Summary: sec_02_riemann-summary | Notes: sec_02_riemann-notes
 
 .. _efg-ch_02-sec_02_riemann-en:
 
-.. folio:: § 65
+.. folio:: §65
    :page: 69
 
 Riemann's Conception of Space as a Manifold

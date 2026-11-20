@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: IV.1
-:folio: § 180
+:folio: §180
 :page: 178
 :title: Relativity of Space and the Form of Externality
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _efg-ch-04-en:
 .. _efg-ch_04-sec_01-en:
 
-.. folio:: § 180
+.. folio:: §180
    :page: 178
 
 Relativity of Space and the Form of Externality

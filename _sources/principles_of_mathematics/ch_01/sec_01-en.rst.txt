@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: I.1
-:folio: § 1
+:folio: pom-§1
 :page: 3
 :title: Pure Mathematics as Formal Implication (p implies q)
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-01-en:
 .. _pom-ch_01-sec_01-en:
 
-.. folio:: § 1
+.. folio:: pom-§1
    :page: 3
 
 Pure Mathematics as Formal Implication (p implies q)

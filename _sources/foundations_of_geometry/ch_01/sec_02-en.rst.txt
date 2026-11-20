@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: I.2
-:folio: § 16
+:folio: §16
 :page: 13
 :title: Second Period: The Metrical Period
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _efg-ch_01-sec_02-en:
 
-.. folio:: § 16
+.. folio:: §16
    :page: 13
 
 Second Period: The Metrical Period

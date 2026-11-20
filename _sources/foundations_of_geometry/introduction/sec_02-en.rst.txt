@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: Intro.2
-:folio: § 5
+:folio: §5
 :page: 3
 :title: The Logical Criterion of Necessity and Experience
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _efg-introduction-sec_02-en:
 
-.. folio:: § 5
+.. folio:: §5
    :page: 3
 
 The Logical Criterion of Necessity and Experience

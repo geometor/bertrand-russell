@@ -2,7 +2,7 @@
 :type: section
 :order: 1
 :canonical_id: L.1
-:folio: § 416
+:folio: §416
 :page: 437
 :title: The Spatial Continuum, Dedekind Cuts, and Cantor's Continuum
 :tracks: English: sec_01-en | Summary: sec_01-summary | Notes: sec_01-notes
@@ -13,7 +13,7 @@
 .. _pom-ch-50-en:
 .. _pom-ch_50-sec_01-en:
 
-.. folio:: § 416
+.. folio:: §416
    :page: 437
 
 The Spatial Continuum, Dedekind Cuts, and Cantor's Continuum

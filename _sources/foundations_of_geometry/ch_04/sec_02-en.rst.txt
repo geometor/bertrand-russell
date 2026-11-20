@@ -2,14 +2,14 @@
 :type: section
 :order: 2
 :canonical_id: IV.2
-:folio: § 194
+:folio: §194
 :page: 188
 :title: The Antinomy of the Point and Geometrical Order
 :tracks: English: sec_02-en | Summary: sec_02-summary | Notes: sec_02-notes
 
 .. _efg-ch_04-sec_02-en:
 
-.. folio:: § 194
+.. folio:: §194
    :page: 188
 
 The Antinomy of the Point and Geometrical Order

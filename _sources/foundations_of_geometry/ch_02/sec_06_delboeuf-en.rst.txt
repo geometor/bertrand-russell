@@ -2,14 +2,14 @@
 :type: section
 :order: 6
 :canonical_id: II.6
-:folio: § 98
+:folio: §98
 :page: 110
 :title: Delbœuf and Recent French Geometrical Speculation
 :tracks: English: sec_06_delboeuf-en | Summary: sec_06_delboeuf-summary | Notes: sec_06_delboeuf-notes
 
 .. _efg-ch_02-sec_06_delboeuf-en:
 
-.. folio:: § 98
+.. folio:: §98
    :page: 110
 
 Delbœuf and Recent French Geometrical Speculation
