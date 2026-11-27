@@ -30,4 +30,4 @@ Anticipating Hoenen's problem of exactitude from the opposite direction, Russell
 §422: Space as an Infinite Aggregate of Points
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Rejecting the Aristotelian–Kantian dictum that points are mere limits of division, Russell insists that Cantor's set theory rehabilitates space as a literal class of $2^{\alpha_0}$ indivisible points.
+Rejecting the Aristotelian–Kantian dictum that points are mere limits of division, Russell insists that Cantor's set theory rehabilitates space as a literal class of :math:`2^{\alpha_0}` indivisible points.

@@ -99,7 +99,7 @@ Gauss, the inventor of this conception [#efg_fn23]_, proved that, in order that 
 
 The method of determining the measure of curvature from within is, briefly, as follows: If any point on the surface be determined by two coordinates, *u*, *v*, then small arcs of the surface are given by the formula
 
-   $ds^{2}$ = $Edu^{2}$ + *2Fdu dv* + $Gdv^{2}$,
+   :math:`ds^{2}` = :math:`Edu^{2}` + *2Fdu dv* + :math:`Gdv^{2}`,
 
 .. _efg-p20:
 
@@ -115,23 +115,23 @@ where *E*, *F*, *G* are, in general, functions of *u*, *v*. [#efg_fn27]_ From th
 
 **22.** Such a meaning is supplied by Riemann's dissertation, to which, after this long digression, we can now return. We may define a continuous manifold as any continuum of elements, such that a single element is defined by *n* continuously variable magnitudes. This definition does not really include space, for coordinates in space do not define a point, but its relations to the origin, which is itself arbitrary. It includes, however, the analytical conception of space with which Riemann deals, and may, therefore, be allowed to stand for the moment. Riemann then assumes that the difference—or distance, as it may be loosely called—between any two elements is comparable, as regards magnitude, to the difference between any other two. He assumes further, what it is Helmholtz's merit to have proved, that the difference *ds* between two consecutive elements can be expressed as the square root of a quadratic function of the differences of the coordinates: *i.e.*
 
-   $ds^{2}$ = $\sum_{1}^{n}$ $\sum_{1}^{n}$ $a_{ik} dx_{i}.dx_{k}$ ,
+   :math:`ds^{2}` = :math:`\sum_{1}^{n}` :math:`\sum_{1}^{n}` :math:`a_{ik} dx_{i}.dx_{k}` ,
 
 .. _efg-p21:
 
-where the coefficients $a_{ik}$ are, in general, functions of the coordinates $x_{1} x_{2} \dots x$_{n\ $}$. [#efg_fn28]_ The question is: How are we to obtain a definition of the measure of curvature out of this formula? It is noticeable, in the first place, that, just as in a surface we found an infinite number of *radii* of curvature at a point, so in a manifold of three or more dimensions we must find an infinite number of *measures* of curvature at a point, one for every two-dimensional manifold passing through the point, and contained in the higher manifold. What we have first to do, therefore, is to define such two-dimensional manifolds. They must consist, as we saw on the surface, of a singly infinite series of geodesics through the point. Now a geodesic is completely determined by one point and its direction at that point, or by one point and the next consecutive point. Hence a geodesic through the point considered is determined by the ratios of the increments of coordinates, $dx_{1} dx_{2} \dots dx_{n}$. Suppose we have two such geodesics, in which the *i*′th increments are respectively $d'x_{i}$ and $d''x_{i}$. Then all the geodesics given by
+where the coefficients :math:`a_{ik}` are, in general, functions of the coordinates :math:`x_{1} x_{2} \dots x_{n}`. [#efg_fn28]_ The question is: How are we to obtain a definition of the measure of curvature out of this formula? It is noticeable, in the first place, that, just as in a surface we found an infinite number of *radii* of curvature at a point, so in a manifold of three or more dimensions we must find an infinite number of *measures* of curvature at a point, one for every two-dimensional manifold passing through the point, and contained in the higher manifold. What we have first to do, therefore, is to define such two-dimensional manifolds. They must consist, as we saw on the surface, of a singly infinite series of geodesics through the point. Now a geodesic is completely determined by one point and its direction at that point, or by one point and the next consecutive point. Hence a geodesic through the point considered is determined by the ratios of the increments of coordinates, :math:`dx_{1} dx_{2} \dots dx_{n}`. Suppose we have two such geodesics, in which the *i*′th increments are respectively :math:`d'x_{i}` and :math:`d''x_{i}`. Then all the geodesics given by
 
-   $dx_{i}$ = λ′\ $d'x_{i}$ + λ″\ $d''x_{i}$
+   :math:`dx_{i}` = λ′\ :math:`d'x_{i}` + λ″\ :math:`d''x_{i}`
 
 .. figure:: /_static/diagrams/efg-fig-01-p021.svg
    :align: center
    :alt: efg-fig-01-p021.svg
 
-   Fig. 1 (p. 21, § 22) — Singly infinite pencil of geodesics $dx_i = \lambda' d'x_i + \lambda'' d''x_i$ forming a 2-manifold.
+   Fig. 1 (p. 21, § 22) — Singly infinite pencil of geodesics :math:`dx_i = \lambda' d'x_i + \lambda'' d''x_i` forming a 2-manifold.
 
-form a singly infinite series, since they contain one parameter, namely λ′: λ″. Such a series of geodesics, therefore, must form a two-dimensional manifold, with a measure of curvature in the ordinary Gaussian sense. This measure of curvature can be determined from the above formula for the elementary arc, by the help of Gauss's general formula alluded to above. We thus obtain an infinite number of measures of curvature at a point, but from $\frac{n.(n - 1)}{2}$ of these, the rest can be deduced (Riemann, Gesammelte Werke, p. 262). When all the measures of curvature at a point are constant, and equal to all the measures of curvature at any other point, we get what Riemann calls a manifold of constant curvature. In such a manifold free mobility is possible, and positions do not differ intrinsically from one another. If *a* be the measure of curvature, the formula for the arc becomes, in this case,
+form a singly infinite series, since they contain one parameter, namely λ′: λ″. Such a series of geodesics, therefore, must form a two-dimensional manifold, with a measure of curvature in the ordinary Gaussian sense. This measure of curvature can be determined from the above formula for the elementary arc, by the help of Gauss's general formula alluded to above. We thus obtain an infinite number of measures of curvature at a point, but from :math:`\frac{n.(n - 1)}{2}` of these, the rest can be deduced (Riemann, Gesammelte Werke, p. 262). When all the measures of curvature at a point are constant, and equal to all the measures of curvature at any other point, we get what Riemann calls a manifold of constant curvature. In such a manifold free mobility is possible, and positions do not differ intrinsically from one another. If *a* be the measure of curvature, the formula for the arc becomes, in this case,
 
-   $ds^{2}$ = Σ\ $dx^{2}$ / (1 + $\frac{a}{4}$ Σ\ $x^{2}$)\ $^2$.
+   :math:`ds^{2}` = Σ\ :math:`dx^{2}` / (1 + :math:`\frac{a}{4}` Σ\ :math:`x^{2}`)\ :math:`^2`.
 
 In this case only, as I pointed out above, can the term "measure of curvature" be properly applied to space without reference to a higher dimension, since free mobility is logically indispensable to the existence of quantitative or metrical Geometry.
 
@@ -280,6 +280,6 @@ Third Period.
 
 .. [#efg_fn36] Such surfaces are by no means particularly remote. One of them, for example, is formed by the revolution of the common Tractrix
 
-   *x* = *a* sin *φ*, *y* = *a* (log tan $\frac{\varphi}{2}$ + cos *φ*).
+   *x* = *a* sin *φ*, *y* = *a* (log tan :math:`\frac{\varphi}{2}` + cos *φ*).
 
 .. [#efg_fn37] *"Teoria fondamentale degli spazii di curvatura costanta," Annali di Matematica*, II. Vol. 2, 1868–9. Also translated by J. Hoüel, *loc. cit.*

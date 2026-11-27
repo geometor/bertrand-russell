@@ -34,7 +34,7 @@ Doctrinal Comparison Matrix
      - Vindicated logically: projective distance is a bona fide asymmetrical relation parameterized by an :term:`Absolute quadric <the-absolute>` (:ref:`PoM Ch. XLVIII, §§ 405–411 <pom-ch-48-relation-en>`).
    * - **Status of Spatial Points**
      - Infected with an inescapable Hegelian antinomy of the unextended spatial element (:ref:`EFG §§ 116–117 <efg-116>`, :ref:`§§ 189–204 <efg-198>`).
-     - Logically consistent, unextended substantive terms; :person:`Cantor <cantor>`'s continuum $2^{\alpha_0}$ refutes :person:`Zeno <zeno>` and :person:`Lotze <lotze>` (:ref:`PoM Chs. L–LI, §§ 416–431 <pom-ch-50-continuity-en>`).
+     - Logically consistent, unextended substantive terms; :person:`Cantor <cantor>`'s continuum :math:`2^{\alpha_0}` refutes :person:`Zeno <zeno>` and :person:`Lotze <lotze>` (:ref:`PoM Chs. L–LI, §§ 416–431 <pom-ch-50-continuity-en>`).
    * - **Kant's Spatial Intuition**
      - Reinterpreted sympathetically on its epistemological side while pruned of Euclidean narrowness (:ref:`EFG §§ 52–58 <efg-52>`).
      - Refuted root and branch: asymmetric relational logic generates serial order, dimensions, and chirality without subjective intuition (:ref:`PoM Ch. LII, §§ 432–436 <pom-ch-52-kant-en>`).

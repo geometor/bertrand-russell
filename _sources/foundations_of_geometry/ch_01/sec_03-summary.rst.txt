@@ -18,7 +18,7 @@ Key Arguments & Theses
 §§17–26: Riemann's Curvature and Helmholtz's Free Mobility
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Riemann's geodesic 2-pencils (Fig. 1, p. 21) show that figures move without distortion if and only if Gaussian curvature $k$ is constant everywhere.
+Riemann's geodesic 2-pencils (Fig. 1, p. 21) show that figures move without distortion if and only if Gaussian curvature :math:`k` is constant everywhere.
 
 §§30–43: Cayley–Klein Projective Metrics and Imaginaries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

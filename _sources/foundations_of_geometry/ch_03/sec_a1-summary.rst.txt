@@ -20,7 +20,7 @@ Key Arguments & Theses
 §§111–114: Von Staudt's Purely Qualitative Harmonic Fourth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Projective cross-ratio requires no measurement of segments: harmonic conjugation is defined purely by incidence via the complete quadrilateral $ABDOPQRS T$ (Fig. 8, p. 125), whose uniqueness follows from Desargues's theorem in three-space.
+Projective cross-ratio requires no measurement of segments: harmonic conjugation is defined purely by incidence via the complete quadrilateral :math:`ABDOPQRS T` (Fig. 8, p. 125), whose uniqueness follows from Desargues's theorem in three-space.
 
 §§128–139: Deduction from the Form of Externality
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

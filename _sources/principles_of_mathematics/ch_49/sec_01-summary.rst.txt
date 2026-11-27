@@ -25,9 +25,9 @@ In pure geometry there are no geometric axioms—only the nominal definition of 
 §414: Vectorial Definition of Euclidean Space
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Euclidean $n$-space is compactly defined as the field of a group of everywhere-defined bijective directed magnitudes (vectors) forming an $n$-dimensional real inner-product space.
+Euclidean :math:`n`-space is compactly defined as the field of a group of everywhere-defined bijective directed magnitudes (vectors) forming an :math:`n`-dimensional real inner-product space.
 
 §415: Clifford's Spaces and Klein's Space-Form Problem
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Examining :person:`Clifford <clifford>`'s cylindrical/flat manifolds of finite extent where angle-sum equals $\pi$ everywhere yet straight lines close, Russell highlights the distinction between local and global topological axioms.
+Examining :person:`Clifford <clifford>`'s cylindrical/flat manifolds of finite extent where angle-sum equals :math:`\pi` everywhere yet straight lines close, Russell highlights the distinction between local and global topological axioms.

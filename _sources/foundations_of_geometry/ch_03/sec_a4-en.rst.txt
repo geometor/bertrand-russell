@@ -285,7 +285,7 @@ To sum up: Since position is relative, two positions must have *some* relation t
       :align: center
       :alt: efg-fig-09-p145.svg
 
-      Fig. 9 (p. 145, § 138 n. 144) — Projective construction of the plane from triad $O, P, Q$ via $p, q$ and $P', Q'$.
+      Fig. 9 (p. 145, § 138 n. 144) — Projective construction of the plane from triad :math:`O, P, Q` via :math:`p, q` and :math:`P', Q'`.
 
    Let *O*, *P*, *Q* be the three points whose projective relation is required. Then we have given us the three straight lines *PQ*, *QO*, *OP*. Metrically, the relation between these points is made up of the area, and the magnitude of the sides and angles, of the triangle *OPQ*, just as the relation between two points is distance. But projectively, the figure is unchanged when *P* and *Q* travel along *OP* and *OQ*, or when *OP* and *OQ* turn about *O* in such a way as still to meet *PQ*. This is a result of the general principle of projective equivalence enunciated above (:ref:`§§ 108 <efg-108>`, :ref:`109 <efg-109>`). Hence the projective relation between *O*, *P*, *Q* is the same as that between *O*, *p*, *q* or *O*, *P′*, *Q′*; that is, *p*, *q* and *P′*, *Q′* lie in the plane *OPQ*. In this way, any number of points on the plane may be obtained, and by repeating the construction with fresh triads, every point of the plane can be reached. We have to prove that, when the plane is so constructed, the straight line joining any two points of the plane lies wholly in the plane.
 

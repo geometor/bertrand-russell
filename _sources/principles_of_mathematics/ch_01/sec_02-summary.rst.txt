@@ -10,7 +10,7 @@ Summary — Logical Constants, Variables, and Relation to Pure Logic
 Executive Summary
 -----------------
 
-Chapter I (*Definition of Pure Mathematics*, §§1–10, pp. 3–9) opens :cite:`*The Principles of Mathematics* <russell:1903>` with arguably the most famous sentence in twentieth-century philosophy of mathematics, defining pure mathematics as the class of all :term:`formal implications <formal-implication>` ``p implies q`` containing only unrestricted variables and :term:`logical constants <logical-constant>`. Geometry is thereby split cleanly into two distinct enterprises: *pure geometry*, which proves strictly logical implications of the form 'if $S$ is a Euclidean (or hyperbolic) space, then $S$ possesses property $P$', and *applied geometry*, an empirical branch of physics asking whether actual perceptual space instantiates $S$.
+Chapter I (*Definition of Pure Mathematics*, §§1–10, pp. 3–9) opens :cite:`*The Principles of Mathematics* <russell:1903>` with arguably the most famous sentence in twentieth-century philosophy of mathematics, defining pure mathematics as the class of all :term:`formal implications <formal-implication>` ``p implies q`` containing only unrestricted variables and :term:`logical constants <logical-constant>`. Geometry is thereby split cleanly into two distinct enterprises: *pure geometry*, which proves strictly logical implications of the form 'if :math:`S` is a Euclidean (or hyperbolic) space, then :math:`S` possesses property :math:`P`', and *applied geometry*, an empirical branch of physics asking whether actual perceptual space instantiates :math:`S`.
 
 Key Arguments & Theses
 ----------------------
@@ -28,4 +28,4 @@ The axioms of :person:`Euclid <euclid>` do not follow from logic alone; what fol
 §§6–8: Unrestricted Variables and Relation-Types
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Apparent constants such as parameters $(a, b, c)$ in $ax + by + c = 0$ or the underlying point-set itself are variables; pure plane geometry studies any class of entities bearing relations of the Euclidean plane type, such as ordered pairs of real numbers.
+Apparent constants such as parameters :math:`(a, b, c)` in :math:`ax + by + c = 0` or the underlying point-set itself are variables; pure plane geometry studies any class of entities bearing relations of the Euclidean plane type, such as ordered pairs of real numbers.

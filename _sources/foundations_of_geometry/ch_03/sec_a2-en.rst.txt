@@ -31,7 +31,7 @@ Projective Coordinates and the Complete Quadrilateral
    :align: center
    :alt: efg-fig-06-p123.svg
 
-   Fig. 6 (p. 123, § 111) — Central projection of collinear points $A, B, C, D$ from $O$ onto $A', B', C', D'$ with equal anharmonic ratio.
+   Fig. 6 (p. 123, § 111) — Central projection of collinear points :math:`A, B, C, D` from :math:`O` onto :math:`A', B', C', D'` with equal anharmonic ratio.
 
 .. _efg-p123:
 
@@ -57,7 +57,7 @@ Two sets of points or of lines, which have the same anharmonic ratio, are treate
    :align: center
    :alt: efg-fig-07-p124.svg
 
-   Fig. 7 (p. 124, § 111) — Projective extension from four rays in one plane to a second plane via transversal $A''B''C''D''$.
+   Fig. 7 (p. 124, § 111) — Projective extension from four rays in one plane to a second plane via transversal :math:`A''B''C''D''`.
 
 .. _efg-113:
 
@@ -69,7 +69,7 @@ Two sets of points or of lines, which have the same anharmonic ratio, are treate
 
 **113.** A harmonic range, in elementary Geometry, is one whose anharmonic ratio is –1, or one in which the three segments formed by the four points are in harmonic progression, or again, one in which the ratio of the two internal segments is equal to the ratio of the two external segments. If *a*, *b*, *c*, *d* be the four points, it is easily seen that these definitions are equivalent to one another: they give respectively:
 
-   $\frac{ab}{bc}$ / $\frac{ad}{dc}$ = – 1 , $\frac{1}{ab}$ – $\frac{1}{ac}$ = $\frac{1}{ac}$ – $\frac{1}{ad}$ , and $\frac{ab}{bc}$ = $\frac{ad}{cd}$ .
+   :math:`\frac{ab}{bc}` / :math:`\frac{ad}{dc}` = – 1 , :math:`\frac{1}{ab}` – :math:`\frac{1}{ac}` = :math:`\frac{1}{ac}` – :math:`\frac{1}{ad}` , and :math:`\frac{ab}{bc}` = :math:`\frac{ad}{cd}` .
 
 .. _efg-p125:
 
@@ -79,7 +79,7 @@ But as they are all quantitative, they cannot be used for our present purpose. N
    :align: center
    :alt: efg-fig-08-p125.svg
 
-   Fig. 8 (p. 125, § 113) — Von Staudt's Complete Quadrilateral Construction of the harmonic conjugate $C$ to $A$ with respect to $B, D$.
+   Fig. 8 (p. 125, § 113) — Von Staudt's Complete Quadrilateral Construction of the harmonic conjugate :math:`C` to :math:`A` with respect to :math:`B, D`.
 
 Given any three points *A*, *B*, *D* in one straight line, the quadrilateral construction finds the point *C* harmonic to *A* with respect to *B*, *D* by the following method: Take any point *O* outside the straight line *ABD*, and join it to *B* and *D*. Through *A* draw any straight line cutting *OD*, *OB* in *P* and *Q*. Join *DQ*, *BP*, and let them intersect in *R*. Join *OR*, and let *OR* meet *ABD* in *C*. Then *C* is the point required.
 
