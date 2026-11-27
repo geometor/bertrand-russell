@@ -25,7 +25,7 @@ Russell classifies modern foundational research into three autonomous tiers: pro
 §365: Von Staudt's Complete Quadrilateral Construction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Given collinear points $a, b, c$, their harmonic fourth $d$ is constructed solely by joining and intersecting lines in three-space; Desargues's theorem guarantees uniqueness independent of the auxiliary plane and projection centers.
+Given collinear points :math:`a, b, c`, their harmonic fourth :math:`d` is constructed solely by joining and intersecting lines in three-space; Desargues's theorem guarantees uniqueness independent of the auxiliary plane and projection centers.
 
 §§367–371: Projective Generation of Order and Coordinates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

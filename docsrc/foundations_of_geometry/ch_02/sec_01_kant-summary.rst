@@ -30,4 +30,4 @@ Defining congruence via physical rigid bodies is viciously circular because mech
 §§90–95: Point-by-Point Refutation of Lotze (Figs. 3–5)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Lotze begs the parallel question in defining parallels $a\alpha, b\beta$ by equidistant chords (Fig. 3, p. 99), misconstrues intrinsic spherical geodesics $NBS$ (Fig. 4, p. 101), and ignores orders of infinity ($\infty^2$) in his perpendicularity proof of 3-space (Fig. 5, p. 106).
+Lotze begs the parallel question in defining parallels :math:`a\alpha, b\beta` by equidistant chords (Fig. 3, p. 99), misconstrues intrinsic spherical geodesics :math:`NBS` (Fig. 4, p. 101), and ignores orders of infinity (:math:`\infty^2`) in his perpendicularity proof of 3-space (Fig. 5, p. 106).

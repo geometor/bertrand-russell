@@ -18,12 +18,12 @@ Key Arguments & Theses
 §§375–378: Pasch–Peano Betweenness vs. Serial Relations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Lines may be generated either from Peano's primitive open segment $ab$ ($c \in ab$) or from a class $K$ of transitive asymmetrical ray-relations $R$ with converse $\breve{R}$.
+Lines may be generated either from Peano's primitive open segment :math:`ab` (:math:`c \in ab`) or from a class :math:`K` of transitive asymmetrical ray-relations :math:`R` with converse :math:`\breve{R}`.
 
 §380: Pasch's Axiom and the Descriptive Plane
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A plane cannot be defined merely as lines joining $A$ to points of $BC$, because parallels or hyperbolic ultra-parallels leave gaps; Pasch's triangle-transversal postulates close the plane.
+A plane cannot be defined merely as lines joining :math:`A` to points of :math:`BC`, because parallels or hyperbolic ultra-parallels leave gaps; Pasch's triangle-transversal postulates close the plane.
 
 §§383–387: Logical Construction of Ideal Elements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

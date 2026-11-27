@@ -10,7 +10,7 @@ Summary — I. The Axiom of Free Mobility
 Executive Summary
 -----------------
 
-Chapter III, Section B (*The Axioms of Metrical Geometry*, §§141–179, pp. 147–177) transitions from pure projective quality to spatial quantity and measurement, deriving three *a priori* metrical axioms presupposed in any measurable spatial manifold: **I. The Axiom of Free Mobility** (Congruence, §§146–161), **II. The Axiom of Dimensions** (finite integral dimensionality, with $n = 3$ empirical, §§162–166), and **III. The Axiom of Distance** (unique two-point magnitude along geodesics, with local Euclidean flatness as limiting calculus condition, §§167–176).
+Chapter III, Section B (*The Axioms of Metrical Geometry*, §§141–179, pp. 147–177) transitions from pure projective quality to spatial quantity and measurement, deriving three *a priori* metrical axioms presupposed in any measurable spatial manifold: **I. The Axiom of Free Mobility** (Congruence, §§146–161), **II. The Axiom of Dimensions** (finite integral dimensionality, with :math:`n = 3` empirical, §§162–166), and **III. The Axiom of Distance** (unique two-point magnitude along geodesics, with local Euclidean flatness as limiting calculus condition, §§167–176).
 
 Key Arguments & Theses
 ----------------------

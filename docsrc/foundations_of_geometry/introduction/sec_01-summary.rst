@@ -25,4 +25,4 @@ Whether space perception is innate or learned belongs to psychology; epistemolog
 §9: Partition of Geometric Axioms
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Axioms shared by Euclidean, hyperbolic, and spherical/elliptic spaces are *a priori*; axioms distinguishing Euclid (zero space-constant and $n = 3$) are empirical.
+Axioms shared by Euclidean, hyperbolic, and spherical/elliptic spaces are *a priori*; axioms distinguishing Euclid (zero space-constant and :math:`n = 3`) are empirical.

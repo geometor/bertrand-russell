@@ -25,7 +25,7 @@ Russell shows that ``I.1`` assumes without proof that two coplanar circles whose
 §390 (pp. 405–406): Why Superposition Fails Logically
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-First, spatial points are immutable positions ('can no more change its position than the leopard can change his spots'). Second, moving material triangles requires *rigidity*, whose very definition presupposes prior spatial equality—illustrated by setting up $\triangle ABC$ by the window and $\triangle DEF$ by the fire, where a heated thermometer changes equally with the triangles.
+First, spatial points are immutable positions ('can no more change its position than the leopard can change his spots'). Second, moving material triangles requires *rigidity*, whose very definition presupposes prior spatial equality—illustrated by setting up :math:`\triangle ABC` by the window and :math:`\triangle DEF` by the fire, where a heated thermometer changes equally with the triangles.
 
 §391 (pp. 406–407): The Congruence Postulate Replacing Superposition
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,4 +35,4 @@ Following :person:`Hilbert <hilbert>`, Russell states the exact triangle-determi
 §§396–402: Magnitude of Divisibility and Angle as Stretch of Rays
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Distances are derived from the :term:`magnitude of divisibility <magnitude-of-divisibility>` of generating serial relations rather than point-set cardinality ($2^{\alpha_0}$); angles must be defined as stretches of rays rather than unbounded planar sectors (§402), because in hyperbolic space a proper sub-sector could otherwise exceed the whole.
+Distances are derived from the :term:`magnitude of divisibility <magnitude-of-divisibility>` of generating serial relations rather than point-set cardinality (:math:`2^{\alpha_0}`); angles must be defined as stretches of rays rather than unbounded planar sectors (§402), because in hyperbolic space a proper sub-sector could otherwise exceed the whole.
