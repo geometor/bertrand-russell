@@ -14,18 +14,4 @@ Introduction: Our Problem Defined
 Russell defines the epistemological problem of geometry against psychologism, establishing a strictly logical criterion of the *a priori* as that which is necessary for experience.
 
 .. collection::
-   :type: section
    :sort: order
-
-.. toctree::
-   :hidden:
-
-   sec_01-en
-   sec_02-en
-   sec_03-en
-   sec_01-summary
-   sec_01-notes
-   sec_02-summary
-   sec_02-notes
-   sec_03-summary
-   sec_03-notes
