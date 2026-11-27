@@ -14,12 +14,4 @@ Chapter LI: Logical Arguments Against Points
 Chapter LI (*Logical Arguments Against Points*, §§423–431, pp. 445–453) confronts the classical metaphysical controversy between **absolute** (substantival) and **relational** theories of space. Reversing the relational conclusion of his 1897 *Essay* (Ch. IV), :person:`Russell <russell>` dissects :person:`Lotze <lotze>`'s monadistic critique of empty space (§§424–428) and :person:`Leibniz <leibniz>`'s identity of indiscernibles (§429), arguing that relationalism covertly presupposes irreducible asymmetric spatial relations whose terms can only be absolute, unextended points differing immediately without qualitative adjectives.
 
 .. collection::
-   :type: section
    :sort: order
-
-.. toctree::
-   :hidden:
-
-   sec_01-en
-   sec_01-summary
-   sec_01-notes

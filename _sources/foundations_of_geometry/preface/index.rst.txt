@@ -14,12 +14,4 @@ Preface & Dedication (1897)
 Russell's Cambridge Fellowship dissertation expansion investigating nineteenth-century metageometry and deducing the *a priori* axioms of projective and metrical space.
 
 .. collection::
-   :type: section
    :sort: order
-
-.. toctree::
-   :hidden:
-
-   sec_01-en
-   sec_01-summary
-   sec_01-notes

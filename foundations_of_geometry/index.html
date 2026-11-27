@@ -31,7 +31,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=ea5fcf70" />
-  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=6f74f1da" />
+  <link rel="stylesheet" type="text/css" href="../_static/css/styles.css?v=0b57331d" />
   <link rel="stylesheet" type="text/css" href="../_static/graphviz.css?v=4ae1632d" />
   <link rel="stylesheet" href="../_static/css/print.css" type="text/css" media="print" />
   <link rel="icon" href="../_static/favicon.ico" />
@@ -85,7 +85,7 @@
     <div class="motto"></div>
   </header>
   <main class="book-main">
-    <article class="book-layout book-reading-pane">
+    <article class="book-layout book-reading-pane" data-pagename="foundations_of_geometry/index" data-outline-src="outline-data.js" data-outline-url="outline.html">
       <header class="book-header">
         <div class="book-header-bar">
           <nav class="book-breadcrumbs" aria-label="Breadcrumb">
@@ -97,6 +97,9 @@
             <a class="book-nav-btn" href="../index.html" title="Bertrand Russell">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
+            <div class="book-nav-center-row">
+              <a class="book-outline-trigger" href="outline.html" data-outline-toggle aria-expanded="false" aria-controls="book-outline-drawer" title="View full book outline">Outline</a>
+            </div>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="preface/index.html" title="Preface &amp; Dedication (1897)"><span class="nav-label">Next</span> &rarr;</a>
@@ -118,7 +121,7 @@
         </div>
         <section class="level-2" id="editorial-scope-diagram-reconstructions">
         <h2>Editorial Scope &amp; Diagram Reconstructions<a class="headerlink" href="#editorial-scope-diagram-reconstructions" title="Link to this heading">¶</a></h2>
-        <p>This Book Codex reproduces the <strong>complete, unabridged 1897 Cambridge University Press first edition</strong> of <a class="citation-ref" id="occ-cite-russell-1897-1" href="../bibliography.html#cite-russell-1897" data-cite="russell:1897" title="Bertrand A. W. Russell — An Essay on the Foundations of Geometry (Cambridge: At the University Press)"><em>An Essay on the Foundations of Geometry</em></a> (xvi + 201 pp., <strong>all 209 numbered sections §§ 1–209</strong> and <strong>all 171 authorial footnotes</strong>), accompanied by <strong>9 exact analytical vector SVG diagrams</strong> newly reconstructed from Russell’s geometric specifications—including <a class="person-ref" id="occ-person-staudt-1" href="../people/staudt.html#person-staudt" data-person="staudt" title="Karl Georg Christian von Staudt (1798 – 1867) — German Synthetic Projective Geometer">von Staudt</a>’s <a class="term-ref glossary-term" id="occ-term-quadrilateral-construction-1" href="../glossary.html#term-quadrilateral-construction" data-term="quadrilateral-construction" title="quadrilateral construction (Von Staudt&#x27;s pure-incidence construction of the harmonic fourth point): Given collinear points A, B, D, constructing the unique harmonic conjugate C of A with respect to B, D by projecting from an external point O and intersecting diagonals of a complete quadrilateral—uniqueness in a plane following from three-dimensional incidence via Desargues&#x27;s theorem (EFG §113; PoM §365).">complete quadrilateral harmonic construction</a> (Fig. 8, p. 125, <a class="reference internal" href="ch_03/sec_a2-en.html#efg-113"><span class="std std-ref">§ 113</span></a>).</p>
+        <p>This Book Codex reproduces the <strong>complete, unabridged 1897 Cambridge University Press first edition</strong> of <a class="citation-ref" id="occ-cite-russell-1897-1" href="../bibliography.html#cite-russell-1897" data-cite="russell:1897" title="Bertrand A. W. Russell — An Essay on the Foundations of Geometry (Cambridge: At the University Press)"><em>An Essay on the Foundations of Geometry</em></a> (xvi + 201 pp., <strong>all 209 numbered sections §§ 1–209</strong> and <strong>all 171 authorial footnotes</strong>), accompanied by <strong>9 exact analytical vector SVG diagrams</strong> newly reconstructed from Russell’s geometric specifications—including <a class="person-ref" id="occ-person-staudt-1" href="../people/staudt.html#person-staudt" data-person="staudt" title="Karl Georg Christian von Staudt (1798 – 1867) — German Synthetic Projective Geometer">von Staudt</a>’s <a class="term-ref glossary-term" id="occ-term-quadrilateral-construction-1" href="../glossary.html#term-quadrilateral-construction" data-term="quadrilateral-construction" title="quadrilateral construction (Von Staudt&#x27;s pure-incidence construction of the harmonic fourth point): Given collinear points A, B, D, constructing the unique harmonic conjugate C of A with respect to B, D by projecting from an external point O and intersecting diagonals of a complete quadrilateral—uniqueness in a plane following from three-dimensional incidence via Desargues&#x27;s theorem (EFG §113; PoM §365).">complete quadrilateral harmonic construction</a> (Fig. 8, p. 125, <a class="reference internal" href="ch_03/sec_a2/index.html#efg-113"><span class="std std-ref">§ 113</span></a>).</p>
         </section>
         <hr class="docutils" />
         <section class="level-2" id="chapters">
@@ -288,13 +291,38 @@
             <a class="book-nav-btn" href="../index.html" title="Bertrand Russell">&larr; <span class="nav-label">Prev</span></a>
           </div>
           <div class="book-nav-center">
-            <a class="book-toc-link" href="#">Foundations of Geometry</a>
+            <div class="book-nav-center-row">
+              <a class="book-toc-link" href="#">Foundations of Geometry</a>
+              <span class="book-track-sep">&middot;</span>
+              <a class="book-toc-link book-outline-footer-link" href="outline.html" data-outline-toggle>Outline</a>
+            </div>
           </div>
           <div class="book-nav-next">
             <a class="book-nav-btn" href="preface/index.html" title="Preface &amp; Dedication (1897)"><span class="nav-label">Next</span> &rarr;</a>
           </div>
         </div>
       </footer>
+      <div class="book-outline-backdrop" data-outline-close hidden></div>
+      <aside id="book-outline-drawer" class="book-outline-drawer" aria-label="Full Book Outline" hidden>
+        <div class="book-outline-drawer-header">
+          <div class="book-outline-drawer-heading">
+            <span class="book-outline-drawer-kicker">Book Outline</span>
+            <strong class="book-outline-drawer-title">Foundations of Geometry</strong>
+          </div>
+          <div class="book-outline-drawer-actions">
+            <a class="book-outline-fullpage-link" href="outline.html" title="Open full-page outline">Full Page &nearr;</a>
+            <button type="button" class="book-outline-close-btn" data-outline-close aria-label="Close outline">&times;</button>
+          </div>
+        </div>
+        <div class="book-outline-controls">
+          <input type="search" class="book-outline-search" placeholder="Filter sections, chapters, propositions..." aria-label="Filter book outline" />
+          <div class="book-outline-btn-group">
+            <button type="button" class="book-outline-ctrl-btn" data-outline-expand>Expand all</button>
+            <button type="button" class="book-outline-ctrl-btn" data-outline-collapse>Collapse all</button>
+          </div>
+        </div>
+        <nav class="book-outline-drawer-body" aria-label="Complete Book Hierarchy"></nav>
+      </aside>
     </article>
   </main>
   <div class="asides">
@@ -347,9 +375,11 @@
         <li><a href="../types/book.html">book</a></li>
         <li><a href="../types/chapter.html">chapter</a></li>
         <li><a href="../types/log.html">log</a></li>
+        <li><a href="../types/notes.html">notes</a></li>
         <li><a href="../types/person.html">person</a></li>
         <li><a href="../types/section.html">section</a></li>
         <li><a href="../types/source_record.html">source_record</a></li>
+        <li><a href="../types/summary.html">summary</a></li>
       </ul>
     </aside>
   </div>
@@ -377,6 +407,7 @@
   <script src="../_static/js/collection_controls.js?v=b6b5297a"></script>
   <script src="../_static/js/collection_directory.js?v=0928c9d3"></script>
   <script src="../_static/js/geometor_interactive.js?v=219c1955"></script>
+  <script src="../_static/js/book_outline.js?v=aca1ae7c"></script>
   <script src="../_static/js/search_highlight.js"></script>
 
 </body>
